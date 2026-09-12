@@ -1,0 +1,1183 @@
+
+=== PAGE 1 ===
+Shree Sawariya • 3,000-product catalogue blueprint Page 1
+SHREE SAWARIYA
+Master Hardware & Electrical Product Catalogue Blueprint
+3,000 product names across the full store range. This is a seed catalogue for Replit/database import. It is based on common Indian/Mumbai hardware-store categories and online catalogue structures. It does not claim that every SKU is currently stocked by Shree Sawariya.
+Photo rule: Use ONE representative image per category. Reuse that same category image for all products in that category initially. For example, all pipe SKUs can use one representative pipe image; all switch SKUs can use one representative switch image. Later, individual product images can be added without changing the catalogue structure.
+Total entries: 2,997    Categories: 37
+Category Entries
+Electrical Wires & Cables 81
+Switches & Sockets 81
+MCB RCCB DB & Protection 81
+Conduit Boxes & Electrical Fittings 81
+LED Lighting 81
+Fans Geysers & Electrical Appliances 81
+Plumbing Pipes 81
+Pipe Fittings 81
+Valves Taps & Plumbing Controls 81
+Sanitary & Bathroom Fittings 81
+Hand Tools 81
+Power Tools 81
+Tool Accessories & Blades 81
+Fasteners Screws 81
+Fasteners Nuts Bolts Washers 81
+Anchors Rivets & Nails 81
+Door Hardware 81
+Locks & Security Hardware 81
+Furniture & Cabinet Hardware 81
+Adhesives Sealants & Tapes 81
+Paints & Primers 81
+Paint Tools & Sundries 81
+Waterproofing & Construction Chemicals 81
+Cement Mortar & Civil Materials 81
+Plywood Boards & Laminates 81
+Glass Aluminium & Glazing Hardware 81
+Welding & Metalwork Supplies 81
+Abrasives & Cutting 81
+Safety PPE 81
+Ladders & Access Equipment 81
+Measuring & Marking Tools 81
+Garden & Outdoor Tools 81
+Cleaning & Maintenance Supplies 81
+
+=== PAGE 2 ===
+Shree Sawariya • 3,000-product catalogue blueprint Page 2
+Category Entries
+Chains Ropes & General Utility 81
+Kitchen Hardware & Fittings 81
+Electrical Accessories 81
+Home Repair & DIY 81
+
+=== PAGE 3 ===
+Shree Sawariya • 3,000-product catalogue blueprint Page 3
+Electrical Wires & Cables
+ONE representative category image can be reused for all products in this category initially.
+1. FR House Wire - 6 mm 2. FR House Wire - 8 mm 3. FR House Wire - 10 mm
+4. FR House Wire - 12 mm 5. FR House Wire - 16 mm 6. FR House Wire - 20 mm
+7. FR House Wire - 25 mm 8. FR House Wire - 32 mm 9. FR House Wire - 40 mm
+10. FR House Wire - 50 mm 11. FR House Wire - 1 inch 12. FR House Wire - 1.5 inch
+13. FR House Wire - 2 inch 14. FR House Wire - 3 inch 15. FR House Wire - 4 inch
+16. FR House Wire - 6 inch 17. FR House Wire - 1 m 18. FR House Wire - 2 m
+19. FR House Wire - 5 m 20. FR House Wire - 10 m 21. FR House Wire - 20 m
+22. FR House Wire - 50 m 23. FR House Wire - 100 m 24. FR House Wire - 1 Pc
+25. FR House Wire - 2 Pcs 26. FR House Wire - 5 Pcs 27. FR House Wire - 10 Pcs
+28. FR House Wire - 20 Pcs 29. FR House Wire - 50 Pcs 30. FR House Wire - 100 Pcs
+31. FR House Wire - 1 Kg 32. FR House Wire - 5 Kg 33. FR House Wire - 10 Kg
+34. FRLS House Wire - 6 mm 35. FRLS House Wire - 8 mm 36. FRLS House Wire - 10 mm
+37. FRLS House Wire - 12 mm 38. FRLS House Wire - 16 mm 39. FRLS House Wire - 20 mm
+40. FRLS House Wire - 25 mm 41. FRLS House Wire - 32 mm 42. FRLS House Wire - 40 mm
+43. FRLS House Wire - 50 mm 44. FRLS House Wire - 1 inch 45. FRLS House Wire - 1.5 inch
+46. FRLS House Wire - 2 inch 47. FRLS House Wire - 3 inch 48. FRLS House Wire - 4 inch
+49. FRLS House Wire - 6 inch 50. FRLS House Wire - 1 m 51. FRLS House Wire - 2 m
+52. FRLS House Wire - 5 m 53. FRLS House Wire - 10 m 54. FRLS House Wire - 20 m
+55. FRLS House Wire - 50 m 56. FRLS House Wire - 100 m 57. FRLS House Wire - 1 Pc
+58. FRLS House Wire - 2 Pcs 59. FRLS House Wire - 5 Pcs 60. FRLS House Wire - 10 Pcs
+61. FRLS House Wire - 20 Pcs 62. FRLS House Wire - 50 Pcs 63. FRLS House Wire - 100 Pcs
+64. FRLS House Wire - 1 Kg 65. FRLS House Wire - 5 Kg 66. FRLS House Wire - 10 Kg
+67. PVC Insulated Copper Wire - 6 mm 68. PVC Insulated Copper Wire - 8 mm 69. PVC Insulated Copper Wire - 10 mm
+70. PVC Insulated Copper Wire - 12 mm 71. PVC Insulated Copper Wire - 16 mm 72. PVC Insulated Copper Wire - 20 mm
+73. PVC Insulated Copper Wire - 25 mm 74. PVC Insulated Copper Wire - 32 mm 75. PVC Insulated Copper Wire - 40 mm
+76. PVC Insulated Copper Wire - 50 mm 77. PVC Insulated Copper Wire - 1 inch 78. PVC Insulated Copper Wire - 1.5 inch
+79. PVC Insulated Copper Wire - 2 inch 80. PVC Insulated Copper Wire - 3 inch 81. FR House Wire - Heavy Duty
+Switches & Sockets
+ONE representative category image can be reused for all products in this category initially.
+1. 1-Way Switch - 6 mm 2. 1-Way Switch - 8 mm 3. 1-Way Switch - 10 mm
+4. 1-Way Switch - 12 mm 5. 1-Way Switch - 16 mm 6. 1-Way Switch - 20 mm
+7. 1-Way Switch - 25 mm 8. 1-Way Switch - 32 mm 9. 1-Way Switch - 40 mm
+10. 1-Way Switch - 50 mm 11. 1-Way Switch - 1 inch 12. 1-Way Switch - 1.5 inch
+13. 1-Way Switch - 2 inch 14. 1-Way Switch - 3 inch 15. 1-Way Switch - 4 inch
+16. 1-Way Switch - 6 inch 17. 1-Way Switch - 1 m 18. 1-Way Switch - 2 m
+19. 1-Way Switch - 5 m 20. 1-Way Switch - 10 m 21. 1-Way Switch - 20 m
+22. 1-Way Switch - 50 m 23. 1-Way Switch - 100 m 24. 1-Way Switch - 1 Pc
+25. 1-Way Switch - 2 Pcs 26. 1-Way Switch - 5 Pcs 27. 1-Way Switch - 10 Pcs
+28. 1-Way Switch - 20 Pcs 29. 1-Way Switch - 50 Pcs 30. 1-Way Switch - 100 Pcs
+31. 1-Way Switch - 1 Kg 32. 1-Way Switch - 5 Kg 33. 1-Way Switch - 10 Kg
+34. 2-Way Switch - 6 mm 35. 2-Way Switch - 8 mm 36. 2-Way Switch - 10 mm
+37. 2-Way Switch - 12 mm 38. 2-Way Switch - 16 mm 39. 2-Way Switch - 20 mm
+40. 2-Way Switch - 25 mm 41. 2-Way Switch - 32 mm 42. 2-Way Switch - 40 mm
+43. 2-Way Switch - 50 mm 44. 2-Way Switch - 1 inch 45. 2-Way Switch - 1.5 inch
+46. 2-Way Switch - 2 inch 47. 2-Way Switch - 3 inch 48. 2-Way Switch - 4 inch
+49. 2-Way Switch - 6 inch 50. 2-Way Switch - 1 m 51. 2-Way Switch - 2 m
+52. 2-Way Switch - 5 m 53. 2-Way Switch - 10 m 54. 2-Way Switch - 20 m
+55. 2-Way Switch - 50 m 56. 2-Way Switch - 100 m 57. 2-Way Switch - 1 Pc
+58. 2-Way Switch - 2 Pcs 59. 2-Way Switch - 5 Pcs 60. 2-Way Switch - 10 Pcs
+61. 2-Way Switch - 20 Pcs 62. 2-Way Switch - 50 Pcs 63. 2-Way Switch - 100 Pcs
+64. 2-Way Switch - 1 Kg 65. 2-Way Switch - 5 Kg 66. 2-Way Switch - 10 Kg
+67. Intermediate Switch - 6 mm 68. Intermediate Switch - 8 mm 69. Intermediate Switch - 10 mm
+70. Intermediate Switch - 12 mm 71. Intermediate Switch - 16 mm 72. Intermediate Switch - 20 mm
+73. Intermediate Switch - 25 mm 74. Intermediate Switch - 32 mm 75. Intermediate Switch - 40 mm
+76. Intermediate Switch - 50 mm 77. Intermediate Switch - 1 inch 78. Intermediate Switch - 1.5 inch
+79. Intermediate Switch - 2 inch 80. Intermediate Switch - 3 inch 81. 1-Way Switch - Heavy Duty
+MCB RCCB DB & Protection
+
+=== PAGE 4 ===
+Shree Sawariya • 3,000-product catalogue blueprint Page 4
+ONE representative category image can be reused for all products in this category initially.
+1. SP MCB - 6 mm 2. SP MCB - 8 mm 3. SP MCB - 10 mm
+4. SP MCB - 12 mm 5. SP MCB - 16 mm 6. SP MCB - 20 mm
+7. SP MCB - 25 mm 8. SP MCB - 32 mm 9. SP MCB - 40 mm
+10. SP MCB - 50 mm 11. SP MCB - 1 inch 12. SP MCB - 1.5 inch
+13. SP MCB - 2 inch 14. SP MCB - 3 inch 15. SP MCB - 4 inch
+16. SP MCB - 6 inch 17. SP MCB - 1 m 18. SP MCB - 2 m
+19. SP MCB - 5 m 20. SP MCB - 10 m 21. SP MCB - 20 m
+22. SP MCB - 50 m 23. SP MCB - 100 m 24. SP MCB - 1 Pc
+25. SP MCB - 2 Pcs 26. SP MCB - 5 Pcs 27. SP MCB - 10 Pcs
+28. SP MCB - 20 Pcs 29. SP MCB - 50 Pcs 30. SP MCB - 100 Pcs
+31. SP MCB - 1 Kg 32. SP MCB - 5 Kg 33. SP MCB - 10 Kg
+34. DP MCB - 6 mm 35. DP MCB - 8 mm 36. DP MCB - 10 mm
+37. DP MCB - 12 mm 38. DP MCB - 16 mm 39. DP MCB - 20 mm
+40. DP MCB - 25 mm 41. DP MCB - 32 mm 42. DP MCB - 40 mm
+43. DP MCB - 50 mm 44. DP MCB - 1 inch 45. DP MCB - 1.5 inch
+46. DP MCB - 2 inch 47. DP MCB - 3 inch 48. DP MCB - 4 inch
+49. DP MCB - 6 inch 50. DP MCB - 1 m 51. DP MCB - 2 m
+52. DP MCB - 5 m 53. DP MCB - 10 m 54. DP MCB - 20 m
+55. DP MCB - 50 m 56. DP MCB - 100 m 57. DP MCB - 1 Pc
+58. DP MCB - 2 Pcs 59. DP MCB - 5 Pcs 60. DP MCB - 10 Pcs
+61. DP MCB - 20 Pcs 62. DP MCB - 50 Pcs 63. DP MCB - 100 Pcs
+64. DP MCB - 1 Kg 65. DP MCB - 5 Kg 66. DP MCB - 10 Kg
+67. TP MCB - 6 mm 68. TP MCB - 8 mm 69. TP MCB - 10 mm
+70. TP MCB - 12 mm 71. TP MCB - 16 mm 72. TP MCB - 20 mm
+73. TP MCB - 25 mm 74. TP MCB - 32 mm 75. TP MCB - 40 mm
+76. TP MCB - 50 mm 77. TP MCB - 1 inch 78. TP MCB - 1.5 inch
+79. TP MCB - 2 inch 80. TP MCB - 3 inch 81. SP MCB - Heavy Duty
+Conduit Boxes & Electrical Fittings
+ONE representative category image can be reused for all products in this category initially.
+1. PVC Conduit Pipe - 6 mm 2. PVC Conduit Pipe - 8 mm 3. PVC Conduit Pipe - 10 mm
+4. PVC Conduit Pipe - 12 mm 5. PVC Conduit Pipe - 16 mm 6. PVC Conduit Pipe - 20 mm
+7. PVC Conduit Pipe - 25 mm 8. PVC Conduit Pipe - 32 mm 9. PVC Conduit Pipe - 40 mm
+10. PVC Conduit Pipe - 50 mm 11. PVC Conduit Pipe - 1 inch 12. PVC Conduit Pipe - 1.5 inch
+13. PVC Conduit Pipe - 2 inch 14. PVC Conduit Pipe - 3 inch 15. PVC Conduit Pipe - 4 inch
+16. PVC Conduit Pipe - 6 inch 17. PVC Conduit Pipe - 1 m 18. PVC Conduit Pipe - 2 m
+19. PVC Conduit Pipe - 5 m 20. PVC Conduit Pipe - 10 m 21. PVC Conduit Pipe - 20 m
+22. PVC Conduit Pipe - 50 m 23. PVC Conduit Pipe - 100 m 24. PVC Conduit Pipe - 1 Pc
+25. PVC Conduit Pipe - 2 Pcs 26. PVC Conduit Pipe - 5 Pcs 27. PVC Conduit Pipe - 10 Pcs
+28. PVC Conduit Pipe - 20 Pcs 29. PVC Conduit Pipe - 50 Pcs 30. PVC Conduit Pipe - 100 Pcs
+31. PVC Conduit Pipe - 1 Kg 32. PVC Conduit Pipe - 5 Kg 33. PVC Conduit Pipe - 10 Kg
+34. Heavy PVC Conduit - 6 mm 35. Heavy PVC Conduit - 8 mm 36. Heavy PVC Conduit - 10 mm
+37. Heavy PVC Conduit - 12 mm 38. Heavy PVC Conduit - 16 mm 39. Heavy PVC Conduit - 20 mm
+40. Heavy PVC Conduit - 25 mm 41. Heavy PVC Conduit - 32 mm 42. Heavy PVC Conduit - 40 mm
+43. Heavy PVC Conduit - 50 mm 44. Heavy PVC Conduit - 1 inch 45. Heavy PVC Conduit - 1.5 inch
+46. Heavy PVC Conduit - 2 inch 47. Heavy PVC Conduit - 3 inch 48. Heavy PVC Conduit - 4 inch
+49. Heavy PVC Conduit - 6 inch 50. Heavy PVC Conduit - 1 m 51. Heavy PVC Conduit - 2 m
+52. Heavy PVC Conduit - 5 m 53. Heavy PVC Conduit - 10 m 54. Heavy PVC Conduit - 20 m
+55. Heavy PVC Conduit - 50 m 56. Heavy PVC Conduit - 100 m 57. Heavy PVC Conduit - 1 Pc
+58. Heavy PVC Conduit - 2 Pcs 59. Heavy PVC Conduit - 5 Pcs 60. Heavy PVC Conduit - 10 Pcs
+61. Heavy PVC Conduit - 20 Pcs 62. Heavy PVC Conduit - 50 Pcs 63. Heavy PVC Conduit - 100 Pcs
+64. Heavy PVC Conduit - 1 Kg 65. Heavy PVC Conduit - 5 Kg 66. Heavy PVC Conduit - 10 Kg
+67. Flexible Conduit - 6 mm 68. Flexible Conduit - 8 mm 69. Flexible Conduit - 10 mm
+70. Flexible Conduit - 12 mm 71. Flexible Conduit - 16 mm 72. Flexible Conduit - 20 mm
+73. Flexible Conduit - 25 mm 74. Flexible Conduit - 32 mm 75. Flexible Conduit - 40 mm
+76. Flexible Conduit - 50 mm 77. Flexible Conduit - 1 inch 78. Flexible Conduit - 1.5 inch
+79. Flexible Conduit - 2 inch 80. Flexible Conduit - 3 inch 81. PVC Conduit Pipe - Heavy Duty
+LED Lighting
+ONE representative category image can be reused for all products in this category initially.
+1. LED Bulb - 6 mm 2. LED Bulb - 8 mm 3. LED Bulb - 10 mm
+
+=== PAGE 5 ===
+Shree Sawariya • 3,000-product catalogue blueprint Page 5
+4. LED Bulb - 12 mm 5. LED Bulb - 16 mm 6. LED Bulb - 20 mm
+7. LED Bulb - 25 mm 8. LED Bulb - 32 mm 9. LED Bulb - 40 mm
+10. LED Bulb - 50 mm 11. LED Bulb - 1 inch 12. LED Bulb - 1.5 inch
+13. LED Bulb - 2 inch 14. LED Bulb - 3 inch 15. LED Bulb - 4 inch
+16. LED Bulb - 6 inch 17. LED Bulb - 1 m 18. LED Bulb - 2 m
+19. LED Bulb - 5 m 20. LED Bulb - 10 m 21. LED Bulb - 20 m
+22. LED Bulb - 50 m 23. LED Bulb - 100 m 24. LED Bulb - 1 Pc
+25. LED Bulb - 2 Pcs 26. LED Bulb - 5 Pcs 27. LED Bulb - 10 Pcs
+28. LED Bulb - 20 Pcs 29. LED Bulb - 50 Pcs 30. LED Bulb - 100 Pcs
+31. LED Bulb - 1 Kg 32. LED Bulb - 5 Kg 33. LED Bulb - 10 Kg
+34. LED Tube Light - 6 mm 35. LED Tube Light - 8 mm 36. LED Tube Light - 10 mm
+37. LED Tube Light - 12 mm 38. LED Tube Light - 16 mm 39. LED Tube Light - 20 mm
+40. LED Tube Light - 25 mm 41. LED Tube Light - 32 mm 42. LED Tube Light - 40 mm
+43. LED Tube Light - 50 mm 44. LED Tube Light - 1 inch 45. LED Tube Light - 1.5 inch
+46. LED Tube Light - 2 inch 47. LED Tube Light - 3 inch 48. LED Tube Light - 4 inch
+49. LED Tube Light - 6 inch 50. LED Tube Light - 1 m 51. LED Tube Light - 2 m
+52. LED Tube Light - 5 m 53. LED Tube Light - 10 m 54. LED Tube Light - 20 m
+55. LED Tube Light - 50 m 56. LED Tube Light - 100 m 57. LED Tube Light - 1 Pc
+58. LED Tube Light - 2 Pcs 59. LED Tube Light - 5 Pcs 60. LED Tube Light - 10 Pcs
+61. LED Tube Light - 20 Pcs 62. LED Tube Light - 50 Pcs 63. LED Tube Light - 100 Pcs
+64. LED Tube Light - 1 Kg 65. LED Tube Light - 5 Kg 66. LED Tube Light - 10 Kg
+67. LED Batten - 6 mm 68. LED Batten - 8 mm 69. LED Batten - 10 mm
+70. LED Batten - 12 mm 71. LED Batten - 16 mm 72. LED Batten - 20 mm
+73. LED Batten - 25 mm 74. LED Batten - 32 mm 75. LED Batten - 40 mm
+76. LED Batten - 50 mm 77. LED Batten - 1 inch 78. LED Batten - 1.5 inch
+79. LED Batten - 2 inch 80. LED Batten - 3 inch 81. LED Bulb - Heavy Duty
+Fans Geysers & Electrical Appliances
+ONE representative category image can be reused for all products in this category initially.
+1. Ceiling Fan - 6 mm 2. Ceiling Fan - 8 mm 3. Ceiling Fan - 10 mm
+4. Ceiling Fan - 12 mm 5. Ceiling Fan - 16 mm 6. Ceiling Fan - 20 mm
+7. Ceiling Fan - 25 mm 8. Ceiling Fan - 32 mm 9. Ceiling Fan - 40 mm
+10. Ceiling Fan - 50 mm 11. Ceiling Fan - 1 inch 12. Ceiling Fan - 1.5 inch
+13. Ceiling Fan - 2 inch 14. Ceiling Fan - 3 inch 15. Ceiling Fan - 4 inch
+16. Ceiling Fan - 6 inch 17. Ceiling Fan - 1 m 18. Ceiling Fan - 2 m
+19. Ceiling Fan - 5 m 20. Ceiling Fan - 10 m 21. Ceiling Fan - 20 m
+22. Ceiling Fan - 50 m 23. Ceiling Fan - 100 m 24. Ceiling Fan - 1 Pc
+25. Ceiling Fan - 2 Pcs 26. Ceiling Fan - 5 Pcs 27. Ceiling Fan - 10 Pcs
+28. Ceiling Fan - 20 Pcs 29. Ceiling Fan - 50 Pcs 30. Ceiling Fan - 100 Pcs
+31. Ceiling Fan - 1 Kg 32. Ceiling Fan - 5 Kg 33. Ceiling Fan - 10 Kg
+34. Exhaust Fan - 6 mm 35. Exhaust Fan - 8 mm 36. Exhaust Fan - 10 mm
+37. Exhaust Fan - 12 mm 38. Exhaust Fan - 16 mm 39. Exhaust Fan - 20 mm
+40. Exhaust Fan - 25 mm 41. Exhaust Fan - 32 mm 42. Exhaust Fan - 40 mm
+43. Exhaust Fan - 50 mm 44. Exhaust Fan - 1 inch 45. Exhaust Fan - 1.5 inch
+46. Exhaust Fan - 2 inch 47. Exhaust Fan - 3 inch 48. Exhaust Fan - 4 inch
+49. Exhaust Fan - 6 inch 50. Exhaust Fan - 1 m 51. Exhaust Fan - 2 m
+52. Exhaust Fan - 5 m 53. Exhaust Fan - 10 m 54. Exhaust Fan - 20 m
+55. Exhaust Fan - 50 m 56. Exhaust Fan - 100 m 57. Exhaust Fan - 1 Pc
+58. Exhaust Fan - 2 Pcs 59. Exhaust Fan - 5 Pcs 60. Exhaust Fan - 10 Pcs
+61. Exhaust Fan - 20 Pcs 62. Exhaust Fan - 50 Pcs 63. Exhaust Fan - 100 Pcs
+64. Exhaust Fan - 1 Kg 65. Exhaust Fan - 5 Kg 66. Exhaust Fan - 10 Kg
+67. Wall Fan - 6 mm 68. Wall Fan - 8 mm 69. Wall Fan - 10 mm
+70. Wall Fan - 12 mm 71. Wall Fan - 16 mm 72. Wall Fan - 20 mm
+73. Wall Fan - 25 mm 74. Wall Fan - 32 mm 75. Wall Fan - 40 mm
+76. Wall Fan - 50 mm 77. Wall Fan - 1 inch 78. Wall Fan - 1.5 inch
+79. Wall Fan - 2 inch 80. Wall Fan - 3 inch 81. Ceiling Fan - Heavy Duty
+Plumbing Pipes
+ONE representative category image can be reused for all products in this category initially.
+1. PVC Pipe - 6 mm 2. PVC Pipe - 8 mm 3. PVC Pipe - 10 mm
+4. PVC Pipe - 12 mm 5. PVC Pipe - 16 mm 6. PVC Pipe - 20 mm
+7. PVC Pipe - 25 mm 8. PVC Pipe - 32 mm 9. PVC Pipe - 40 mm
+
+=== PAGE 6 ===
+Shree Sawariya • 3,000-product catalogue blueprint Page 6
+10. PVC Pipe - 50 mm 11. PVC Pipe - 1 inch 12. PVC Pipe - 1.5 inch
+13. PVC Pipe - 2 inch 14. PVC Pipe - 3 inch 15. PVC Pipe - 4 inch
+16. PVC Pipe - 6 inch 17. PVC Pipe - 1 m 18. PVC Pipe - 2 m
+19. PVC Pipe - 5 m 20. PVC Pipe - 10 m 21. PVC Pipe - 20 m
+22. PVC Pipe - 50 m 23. PVC Pipe - 100 m 24. PVC Pipe - 1 Pc
+25. PVC Pipe - 2 Pcs 26. PVC Pipe - 5 Pcs 27. PVC Pipe - 10 Pcs
+28. PVC Pipe - 20 Pcs 29. PVC Pipe - 50 Pcs 30. PVC Pipe - 100 Pcs
+31. PVC Pipe - 1 Kg 32. PVC Pipe - 5 Kg 33. PVC Pipe - 10 Kg
+34. CPVC Pipe - 6 mm 35. CPVC Pipe - 8 mm 36. CPVC Pipe - 10 mm
+37. CPVC Pipe - 12 mm 38. CPVC Pipe - 16 mm 39. CPVC Pipe - 20 mm
+40. CPVC Pipe - 25 mm 41. CPVC Pipe - 32 mm 42. CPVC Pipe - 40 mm
+43. CPVC Pipe - 50 mm 44. CPVC Pipe - 1 inch 45. CPVC Pipe - 1.5 inch
+46. CPVC Pipe - 2 inch 47. CPVC Pipe - 3 inch 48. CPVC Pipe - 4 inch
+49. CPVC Pipe - 6 inch 50. CPVC Pipe - 1 m 51. CPVC Pipe - 2 m
+52. CPVC Pipe - 5 m 53. CPVC Pipe - 10 m 54. CPVC Pipe - 20 m
+55. CPVC Pipe - 50 m 56. CPVC Pipe - 100 m 57. CPVC Pipe - 1 Pc
+58. CPVC Pipe - 2 Pcs 59. CPVC Pipe - 5 Pcs 60. CPVC Pipe - 10 Pcs
+61. CPVC Pipe - 20 Pcs 62. CPVC Pipe - 50 Pcs 63. CPVC Pipe - 100 Pcs
+64. CPVC Pipe - 1 Kg 65. CPVC Pipe - 5 Kg 66. CPVC Pipe - 10 Kg
+67. UPVC Pipe - 6 mm 68. UPVC Pipe - 8 mm 69. UPVC Pipe - 10 mm
+70. UPVC Pipe - 12 mm 71. UPVC Pipe - 16 mm 72. UPVC Pipe - 20 mm
+73. UPVC Pipe - 25 mm 74. UPVC Pipe - 32 mm 75. UPVC Pipe - 40 mm
+76. UPVC Pipe - 50 mm 77. UPVC Pipe - 1 inch 78. UPVC Pipe - 1.5 inch
+79. UPVC Pipe - 2 inch 80. UPVC Pipe - 3 inch 81. PVC Pipe - Heavy Duty
+Pipe Fittings
+ONE representative category image can be reused for all products in this category initially.
+1. 90 Degree Elbow - 6 mm 2. 90 Degree Elbow - 8 mm 3. 90 Degree Elbow - 10 mm
+4. 90 Degree Elbow - 12 mm 5. 90 Degree Elbow - 16 mm 6. 90 Degree Elbow - 20 mm
+7. 90 Degree Elbow - 25 mm 8. 90 Degree Elbow - 32 mm 9. 90 Degree Elbow - 40 mm
+10. 90 Degree Elbow - 50 mm 11. 90 Degree Elbow - 1 inch 12. 90 Degree Elbow - 1.5 inch
+13. 90 Degree Elbow - 2 inch 14. 90 Degree Elbow - 3 inch 15. 90 Degree Elbow - 4 inch
+16. 90 Degree Elbow - 6 inch 17. 90 Degree Elbow - 1 m 18. 90 Degree Elbow - 2 m
+19. 90 Degree Elbow - 5 m 20. 90 Degree Elbow - 10 m 21. 90 Degree Elbow - 20 m
+22. 90 Degree Elbow - 50 m 23. 90 Degree Elbow - 100 m 24. 90 Degree Elbow - 1 Pc
+25. 90 Degree Elbow - 2 Pcs 26. 90 Degree Elbow - 5 Pcs 27. 90 Degree Elbow - 10 Pcs
+28. 90 Degree Elbow - 20 Pcs 29. 90 Degree Elbow - 50 Pcs 30. 90 Degree Elbow - 100 Pcs
+31. 90 Degree Elbow - 1 Kg 32. 90 Degree Elbow - 5 Kg 33. 90 Degree Elbow - 10 Kg
+34. 45 Degree Elbow - 6 mm 35. 45 Degree Elbow - 8 mm 36. 45 Degree Elbow - 10 mm
+37. 45 Degree Elbow - 12 mm 38. 45 Degree Elbow - 16 mm 39. 45 Degree Elbow - 20 mm
+40. 45 Degree Elbow - 25 mm 41. 45 Degree Elbow - 32 mm 42. 45 Degree Elbow - 40 mm
+43. 45 Degree Elbow - 50 mm 44. 45 Degree Elbow - 1 inch 45. 45 Degree Elbow - 1.5 inch
+46. 45 Degree Elbow - 2 inch 47. 45 Degree Elbow - 3 inch 48. 45 Degree Elbow - 4 inch
+49. 45 Degree Elbow - 6 inch 50. 45 Degree Elbow - 1 m 51. 45 Degree Elbow - 2 m
+52. 45 Degree Elbow - 5 m 53. 45 Degree Elbow - 10 m 54. 45 Degree Elbow - 20 m
+55. 45 Degree Elbow - 50 m 56. 45 Degree Elbow - 100 m 57. 45 Degree Elbow - 1 Pc
+58. 45 Degree Elbow - 2 Pcs 59. 45 Degree Elbow - 5 Pcs 60. 45 Degree Elbow - 10 Pcs
+61. 45 Degree Elbow - 20 Pcs 62. 45 Degree Elbow - 50 Pcs 63. 45 Degree Elbow - 100 Pcs
+64. 45 Degree Elbow - 1 Kg 65. 45 Degree Elbow - 5 Kg 66. 45 Degree Elbow - 10 Kg
+67. Equal Tee - 6 mm 68. Equal Tee - 8 mm 69. Equal Tee - 10 mm
+70. Equal Tee - 12 mm 71. Equal Tee - 16 mm 72. Equal Tee - 20 mm
+73. Equal Tee - 25 mm 74. Equal Tee - 32 mm 75. Equal Tee - 40 mm
+76. Equal Tee - 50 mm 77. Equal Tee - 1 inch 78. Equal Tee - 1.5 inch
+79. Equal Tee - 2 inch 80. Equal Tee - 3 inch 81. 90 Degree Elbow - Heavy Duty
+Valves Taps & Plumbing Controls
+ONE representative category image can be reused for all products in this category initially.
+1. Ball Valve - 6 mm 2. Ball Valve - 8 mm 3. Ball Valve - 10 mm
+4. Ball Valve - 12 mm 5. Ball Valve - 16 mm 6. Ball Valve - 20 mm
+7. Ball Valve - 25 mm 8. Ball Valve - 32 mm 9. Ball Valve - 40 mm
+10. Ball Valve - 50 mm 11. Ball Valve - 1 inch 12. Ball Valve - 1.5 inch
+13. Ball Valve - 2 inch 14. Ball Valve - 3 inch 15. Ball Valve - 4 inch
+
+=== PAGE 7 ===
+Shree Sawariya • 3,000-product catalogue blueprint Page 7
+16. Ball Valve - 6 inch 17. Ball Valve - 1 m 18. Ball Valve - 2 m
+19. Ball Valve - 5 m 20. Ball Valve - 10 m 21. Ball Valve - 20 m
+22. Ball Valve - 50 m 23. Ball Valve - 100 m 24. Ball Valve - 1 Pc
+25. Ball Valve - 2 Pcs 26. Ball Valve - 5 Pcs 27. Ball Valve - 10 Pcs
+28. Ball Valve - 20 Pcs 29. Ball Valve - 50 Pcs 30. Ball Valve - 100 Pcs
+31. Ball Valve - 1 Kg 32. Ball Valve - 5 Kg 33. Ball Valve - 10 Kg
+34. Gate Valve - 6 mm 35. Gate Valve - 8 mm 36. Gate Valve - 10 mm
+37. Gate Valve - 12 mm 38. Gate Valve - 16 mm 39. Gate Valve - 20 mm
+40. Gate Valve - 25 mm 41. Gate Valve - 32 mm 42. Gate Valve - 40 mm
+43. Gate Valve - 50 mm 44. Gate Valve - 1 inch 45. Gate Valve - 1.5 inch
+46. Gate Valve - 2 inch 47. Gate Valve - 3 inch 48. Gate Valve - 4 inch
+49. Gate Valve - 6 inch 50. Gate Valve - 1 m 51. Gate Valve - 2 m
+52. Gate Valve - 5 m 53. Gate Valve - 10 m 54. Gate Valve - 20 m
+55. Gate Valve - 50 m 56. Gate Valve - 100 m 57. Gate Valve - 1 Pc
+58. Gate Valve - 2 Pcs 59. Gate Valve - 5 Pcs 60. Gate Valve - 10 Pcs
+61. Gate Valve - 20 Pcs 62. Gate Valve - 50 Pcs 63. Gate Valve - 100 Pcs
+64. Gate Valve - 1 Kg 65. Gate Valve - 5 Kg 66. Gate Valve - 10 Kg
+67. Globe Valve - 6 mm 68. Globe Valve - 8 mm 69. Globe Valve - 10 mm
+70. Globe Valve - 12 mm 71. Globe Valve - 16 mm 72. Globe Valve - 20 mm
+73. Globe Valve - 25 mm 74. Globe Valve - 32 mm 75. Globe Valve - 40 mm
+76. Globe Valve - 50 mm 77. Globe Valve - 1 inch 78. Globe Valve - 1.5 inch
+79. Globe Valve - 2 inch 80. Globe Valve - 3 inch 81. Ball Valve - Heavy Duty
+Sanitary & Bathroom Fittings
+ONE representative category image can be reused for all products in this category initially.
+1. Wash Basin - 6 mm 2. Wash Basin - 8 mm 3. Wash Basin - 10 mm
+4. Wash Basin - 12 mm 5. Wash Basin - 16 mm 6. Wash Basin - 20 mm
+7. Wash Basin - 25 mm 8. Wash Basin - 32 mm 9. Wash Basin - 40 mm
+10. Wash Basin - 50 mm 11. Wash Basin - 1 inch 12. Wash Basin - 1.5 inch
+13. Wash Basin - 2 inch 14. Wash Basin - 3 inch 15. Wash Basin - 4 inch
+16. Wash Basin - 6 inch 17. Wash Basin - 1 m 18. Wash Basin - 2 m
+19. Wash Basin - 5 m 20. Wash Basin - 10 m 21. Wash Basin - 20 m
+22. Wash Basin - 50 m 23. Wash Basin - 100 m 24. Wash Basin - 1 Pc
+25. Wash Basin - 2 Pcs 26. Wash Basin - 5 Pcs 27. Wash Basin - 10 Pcs
+28. Wash Basin - 20 Pcs 29. Wash Basin - 50 Pcs 30. Wash Basin - 100 Pcs
+31. Wash Basin - 1 Kg 32. Wash Basin - 5 Kg 33. Wash Basin - 10 Kg
+34. Pedestal Basin - 6 mm 35. Pedestal Basin - 8 mm 36. Pedestal Basin - 10 mm
+37. Pedestal Basin - 12 mm 38. Pedestal Basin - 16 mm 39. Pedestal Basin - 20 mm
+40. Pedestal Basin - 25 mm 41. Pedestal Basin - 32 mm 42. Pedestal Basin - 40 mm
+43. Pedestal Basin - 50 mm 44. Pedestal Basin - 1 inch 45. Pedestal Basin - 1.5 inch
+46. Pedestal Basin - 2 inch 47. Pedestal Basin - 3 inch 48. Pedestal Basin - 4 inch
+49. Pedestal Basin - 6 inch 50. Pedestal Basin - 1 m 51. Pedestal Basin - 2 m
+52. Pedestal Basin - 5 m 53. Pedestal Basin - 10 m 54. Pedestal Basin - 20 m
+55. Pedestal Basin - 50 m 56. Pedestal Basin - 100 m 57. Pedestal Basin - 1 Pc
+58. Pedestal Basin - 2 Pcs 59. Pedestal Basin - 5 Pcs 60. Pedestal Basin - 10 Pcs
+61. Pedestal Basin - 20 Pcs 62. Pedestal Basin - 50 Pcs 63. Pedestal Basin - 100 Pcs
+64. Pedestal Basin - 1 Kg 65. Pedestal Basin - 5 Kg 66. Pedestal Basin - 10 Kg
+67. Counter Basin - 6 mm 68. Counter Basin - 8 mm 69. Counter Basin - 10 mm
+70. Counter Basin - 12 mm 71. Counter Basin - 16 mm 72. Counter Basin - 20 mm
+73. Counter Basin - 25 mm 74. Counter Basin - 32 mm 75. Counter Basin - 40 mm
+76. Counter Basin - 50 mm 77. Counter Basin - 1 inch 78. Counter Basin - 1.5 inch
+79. Counter Basin - 2 inch 80. Counter Basin - 3 inch 81. Wash Basin - Heavy Duty
+Hand Tools
+ONE representative category image can be reused for all products in this category initially.
+1. Claw Hammer - 6 mm 2. Claw Hammer - 8 mm 3. Claw Hammer - 10 mm
+4. Claw Hammer - 12 mm 5. Claw Hammer - 16 mm 6. Claw Hammer - 20 mm
+7. Claw Hammer - 25 mm 8. Claw Hammer - 32 mm 9. Claw Hammer - 40 mm
+10. Claw Hammer - 50 mm 11. Claw Hammer - 1 inch 12. Claw Hammer - 1.5 inch
+13. Claw Hammer - 2 inch 14. Claw Hammer - 3 inch 15. Claw Hammer - 4 inch
+16. Claw Hammer - 6 inch 17. Claw Hammer - 1 m 18. Claw Hammer - 2 m
+19. Claw Hammer - 5 m 20. Claw Hammer - 10 m 21. Claw Hammer - 20 m
+
+=== PAGE 8 ===
+Shree Sawariya • 3,000-product catalogue blueprint Page 8
+22. Claw Hammer - 50 m 23. Claw Hammer - 100 m 24. Claw Hammer - 1 Pc
+25. Claw Hammer - 2 Pcs 26. Claw Hammer - 5 Pcs 27. Claw Hammer - 10 Pcs
+28. Claw Hammer - 20 Pcs 29. Claw Hammer - 50 Pcs 30. Claw Hammer - 100 Pcs
+31. Claw Hammer - 1 Kg 32. Claw Hammer - 5 Kg 33. Claw Hammer - 10 Kg
+34. Ball Peen Hammer - 6 mm 35. Ball Peen Hammer - 8 mm 36. Ball Peen Hammer - 10 mm
+37. Ball Peen Hammer - 12 mm 38. Ball Peen Hammer - 16 mm 39. Ball Peen Hammer - 20 mm
+40. Ball Peen Hammer - 25 mm 41. Ball Peen Hammer - 32 mm 42. Ball Peen Hammer - 40 mm
+43. Ball Peen Hammer - 50 mm 44. Ball Peen Hammer - 1 inch 45. Ball Peen Hammer - 1.5 inch
+46. Ball Peen Hammer - 2 inch 47. Ball Peen Hammer - 3 inch 48. Ball Peen Hammer - 4 inch
+49. Ball Peen Hammer - 6 inch 50. Ball Peen Hammer - 1 m 51. Ball Peen Hammer - 2 m
+52. Ball Peen Hammer - 5 m 53. Ball Peen Hammer - 10 m 54. Ball Peen Hammer - 20 m
+55. Ball Peen Hammer - 50 m 56. Ball Peen Hammer - 100 m 57. Ball Peen Hammer - 1 Pc
+58. Ball Peen Hammer - 2 Pcs 59. Ball Peen Hammer - 5 Pcs 60. Ball Peen Hammer - 10 Pcs
+61. Ball Peen Hammer - 20 Pcs 62. Ball Peen Hammer - 50 Pcs 63. Ball Peen Hammer - 100 Pcs
+64. Ball Peen Hammer - 1 Kg 65. Ball Peen Hammer - 5 Kg 66. Ball Peen Hammer - 10 Kg
+67. Cross Peen Hammer - 6 mm 68. Cross Peen Hammer - 8 mm 69. Cross Peen Hammer - 10 mm
+70. Cross Peen Hammer - 12 mm 71. Cross Peen Hammer - 16 mm 72. Cross Peen Hammer - 20 mm
+73. Cross Peen Hammer - 25 mm 74. Cross Peen Hammer - 32 mm 75. Cross Peen Hammer - 40 mm
+76. Cross Peen Hammer - 50 mm 77. Cross Peen Hammer - 1 inch 78. Cross Peen Hammer - 1.5 inch
+79. Cross Peen Hammer - 2 inch 80. Cross Peen Hammer - 3 inch 81. Claw Hammer - Heavy Duty
+Power Tools
+ONE representative category image can be reused for all products in this category initially.
+1. Cordless Drill - 6 mm 2. Cordless Drill - 8 mm 3. Cordless Drill - 10 mm
+4. Cordless Drill - 12 mm 5. Cordless Drill - 16 mm 6. Cordless Drill - 20 mm
+7. Cordless Drill - 25 mm 8. Cordless Drill - 32 mm 9. Cordless Drill - 40 mm
+10. Cordless Drill - 50 mm 11. Cordless Drill - 1 inch 12. Cordless Drill - 1.5 inch
+13. Cordless Drill - 2 inch 14. Cordless Drill - 3 inch 15. Cordless Drill - 4 inch
+16. Cordless Drill - 6 inch 17. Cordless Drill - 1 m 18. Cordless Drill - 2 m
+19. Cordless Drill - 5 m 20. Cordless Drill - 10 m 21. Cordless Drill - 20 m
+22. Cordless Drill - 50 m 23. Cordless Drill - 100 m 24. Cordless Drill - 1 Pc
+25. Cordless Drill - 2 Pcs 26. Cordless Drill - 5 Pcs 27. Cordless Drill - 10 Pcs
+28. Cordless Drill - 20 Pcs 29. Cordless Drill - 50 Pcs 30. Cordless Drill - 100 Pcs
+31. Cordless Drill - 1 Kg 32. Cordless Drill - 5 Kg 33. Cordless Drill - 10 Kg
+34. Impact Drill - 6 mm 35. Impact Drill - 8 mm 36. Impact Drill - 10 mm
+37. Impact Drill - 12 mm 38. Impact Drill - 16 mm 39. Impact Drill - 20 mm
+40. Impact Drill - 25 mm 41. Impact Drill - 32 mm 42. Impact Drill - 40 mm
+43. Impact Drill - 50 mm 44. Impact Drill - 1 inch 45. Impact Drill - 1.5 inch
+46. Impact Drill - 2 inch 47. Impact Drill - 3 inch 48. Impact Drill - 4 inch
+49. Impact Drill - 6 inch 50. Impact Drill - 1 m 51. Impact Drill - 2 m
+52. Impact Drill - 5 m 53. Impact Drill - 10 m 54. Impact Drill - 20 m
+55. Impact Drill - 50 m 56. Impact Drill - 100 m 57. Impact Drill - 1 Pc
+58. Impact Drill - 2 Pcs 59. Impact Drill - 5 Pcs 60. Impact Drill - 10 Pcs
+61. Impact Drill - 20 Pcs 62. Impact Drill - 50 Pcs 63. Impact Drill - 100 Pcs
+64. Impact Drill - 1 Kg 65. Impact Drill - 5 Kg 66. Impact Drill - 10 Kg
+67. Rotary Drill - 6 mm 68. Rotary Drill - 8 mm 69. Rotary Drill - 10 mm
+70. Rotary Drill - 12 mm 71. Rotary Drill - 16 mm 72. Rotary Drill - 20 mm
+73. Rotary Drill - 25 mm 74. Rotary Drill - 32 mm 75. Rotary Drill - 40 mm
+76. Rotary Drill - 50 mm 77. Rotary Drill - 1 inch 78. Rotary Drill - 1.5 inch
+79. Rotary Drill - 2 inch 80. Rotary Drill - 3 inch 81. Cordless Drill - Heavy Duty
+Tool Accessories & Blades
+ONE representative category image can be reused for all products in this category initially.
+1. Drill Bit - 6 mm 2. Drill Bit - 8 mm 3. Drill Bit - 10 mm
+4. Drill Bit - 12 mm 5. Drill Bit - 16 mm 6. Drill Bit - 20 mm
+7. Drill Bit - 25 mm 8. Drill Bit - 32 mm 9. Drill Bit - 40 mm
+10. Drill Bit - 50 mm 11. Drill Bit - 1 inch 12. Drill Bit - 1.5 inch
+13. Drill Bit - 2 inch 14. Drill Bit - 3 inch 15. Drill Bit - 4 inch
+16. Drill Bit - 6 inch 17. Drill Bit - 1 m 18. Drill Bit - 2 m
+19. Drill Bit - 5 m 20. Drill Bit - 10 m 21. Drill Bit - 20 m
+22. Drill Bit - 50 m 23. Drill Bit - 100 m 24. Drill Bit - 1 Pc
+25. Drill Bit - 2 Pcs 26. Drill Bit - 5 Pcs 27. Drill Bit - 10 Pcs
+
+=== PAGE 9 ===
+Shree Sawariya • 3,000-product catalogue blueprint Page 9
+28. Drill Bit - 20 Pcs 29. Drill Bit - 50 Pcs 30. Drill Bit - 100 Pcs
+31. Drill Bit - 1 Kg 32. Drill Bit - 5 Kg 33. Drill Bit - 10 Kg
+34. Masonry Drill Bit - 6 mm 35. Masonry Drill Bit - 8 mm 36. Masonry Drill Bit - 10 mm
+37. Masonry Drill Bit - 12 mm 38. Masonry Drill Bit - 16 mm 39. Masonry Drill Bit - 20 mm
+40. Masonry Drill Bit - 25 mm 41. Masonry Drill Bit - 32 mm 42. Masonry Drill Bit - 40 mm
+43. Masonry Drill Bit - 50 mm 44. Masonry Drill Bit - 1 inch 45. Masonry Drill Bit - 1.5 inch
+46. Masonry Drill Bit - 2 inch 47. Masonry Drill Bit - 3 inch 48. Masonry Drill Bit - 4 inch
+49. Masonry Drill Bit - 6 inch 50. Masonry Drill Bit - 1 m 51. Masonry Drill Bit - 2 m
+52. Masonry Drill Bit - 5 m 53. Masonry Drill Bit - 10 m 54. Masonry Drill Bit - 20 m
+55. Masonry Drill Bit - 50 m 56. Masonry Drill Bit - 100 m 57. Masonry Drill Bit - 1 Pc
+58. Masonry Drill Bit - 2 Pcs 59. Masonry Drill Bit - 5 Pcs 60. Masonry Drill Bit - 10 Pcs
+61. Masonry Drill Bit - 20 Pcs 62. Masonry Drill Bit - 50 Pcs 63. Masonry Drill Bit - 100 Pcs
+64. Masonry Drill Bit - 1 Kg 65. Masonry Drill Bit - 5 Kg 66. Masonry Drill Bit - 10 Kg
+67. HSS Drill Bit - 6 mm 68. HSS Drill Bit - 8 mm 69. HSS Drill Bit - 10 mm
+70. HSS Drill Bit - 12 mm 71. HSS Drill Bit - 16 mm 72. HSS Drill Bit - 20 mm
+73. HSS Drill Bit - 25 mm 74. HSS Drill Bit - 32 mm 75. HSS Drill Bit - 40 mm
+76. HSS Drill Bit - 50 mm 77. HSS Drill Bit - 1 inch 78. HSS Drill Bit - 1.5 inch
+79. HSS Drill Bit - 2 inch 80. HSS Drill Bit - 3 inch 81. Drill Bit - Heavy Duty
+Fasteners Screws
+ONE representative category image can be reused for all products in this category initially.
+1. Wood Screw - 6 mm 2. Wood Screw - 8 mm 3. Wood Screw - 10 mm
+4. Wood Screw - 12 mm 5. Wood Screw - 16 mm 6. Wood Screw - 20 mm
+7. Wood Screw - 25 mm 8. Wood Screw - 32 mm 9. Wood Screw - 40 mm
+10. Wood Screw - 50 mm 11. Wood Screw - 1 inch 12. Wood Screw - 1.5 inch
+13. Wood Screw - 2 inch 14. Wood Screw - 3 inch 15. Wood Screw - 4 inch
+16. Wood Screw - 6 inch 17. Wood Screw - 1 m 18. Wood Screw - 2 m
+19. Wood Screw - 5 m 20. Wood Screw - 10 m 21. Wood Screw - 20 m
+22. Wood Screw - 50 m 23. Wood Screw - 100 m 24. Wood Screw - 1 Pc
+25. Wood Screw - 2 Pcs 26. Wood Screw - 5 Pcs 27. Wood Screw - 10 Pcs
+28. Wood Screw - 20 Pcs 29. Wood Screw - 50 Pcs 30. Wood Screw - 100 Pcs
+31. Wood Screw - 1 Kg 32. Wood Screw - 5 Kg 33. Wood Screw - 10 Kg
+34. Self Tapping Screw - 6 mm 35. Self Tapping Screw - 8 mm 36. Self Tapping Screw - 10 mm
+37. Self Tapping Screw - 12 mm 38. Self Tapping Screw - 16 mm 39. Self Tapping Screw - 20 mm
+40. Self Tapping Screw - 25 mm 41. Self Tapping Screw - 32 mm 42. Self Tapping Screw - 40 mm
+43. Self Tapping Screw - 50 mm 44. Self Tapping Screw - 1 inch 45. Self Tapping Screw - 1.5 inch
+46. Self Tapping Screw - 2 inch 47. Self Tapping Screw - 3 inch 48. Self Tapping Screw - 4 inch
+49. Self Tapping Screw - 6 inch 50. Self Tapping Screw - 1 m 51. Self Tapping Screw - 2 m
+52. Self Tapping Screw - 5 m 53. Self Tapping Screw - 10 m 54. Self Tapping Screw - 20 m
+55. Self Tapping Screw - 50 m 56. Self Tapping Screw - 100 m 57. Self Tapping Screw - 1 Pc
+58. Self Tapping Screw - 2 Pcs 59. Self Tapping Screw - 5 Pcs 60. Self Tapping Screw - 10 Pcs
+61. Self Tapping Screw - 20 Pcs 62. Self Tapping Screw - 50 Pcs 63. Self Tapping Screw - 100 Pcs
+64. Self Tapping Screw - 1 Kg 65. Self Tapping Screw - 5 Kg 66. Self Tapping Screw - 10 Kg
+67. Self Drilling Screw - 6 mm 68. Self Drilling Screw - 8 mm 69. Self Drilling Screw - 10 mm
+70. Self Drilling Screw - 12 mm 71. Self Drilling Screw - 16 mm 72. Self Drilling Screw - 20 mm
+73. Self Drilling Screw - 25 mm 74. Self Drilling Screw - 32 mm 75. Self Drilling Screw - 40 mm
+76. Self Drilling Screw - 50 mm 77. Self Drilling Screw - 1 inch 78. Self Drilling Screw - 1.5 inch
+79. Self Drilling Screw - 2 inch 80. Self Drilling Screw - 3 inch 81. Wood Screw - Heavy Duty
+Fasteners Nuts Bolts Washers
+ONE representative category image can be reused for all products in this category initially.
+1. Hex Bolt - 6 mm 2. Hex Bolt - 8 mm 3. Hex Bolt - 10 mm
+4. Hex Bolt - 12 mm 5. Hex Bolt - 16 mm 6. Hex Bolt - 20 mm
+7. Hex Bolt - 25 mm 8. Hex Bolt - 32 mm 9. Hex Bolt - 40 mm
+10. Hex Bolt - 50 mm 11. Hex Bolt - 1 inch 12. Hex Bolt - 1.5 inch
+13. Hex Bolt - 2 inch 14. Hex Bolt - 3 inch 15. Hex Bolt - 4 inch
+16. Hex Bolt - 6 inch 17. Hex Bolt - 1 m 18. Hex Bolt - 2 m
+19. Hex Bolt - 5 m 20. Hex Bolt - 10 m 21. Hex Bolt - 20 m
+22. Hex Bolt - 50 m 23. Hex Bolt - 100 m 24. Hex Bolt - 1 Pc
+25. Hex Bolt - 2 Pcs 26. Hex Bolt - 5 Pcs 27. Hex Bolt - 10 Pcs
+28. Hex Bolt - 20 Pcs 29. Hex Bolt - 50 Pcs 30. Hex Bolt - 100 Pcs
+31. Hex Bolt - 1 Kg 32. Hex Bolt - 5 Kg 33. Hex Bolt - 10 Kg
+
+=== PAGE 10 ===
+Shree Sawariya • 3,000-product catalogue blueprint Page 10
+34. Carriage Bolt - 6 mm 35. Carriage Bolt - 8 mm 36. Carriage Bolt - 10 mm
+37. Carriage Bolt - 12 mm 38. Carriage Bolt - 16 mm 39. Carriage Bolt - 20 mm
+40. Carriage Bolt - 25 mm 41. Carriage Bolt - 32 mm 42. Carriage Bolt - 40 mm
+43. Carriage Bolt - 50 mm 44. Carriage Bolt - 1 inch 45. Carriage Bolt - 1.5 inch
+46. Carriage Bolt - 2 inch 47. Carriage Bolt - 3 inch 48. Carriage Bolt - 4 inch
+49. Carriage Bolt - 6 inch 50. Carriage Bolt - 1 m 51. Carriage Bolt - 2 m
+52. Carriage Bolt - 5 m 53. Carriage Bolt - 10 m 54. Carriage Bolt - 20 m
+55. Carriage Bolt - 50 m 56. Carriage Bolt - 100 m 57. Carriage Bolt - 1 Pc
+58. Carriage Bolt - 2 Pcs 59. Carriage Bolt - 5 Pcs 60. Carriage Bolt - 10 Pcs
+61. Carriage Bolt - 20 Pcs 62. Carriage Bolt - 50 Pcs 63. Carriage Bolt - 100 Pcs
+64. Carriage Bolt - 1 Kg 65. Carriage Bolt - 5 Kg 66. Carriage Bolt - 10 Kg
+67. Anchor Bolt - 6 mm 68. Anchor Bolt - 8 mm 69. Anchor Bolt - 10 mm
+70. Anchor Bolt - 12 mm 71. Anchor Bolt - 16 mm 72. Anchor Bolt - 20 mm
+73. Anchor Bolt - 25 mm 74. Anchor Bolt - 32 mm 75. Anchor Bolt - 40 mm
+76. Anchor Bolt - 50 mm 77. Anchor Bolt - 1 inch 78. Anchor Bolt - 1.5 inch
+79. Anchor Bolt - 2 inch 80. Anchor Bolt - 3 inch 81. Hex Bolt - Heavy Duty
+Anchors Rivets & Nails
+ONE representative category image can be reused for all products in this category initially.
+1. Nylon Wall Plug - 6 mm 2. Nylon Wall Plug - 8 mm 3. Nylon Wall Plug - 10 mm
+4. Nylon Wall Plug - 12 mm 5. Nylon Wall Plug - 16 mm 6. Nylon Wall Plug - 20 mm
+7. Nylon Wall Plug - 25 mm 8. Nylon Wall Plug - 32 mm 9. Nylon Wall Plug - 40 mm
+10. Nylon Wall Plug - 50 mm 11. Nylon Wall Plug - 1 inch 12. Nylon Wall Plug - 1.5 inch
+13. Nylon Wall Plug - 2 inch 14. Nylon Wall Plug - 3 inch 15. Nylon Wall Plug - 4 inch
+16. Nylon Wall Plug - 6 inch 17. Nylon Wall Plug - 1 m 18. Nylon Wall Plug - 2 m
+19. Nylon Wall Plug - 5 m 20. Nylon Wall Plug - 10 m 21. Nylon Wall Plug - 20 m
+22. Nylon Wall Plug - 50 m 23. Nylon Wall Plug - 100 m 24. Nylon Wall Plug - 1 Pc
+25. Nylon Wall Plug - 2 Pcs 26. Nylon Wall Plug - 5 Pcs 27. Nylon Wall Plug - 10 Pcs
+28. Nylon Wall Plug - 20 Pcs 29. Nylon Wall Plug - 50 Pcs 30. Nylon Wall Plug - 100 Pcs
+31. Nylon Wall Plug - 1 Kg 32. Nylon Wall Plug - 5 Kg 33. Nylon Wall Plug - 10 Kg
+34. Rawl Plug - 6 mm 35. Rawl Plug - 8 mm 36. Rawl Plug - 10 mm
+37. Rawl Plug - 12 mm 38. Rawl Plug - 16 mm 39. Rawl Plug - 20 mm
+40. Rawl Plug - 25 mm 41. Rawl Plug - 32 mm 42. Rawl Plug - 40 mm
+43. Rawl Plug - 50 mm 44. Rawl Plug - 1 inch 45. Rawl Plug - 1.5 inch
+46. Rawl Plug - 2 inch 47. Rawl Plug - 3 inch 48. Rawl Plug - 4 inch
+49. Rawl Plug - 6 inch 50. Rawl Plug - 1 m 51. Rawl Plug - 2 m
+52. Rawl Plug - 5 m 53. Rawl Plug - 10 m 54. Rawl Plug - 20 m
+55. Rawl Plug - 50 m 56. Rawl Plug - 100 m 57. Rawl Plug - 1 Pc
+58. Rawl Plug - 2 Pcs 59. Rawl Plug - 5 Pcs 60. Rawl Plug - 10 Pcs
+61. Rawl Plug - 20 Pcs 62. Rawl Plug - 50 Pcs 63. Rawl Plug - 100 Pcs
+64. Rawl Plug - 1 Kg 65. Rawl Plug - 5 Kg 66. Rawl Plug - 10 Kg
+67. Drywall Anchor - 6 mm 68. Drywall Anchor - 8 mm 69. Drywall Anchor - 10 mm
+70. Drywall Anchor - 12 mm 71. Drywall Anchor - 16 mm 72. Drywall Anchor - 20 mm
+73. Drywall Anchor - 25 mm 74. Drywall Anchor - 32 mm 75. Drywall Anchor - 40 mm
+76. Drywall Anchor - 50 mm 77. Drywall Anchor - 1 inch 78. Drywall Anchor - 1.5 inch
+79. Drywall Anchor - 2 inch 80. Drywall Anchor - 3 inch 81. Nylon Wall Plug - Heavy Duty
+Door Hardware
+ONE representative category image can be reused for all products in this category initially.
+1. Butt Hinge - 6 mm 2. Butt Hinge - 8 mm 3. Butt Hinge - 10 mm
+4. Butt Hinge - 12 mm 5. Butt Hinge - 16 mm 6. Butt Hinge - 20 mm
+7. Butt Hinge - 25 mm 8. Butt Hinge - 32 mm 9. Butt Hinge - 40 mm
+10. Butt Hinge - 50 mm 11. Butt Hinge - 1 inch 12. Butt Hinge - 1.5 inch
+13. Butt Hinge - 2 inch 14. Butt Hinge - 3 inch 15. Butt Hinge - 4 inch
+16. Butt Hinge - 6 inch 17. Butt Hinge - 1 m 18. Butt Hinge - 2 m
+19. Butt Hinge - 5 m 20. Butt Hinge - 10 m 21. Butt Hinge - 20 m
+22. Butt Hinge - 50 m 23. Butt Hinge - 100 m 24. Butt Hinge - 1 Pc
+25. Butt Hinge - 2 Pcs 26. Butt Hinge - 5 Pcs 27. Butt Hinge - 10 Pcs
+28. Butt Hinge - 20 Pcs 29. Butt Hinge - 50 Pcs 30. Butt Hinge - 100 Pcs
+31. Butt Hinge - 1 Kg 32. Butt Hinge - 5 Kg 33. Butt Hinge - 10 Kg
+34. Ball Bearing Hinge - 6 mm 35. Ball Bearing Hinge - 8 mm 36. Ball Bearing Hinge - 10 mm
+37. Ball Bearing Hinge - 12 mm 38. Ball Bearing Hinge - 16 mm 39. Ball Bearing Hinge - 20 mm
+
+=== PAGE 11 ===
+Shree Sawariya • 3,000-product catalogue blueprint Page 11
+40. Ball Bearing Hinge - 25 mm 41. Ball Bearing Hinge - 32 mm 42. Ball Bearing Hinge - 40 mm
+43. Ball Bearing Hinge - 50 mm 44. Ball Bearing Hinge - 1 inch 45. Ball Bearing Hinge - 1.5 inch
+46. Ball Bearing Hinge - 2 inch 47. Ball Bearing Hinge - 3 inch 48. Ball Bearing Hinge - 4 inch
+49. Ball Bearing Hinge - 6 inch 50. Ball Bearing Hinge - 1 m 51. Ball Bearing Hinge - 2 m
+52. Ball Bearing Hinge - 5 m 53. Ball Bearing Hinge - 10 m 54. Ball Bearing Hinge - 20 m
+55. Ball Bearing Hinge - 50 m 56. Ball Bearing Hinge - 100 m 57. Ball Bearing Hinge - 1 Pc
+58. Ball Bearing Hinge - 2 Pcs 59. Ball Bearing Hinge - 5 Pcs 60. Ball Bearing Hinge - 10 Pcs
+61. Ball Bearing Hinge - 20 Pcs 62. Ball Bearing Hinge - 50 Pcs 63. Ball Bearing Hinge - 100 Pcs
+64. Ball Bearing Hinge - 1 Kg 65. Ball Bearing Hinge - 5 Kg 66. Ball Bearing Hinge - 10 Kg
+67. Parliament Hinge - 6 mm 68. Parliament Hinge - 8 mm 69. Parliament Hinge - 10 mm
+70. Parliament Hinge - 12 mm 71. Parliament Hinge - 16 mm 72. Parliament Hinge - 20 mm
+73. Parliament Hinge - 25 mm 74. Parliament Hinge - 32 mm 75. Parliament Hinge - 40 mm
+76. Parliament Hinge - 50 mm 77. Parliament Hinge - 1 inch 78. Parliament Hinge - 1.5 inch
+79. Parliament Hinge - 2 inch 80. Parliament Hinge - 3 inch 81. Butt Hinge - Heavy Duty
+Locks & Security Hardware
+ONE representative category image can be reused for all products in this category initially.
+1. Padlock - 6 mm 2. Padlock - 8 mm 3. Padlock - 10 mm
+4. Padlock - 12 mm 5. Padlock - 16 mm 6. Padlock - 20 mm
+7. Padlock - 25 mm 8. Padlock - 32 mm 9. Padlock - 40 mm
+10. Padlock - 50 mm 11. Padlock - 1 inch 12. Padlock - 1.5 inch
+13. Padlock - 2 inch 14. Padlock - 3 inch 15. Padlock - 4 inch
+16. Padlock - 6 inch 17. Padlock - 1 m 18. Padlock - 2 m
+19. Padlock - 5 m 20. Padlock - 10 m 21. Padlock - 20 m
+22. Padlock - 50 m 23. Padlock - 100 m 24. Padlock - 1 Pc
+25. Padlock - 2 Pcs 26. Padlock - 5 Pcs 27. Padlock - 10 Pcs
+28. Padlock - 20 Pcs 29. Padlock - 50 Pcs 30. Padlock - 100 Pcs
+31. Padlock - 1 Kg 32. Padlock - 5 Kg 33. Padlock - 10 Kg
+34. Brass Padlock - 6 mm 35. Brass Padlock - 8 mm 36. Brass Padlock - 10 mm
+37. Brass Padlock - 12 mm 38. Brass Padlock - 16 mm 39. Brass Padlock - 20 mm
+40. Brass Padlock - 25 mm 41. Brass Padlock - 32 mm 42. Brass Padlock - 40 mm
+43. Brass Padlock - 50 mm 44. Brass Padlock - 1 inch 45. Brass Padlock - 1.5 inch
+46. Brass Padlock - 2 inch 47. Brass Padlock - 3 inch 48. Brass Padlock - 4 inch
+49. Brass Padlock - 6 inch 50. Brass Padlock - 1 m 51. Brass Padlock - 2 m
+52. Brass Padlock - 5 m 53. Brass Padlock - 10 m 54. Brass Padlock - 20 m
+55. Brass Padlock - 50 m 56. Brass Padlock - 100 m 57. Brass Padlock - 1 Pc
+58. Brass Padlock - 2 Pcs 59. Brass Padlock - 5 Pcs 60. Brass Padlock - 10 Pcs
+61. Brass Padlock - 20 Pcs 62. Brass Padlock - 50 Pcs 63. Brass Padlock - 100 Pcs
+64. Brass Padlock - 1 Kg 65. Brass Padlock - 5 Kg 66. Brass Padlock - 10 Kg
+67. Steel Padlock - 6 mm 68. Steel Padlock - 8 mm 69. Steel Padlock - 10 mm
+70. Steel Padlock - 12 mm 71. Steel Padlock - 16 mm 72. Steel Padlock - 20 mm
+73. Steel Padlock - 25 mm 74. Steel Padlock - 32 mm 75. Steel Padlock - 40 mm
+76. Steel Padlock - 50 mm 77. Steel Padlock - 1 inch 78. Steel Padlock - 1.5 inch
+79. Steel Padlock - 2 inch 80. Steel Padlock - 3 inch 81. Padlock - Heavy Duty
+Furniture & Cabinet Hardware
+ONE representative category image can be reused for all products in this category initially.
+1. Cabinet Hinge - 6 mm 2. Cabinet Hinge - 8 mm 3. Cabinet Hinge - 10 mm
+4. Cabinet Hinge - 12 mm 5. Cabinet Hinge - 16 mm 6. Cabinet Hinge - 20 mm
+7. Cabinet Hinge - 25 mm 8. Cabinet Hinge - 32 mm 9. Cabinet Hinge - 40 mm
+10. Cabinet Hinge - 50 mm 11. Cabinet Hinge - 1 inch 12. Cabinet Hinge - 1.5 inch
+13. Cabinet Hinge - 2 inch 14. Cabinet Hinge - 3 inch 15. Cabinet Hinge - 4 inch
+16. Cabinet Hinge - 6 inch 17. Cabinet Hinge - 1 m 18. Cabinet Hinge - 2 m
+19. Cabinet Hinge - 5 m 20. Cabinet Hinge - 10 m 21. Cabinet Hinge - 20 m
+22. Cabinet Hinge - 50 m 23. Cabinet Hinge - 100 m 24. Cabinet Hinge - 1 Pc
+25. Cabinet Hinge - 2 Pcs 26. Cabinet Hinge - 5 Pcs 27. Cabinet Hinge - 10 Pcs
+28. Cabinet Hinge - 20 Pcs 29. Cabinet Hinge - 50 Pcs 30. Cabinet Hinge - 100 Pcs
+31. Cabinet Hinge - 1 Kg 32. Cabinet Hinge - 5 Kg 33. Cabinet Hinge - 10 Kg
+34. Soft Close Hinge - 6 mm 35. Soft Close Hinge - 8 mm 36. Soft Close Hinge - 10 mm
+37. Soft Close Hinge - 12 mm 38. Soft Close Hinge - 16 mm 39. Soft Close Hinge - 20 mm
+40. Soft Close Hinge - 25 mm 41. Soft Close Hinge - 32 mm 42. Soft Close Hinge - 40 mm
+43. Soft Close Hinge - 50 mm 44. Soft Close Hinge - 1 inch 45. Soft Close Hinge - 1.5 inch
+
+=== PAGE 12 ===
+Shree Sawariya • 3,000-product catalogue blueprint Page 12
+46. Soft Close Hinge - 2 inch 47. Soft Close Hinge - 3 inch 48. Soft Close Hinge - 4 inch
+49. Soft Close Hinge - 6 inch 50. Soft Close Hinge - 1 m 51. Soft Close Hinge - 2 m
+52. Soft Close Hinge - 5 m 53. Soft Close Hinge - 10 m 54. Soft Close Hinge - 20 m
+55. Soft Close Hinge - 50 m 56. Soft Close Hinge - 100 m 57. Soft Close Hinge - 1 Pc
+58. Soft Close Hinge - 2 Pcs 59. Soft Close Hinge - 5 Pcs 60. Soft Close Hinge - 10 Pcs
+61. Soft Close Hinge - 20 Pcs 62. Soft Close Hinge - 50 Pcs 63. Soft Close Hinge - 100 Pcs
+64. Soft Close Hinge - 1 Kg 65. Soft Close Hinge - 5 Kg 66. Soft Close Hinge - 10 Kg
+67. Concealed Hinge - 6 mm 68. Concealed Hinge - 8 mm 69. Concealed Hinge - 10 mm
+70. Concealed Hinge - 12 mm 71. Concealed Hinge - 16 mm 72. Concealed Hinge - 20 mm
+73. Concealed Hinge - 25 mm 74. Concealed Hinge - 32 mm 75. Concealed Hinge - 40 mm
+76. Concealed Hinge - 50 mm 77. Concealed Hinge - 1 inch 78. Concealed Hinge - 1.5 inch
+79. Concealed Hinge - 2 inch 80. Concealed Hinge - 3 inch 81. Cabinet Hinge - Heavy Duty
+Adhesives Sealants & Tapes
+ONE representative category image can be reused for all products in this category initially.
+1. PVA Wood Adhesive - 6 mm 2. PVA Wood Adhesive - 8 mm 3. PVA Wood Adhesive - 10 mm
+4. PVA Wood Adhesive - 12 mm 5. PVA Wood Adhesive - 16 mm 6. PVA Wood Adhesive - 20 mm
+7. PVA Wood Adhesive - 25 mm 8. PVA Wood Adhesive - 32 mm 9. PVA Wood Adhesive - 40 mm
+10. PVA Wood Adhesive - 50 mm 11. PVA Wood Adhesive - 1 inch 12. PVA Wood Adhesive - 1.5 inch
+13. PVA Wood Adhesive - 2 inch 14. PVA Wood Adhesive - 3 inch 15. PVA Wood Adhesive - 4 inch
+16. PVA Wood Adhesive - 6 inch 17. PVA Wood Adhesive - 1 m 18. PVA Wood Adhesive - 2 m
+19. PVA Wood Adhesive - 5 m 20. PVA Wood Adhesive - 10 m 21. PVA Wood Adhesive - 20 m
+22. PVA Wood Adhesive - 50 m 23. PVA Wood Adhesive - 100 m 24. PVA Wood Adhesive - 1 Pc
+25. PVA Wood Adhesive - 2 Pcs 26. PVA Wood Adhesive - 5 Pcs 27. PVA Wood Adhesive - 10 Pcs
+28. PVA Wood Adhesive - 20 Pcs 29. PVA Wood Adhesive - 50 Pcs 30. PVA Wood Adhesive - 100 Pcs
+31. PVA Wood Adhesive - 1 Kg 32. PVA Wood Adhesive - 5 Kg 33. PVA Wood Adhesive - 10 Kg
+34. Contact Adhesive - 6 mm 35. Contact Adhesive - 8 mm 36. Contact Adhesive - 10 mm
+37. Contact Adhesive - 12 mm 38. Contact Adhesive - 16 mm 39. Contact Adhesive - 20 mm
+40. Contact Adhesive - 25 mm 41. Contact Adhesive - 32 mm 42. Contact Adhesive - 40 mm
+43. Contact Adhesive - 50 mm 44. Contact Adhesive - 1 inch 45. Contact Adhesive - 1.5 inch
+46. Contact Adhesive - 2 inch 47. Contact Adhesive - 3 inch 48. Contact Adhesive - 4 inch
+49. Contact Adhesive - 6 inch 50. Contact Adhesive - 1 m 51. Contact Adhesive - 2 m
+52. Contact Adhesive - 5 m 53. Contact Adhesive - 10 m 54. Contact Adhesive - 20 m
+55. Contact Adhesive - 50 m 56. Contact Adhesive - 100 m 57. Contact Adhesive - 1 Pc
+58. Contact Adhesive - 2 Pcs 59. Contact Adhesive - 5 Pcs 60. Contact Adhesive - 10 Pcs
+61. Contact Adhesive - 20 Pcs 62. Contact Adhesive - 50 Pcs 63. Contact Adhesive - 100 Pcs
+64. Contact Adhesive - 1 Kg 65. Contact Adhesive - 5 Kg 66. Contact Adhesive - 10 Kg
+67. Epoxy Adhesive - 6 mm 68. Epoxy Adhesive - 8 mm 69. Epoxy Adhesive - 10 mm
+70. Epoxy Adhesive - 12 mm 71. Epoxy Adhesive - 16 mm 72. Epoxy Adhesive - 20 mm
+73. Epoxy Adhesive - 25 mm 74. Epoxy Adhesive - 32 mm 75. Epoxy Adhesive - 40 mm
+76. Epoxy Adhesive - 50 mm 77. Epoxy Adhesive - 1 inch 78. Epoxy Adhesive - 1.5 inch
+79. Epoxy Adhesive - 2 inch 80. Epoxy Adhesive - 3 inch 81. PVA Wood Adhesive - Heavy Duty
+Paints & Primers
+ONE representative category image can be reused for all products in this category initially.
+1. Interior Emulsion - 6 mm 2. Interior Emulsion - 8 mm 3. Interior Emulsion - 10 mm
+4. Interior Emulsion - 12 mm 5. Interior Emulsion - 16 mm 6. Interior Emulsion - 20 mm
+7. Interior Emulsion - 25 mm 8. Interior Emulsion - 32 mm 9. Interior Emulsion - 40 mm
+10. Interior Emulsion - 50 mm 11. Interior Emulsion - 1 inch 12. Interior Emulsion - 1.5 inch
+13. Interior Emulsion - 2 inch 14. Interior Emulsion - 3 inch 15. Interior Emulsion - 4 inch
+16. Interior Emulsion - 6 inch 17. Interior Emulsion - 1 m 18. Interior Emulsion - 2 m
+19. Interior Emulsion - 5 m 20. Interior Emulsion - 10 m 21. Interior Emulsion - 20 m
+22. Interior Emulsion - 50 m 23. Interior Emulsion - 100 m 24. Interior Emulsion - 1 Pc
+25. Interior Emulsion - 2 Pcs 26. Interior Emulsion - 5 Pcs 27. Interior Emulsion - 10 Pcs
+28. Interior Emulsion - 20 Pcs 29. Interior Emulsion - 50 Pcs 30. Interior Emulsion - 100 Pcs
+31. Interior Emulsion - 1 Kg 32. Interior Emulsion - 5 Kg 33. Interior Emulsion - 10 Kg
+34. Exterior Emulsion - 6 mm 35. Exterior Emulsion - 8 mm 36. Exterior Emulsion - 10 mm
+37. Exterior Emulsion - 12 mm 38. Exterior Emulsion - 16 mm 39. Exterior Emulsion - 20 mm
+40. Exterior Emulsion - 25 mm 41. Exterior Emulsion - 32 mm 42. Exterior Emulsion - 40 mm
+43. Exterior Emulsion - 50 mm 44. Exterior Emulsion - 1 inch 45. Exterior Emulsion - 1.5 inch
+46. Exterior Emulsion - 2 inch 47. Exterior Emulsion - 3 inch 48. Exterior Emulsion - 4 inch
+49. Exterior Emulsion - 6 inch 50. Exterior Emulsion - 1 m 51. Exterior Emulsion - 2 m
+
+=== PAGE 13 ===
+Shree Sawariya • 3,000-product catalogue blueprint Page 13
+52. Exterior Emulsion - 5 m 53. Exterior Emulsion - 10 m 54. Exterior Emulsion - 20 m
+55. Exterior Emulsion - 50 m 56. Exterior Emulsion - 100 m 57. Exterior Emulsion - 1 Pc
+58. Exterior Emulsion - 2 Pcs 59. Exterior Emulsion - 5 Pcs 60. Exterior Emulsion - 10 Pcs
+61. Exterior Emulsion - 20 Pcs 62. Exterior Emulsion - 50 Pcs 63. Exterior Emulsion - 100 Pcs
+64. Exterior Emulsion - 1 Kg 65. Exterior Emulsion - 5 Kg 66. Exterior Emulsion - 10 Kg
+67. Acrylic Distemper - 6 mm 68. Acrylic Distemper - 8 mm 69. Acrylic Distemper - 10 mm
+70. Acrylic Distemper - 12 mm 71. Acrylic Distemper - 16 mm 72. Acrylic Distemper - 20 mm
+73. Acrylic Distemper - 25 mm 74. Acrylic Distemper - 32 mm 75. Acrylic Distemper - 40 mm
+76. Acrylic Distemper - 50 mm 77. Acrylic Distemper - 1 inch 78. Acrylic Distemper - 1.5 inch
+79. Acrylic Distemper - 2 inch 80. Acrylic Distemper - 3 inch 81. Interior Emulsion - Heavy Duty
+Paint Tools & Sundries
+ONE representative category image can be reused for all products in this category initially.
+1. Paint Brush - 6 mm 2. Paint Brush - 8 mm 3. Paint Brush - 10 mm
+4. Paint Brush - 12 mm 5. Paint Brush - 16 mm 6. Paint Brush - 20 mm
+7. Paint Brush - 25 mm 8. Paint Brush - 32 mm 9. Paint Brush - 40 mm
+10. Paint Brush - 50 mm 11. Paint Brush - 1 inch 12. Paint Brush - 1.5 inch
+13. Paint Brush - 2 inch 14. Paint Brush - 3 inch 15. Paint Brush - 4 inch
+16. Paint Brush - 6 inch 17. Paint Brush - 1 m 18. Paint Brush - 2 m
+19. Paint Brush - 5 m 20. Paint Brush - 10 m 21. Paint Brush - 20 m
+22. Paint Brush - 50 m 23. Paint Brush - 100 m 24. Paint Brush - 1 Pc
+25. Paint Brush - 2 Pcs 26. Paint Brush - 5 Pcs 27. Paint Brush - 10 Pcs
+28. Paint Brush - 20 Pcs 29. Paint Brush - 50 Pcs 30. Paint Brush - 100 Pcs
+31. Paint Brush - 1 Kg 32. Paint Brush - 5 Kg 33. Paint Brush - 10 Kg
+34. Angle Brush - 6 mm 35. Angle Brush - 8 mm 36. Angle Brush - 10 mm
+37. Angle Brush - 12 mm 38. Angle Brush - 16 mm 39. Angle Brush - 20 mm
+40. Angle Brush - 25 mm 41. Angle Brush - 32 mm 42. Angle Brush - 40 mm
+43. Angle Brush - 50 mm 44. Angle Brush - 1 inch 45. Angle Brush - 1.5 inch
+46. Angle Brush - 2 inch 47. Angle Brush - 3 inch 48. Angle Brush - 4 inch
+49. Angle Brush - 6 inch 50. Angle Brush - 1 m 51. Angle Brush - 2 m
+52. Angle Brush - 5 m 53. Angle Brush - 10 m 54. Angle Brush - 20 m
+55. Angle Brush - 50 m 56. Angle Brush - 100 m 57. Angle Brush - 1 Pc
+58. Angle Brush - 2 Pcs 59. Angle Brush - 5 Pcs 60. Angle Brush - 10 Pcs
+61. Angle Brush - 20 Pcs 62. Angle Brush - 50 Pcs 63. Angle Brush - 100 Pcs
+64. Angle Brush - 1 Kg 65. Angle Brush - 5 Kg 66. Angle Brush - 10 Kg
+67. Foam Roller - 6 mm 68. Foam Roller - 8 mm 69. Foam Roller - 10 mm
+70. Foam Roller - 12 mm 71. Foam Roller - 16 mm 72. Foam Roller - 20 mm
+73. Foam Roller - 25 mm 74. Foam Roller - 32 mm 75. Foam Roller - 40 mm
+76. Foam Roller - 50 mm 77. Foam Roller - 1 inch 78. Foam Roller - 1.5 inch
+79. Foam Roller - 2 inch 80. Foam Roller - 3 inch 81. Paint Brush - Heavy Duty
+Waterproofing & Construction Chemicals
+ONE representative category image can be reused for all products in this category initially.
+1. Integral Waterproofing Compound - 6 mm 2. Integral Waterproofing Compound - 8 mm 3. Integral Waterproofing Compound - 10 mm
+4. Integral Waterproofing Compound - 12 mm 5. Integral Waterproofing Compound - 16 mm 6. Integral Waterproofing Compound - 20 mm
+7. Integral Waterproofing Compound - 25 mm 8. Integral Waterproofing Compound - 32 mm 9. Integral Waterproofing Compound - 40 mm
+10. Integral Waterproofing Compound - 50 mm 11. Integral Waterproofing Compound - 1 inch 12. Integral Waterproofing Compound - 1.5 inch
+13. Integral Waterproofing Compound - 2 inch 14. Integral Waterproofing Compound - 3 inch 15. Integral Waterproofing Compound - 4 inch
+16. Integral Waterproofing Compound - 6 inch 17. Integral Waterproofing Compound - 1 m 18. Integral Waterproofing Compound - 2 m
+19. Integral Waterproofing Compound - 5 m 20. Integral Waterproofing Compound - 10 m 21. Integral Waterproofing Compound - 20 m
+22. Integral Waterproofing Compound - 50 m 23. Integral Waterproofing Compound - 100 m 24. Integral Waterproofing Compound - 1 Pc
+25. Integral Waterproofing Compound - 2 Pcs 26. Integral Waterproofing Compound - 5 Pcs 27. Integral Waterproofing Compound - 10 Pcs
+28. Integral Waterproofing Compound - 20 Pcs 29. Integral Waterproofing Compound - 50 Pcs 30. Integral Waterproofing Compound - 100 Pcs
+31. Integral Waterproofing Compound - 1 Kg 32. Integral Waterproofing Compound - 5 Kg 33. Integral Waterproofing Compound - 10 Kg
+34. Cementitious Waterproofing - 6 mm 35. Cementitious Waterproofing - 8 mm 36. Cementitious Waterproofing - 10 mm
+37. Cementitious Waterproofing - 12 mm 38. Cementitious Waterproofing - 16 mm 39. Cementitious Waterproofing - 20 mm
+40. Cementitious Waterproofing - 25 mm 41. Cementitious Waterproofing - 32 mm 42. Cementitious Waterproofing - 40 mm
+43. Cementitious Waterproofing - 50 mm 44. Cementitious Waterproofing - 1 inch 45. Cementitious Waterproofing - 1.5 inch
+46. Cementitious Waterproofing - 2 inch 47. Cementitious Waterproofing - 3 inch 48. Cementitious Waterproofing - 4 inch
+49. Cementitious Waterproofing - 6 inch 50. Cementitious Waterproofing - 1 m 51. Cementitious Waterproofing - 2 m
+52. Cementitious Waterproofing - 5 m 53. Cementitious Waterproofing - 10 m 54. Cementitious Waterproofing - 20 m
+55. Cementitious Waterproofing - 50 m 56. Cementitious Waterproofing - 100 m 57. Cementitious Waterproofing - 1 Pc
+
+=== PAGE 14 ===
+Shree Sawariya • 3,000-product catalogue blueprint Page 14
+58. Cementitious Waterproofing - 2 Pcs 59. Cementitious Waterproofing - 5 Pcs 60. Cementitious Waterproofing - 10 Pcs
+61. Cementitious Waterproofing - 20 Pcs 62. Cementitious Waterproofing - 50 Pcs 63. Cementitious Waterproofing - 100 Pcs
+64. Cementitious Waterproofing - 1 Kg 65. Cementitious Waterproofing - 5 Kg 66. Cementitious Waterproofing - 10 Kg
+67. Acrylic Waterproofing - 6 mm 68. Acrylic Waterproofing - 8 mm 69. Acrylic Waterproofing - 10 mm
+70. Acrylic Waterproofing - 12 mm 71. Acrylic Waterproofing - 16 mm 72. Acrylic Waterproofing - 20 mm
+73. Acrylic Waterproofing - 25 mm 74. Acrylic Waterproofing - 32 mm 75. Acrylic Waterproofing - 40 mm
+76. Acrylic Waterproofing - 50 mm 77. Acrylic Waterproofing - 1 inch 78. Acrylic Waterproofing - 1.5 inch
+79. Acrylic Waterproofing - 2 inch 80. Acrylic Waterproofing - 3 inch 81. Integral Waterproofing Compound - Heavy Duty
+Cement Mortar & Civil Materials
+ONE representative category image can be reused for all products in this category initially.
+1. Ordinary Portland Cement - 6 mm 2. Ordinary Portland Cement - 8 mm 3. Ordinary Portland Cement - 10 mm
+4. Ordinary Portland Cement - 12 mm 5. Ordinary Portland Cement - 16 mm 6. Ordinary Portland Cement - 20 mm
+7. Ordinary Portland Cement - 25 mm 8. Ordinary Portland Cement - 32 mm 9. Ordinary Portland Cement - 40 mm
+10. Ordinary Portland Cement - 50 mm 11. Ordinary Portland Cement - 1 inch 12. Ordinary Portland Cement - 1.5 inch
+13. Ordinary Portland Cement - 2 inch 14. Ordinary Portland Cement - 3 inch 15. Ordinary Portland Cement - 4 inch
+16. Ordinary Portland Cement - 6 inch 17. Ordinary Portland Cement - 1 m 18. Ordinary Portland Cement - 2 m
+19. Ordinary Portland Cement - 5 m 20. Ordinary Portland Cement - 10 m 21. Ordinary Portland Cement - 20 m
+22. Ordinary Portland Cement - 50 m 23. Ordinary Portland Cement - 100 m 24. Ordinary Portland Cement - 1 Pc
+25. Ordinary Portland Cement - 2 Pcs 26. Ordinary Portland Cement - 5 Pcs 27. Ordinary Portland Cement - 10 Pcs
+28. Ordinary Portland Cement - 20 Pcs 29. Ordinary Portland Cement - 50 Pcs 30. Ordinary Portland Cement - 100 Pcs
+31. Ordinary Portland Cement - 1 Kg 32. Ordinary Portland Cement - 5 Kg 33. Ordinary Portland Cement - 10 Kg
+34. Portland Pozzolana Cement - 6 mm 35. Portland Pozzolana Cement - 8 mm 36. Portland Pozzolana Cement - 10 mm
+37. Portland Pozzolana Cement - 12 mm 38. Portland Pozzolana Cement - 16 mm 39. Portland Pozzolana Cement - 20 mm
+40. Portland Pozzolana Cement - 25 mm 41. Portland Pozzolana Cement - 32 mm 42. Portland Pozzolana Cement - 40 mm
+43. Portland Pozzolana Cement - 50 mm 44. Portland Pozzolana Cement - 1 inch 45. Portland Pozzolana Cement - 1.5 inch
+46. Portland Pozzolana Cement - 2 inch 47. Portland Pozzolana Cement - 3 inch 48. Portland Pozzolana Cement - 4 inch
+49. Portland Pozzolana Cement - 6 inch 50. Portland Pozzolana Cement - 1 m 51. Portland Pozzolana Cement - 2 m
+52. Portland Pozzolana Cement - 5 m 53. Portland Pozzolana Cement - 10 m 54. Portland Pozzolana Cement - 20 m
+55. Portland Pozzolana Cement - 50 m 56. Portland Pozzolana Cement - 100 m 57. Portland Pozzolana Cement - 1 Pc
+58. Portland Pozzolana Cement - 2 Pcs 59. Portland Pozzolana Cement - 5 Pcs 60. Portland Pozzolana Cement - 10 Pcs
+61. Portland Pozzolana Cement - 20 Pcs 62. Portland Pozzolana Cement - 50 Pcs 63. Portland Pozzolana Cement - 100 Pcs
+64. Portland Pozzolana Cement - 1 Kg 65. Portland Pozzolana Cement - 5 Kg 66. Portland Pozzolana Cement - 10 Kg
+67. Rapid Hardening Cement - 6 mm 68. Rapid Hardening Cement - 8 mm 69. Rapid Hardening Cement - 10 mm
+70. Rapid Hardening Cement - 12 mm 71. Rapid Hardening Cement - 16 mm 72. Rapid Hardening Cement - 20 mm
+73. Rapid Hardening Cement - 25 mm 74. Rapid Hardening Cement - 32 mm 75. Rapid Hardening Cement - 40 mm
+76. Rapid Hardening Cement - 50 mm 77. Rapid Hardening Cement - 1 inch 78. Rapid Hardening Cement - 1.5 inch
+79. Rapid Hardening Cement - 2 inch 80. Rapid Hardening Cement - 3 inch 81. Ordinary Portland Cement - Heavy Duty
+Plywood Boards & Laminates
+ONE representative category image can be reused for all products in this category initially.
+1. Commercial Plywood - 6 mm 2. Commercial Plywood - 8 mm 3. Commercial Plywood - 10 mm
+4. Commercial Plywood - 12 mm 5. Commercial Plywood - 16 mm 6. Commercial Plywood - 20 mm
+7. Commercial Plywood - 25 mm 8. Commercial Plywood - 32 mm 9. Commercial Plywood - 40 mm
+10. Commercial Plywood - 50 mm 11. Commercial Plywood - 1 inch 12. Commercial Plywood - 1.5 inch
+13. Commercial Plywood - 2 inch 14. Commercial Plywood - 3 inch 15. Commercial Plywood - 4 inch
+16. Commercial Plywood - 6 inch 17. Commercial Plywood - 1 m 18. Commercial Plywood - 2 m
+19. Commercial Plywood - 5 m 20. Commercial Plywood - 10 m 21. Commercial Plywood - 20 m
+22. Commercial Plywood - 50 m 23. Commercial Plywood - 100 m 24. Commercial Plywood - 1 Pc
+25. Commercial Plywood - 2 Pcs 26. Commercial Plywood - 5 Pcs 27. Commercial Plywood - 10 Pcs
+28. Commercial Plywood - 20 Pcs 29. Commercial Plywood - 50 Pcs 30. Commercial Plywood - 100 Pcs
+31. Commercial Plywood - 1 Kg 32. Commercial Plywood - 5 Kg 33. Commercial Plywood - 10 Kg
+34. MR Plywood - 6 mm 35. MR Plywood - 8 mm 36. MR Plywood - 10 mm
+37. MR Plywood - 12 mm 38. MR Plywood - 16 mm 39. MR Plywood - 20 mm
+40. MR Plywood - 25 mm 41. MR Plywood - 32 mm 42. MR Plywood - 40 mm
+43. MR Plywood - 50 mm 44. MR Plywood - 1 inch 45. MR Plywood - 1.5 inch
+46. MR Plywood - 2 inch 47. MR Plywood - 3 inch 48. MR Plywood - 4 inch
+49. MR Plywood - 6 inch 50. MR Plywood - 1 m 51. MR Plywood - 2 m
+52. MR Plywood - 5 m 53. MR Plywood - 10 m 54. MR Plywood - 20 m
+55. MR Plywood - 50 m 56. MR Plywood - 100 m 57. MR Plywood - 1 Pc
+58. MR Plywood - 2 Pcs 59. MR Plywood - 5 Pcs 60. MR Plywood - 10 Pcs
+61. MR Plywood - 20 Pcs 62. MR Plywood - 50 Pcs 63. MR Plywood - 100 Pcs
+
+=== PAGE 15 ===
+Shree Sawariya • 3,000-product catalogue blueprint Page 15
+64. MR Plywood - 1 Kg 65. MR Plywood - 5 Kg 66. MR Plywood - 10 Kg
+67. BWP Plywood - 6 mm 68. BWP Plywood - 8 mm 69. BWP Plywood - 10 mm
+70. BWP Plywood - 12 mm 71. BWP Plywood - 16 mm 72. BWP Plywood - 20 mm
+73. BWP Plywood - 25 mm 74. BWP Plywood - 32 mm 75. BWP Plywood - 40 mm
+76. BWP Plywood - 50 mm 77. BWP Plywood - 1 inch 78. BWP Plywood - 1.5 inch
+79. BWP Plywood - 2 inch 80. BWP Plywood - 3 inch 81. Commercial Plywood - Heavy Duty
+Glass Aluminium & Glazing Hardware
+ONE representative category image can be reused for all products in this category initially.
+1. Glass Clamp - 6 mm 2. Glass Clamp - 8 mm 3. Glass Clamp - 10 mm
+4. Glass Clamp - 12 mm 5. Glass Clamp - 16 mm 6. Glass Clamp - 20 mm
+7. Glass Clamp - 25 mm 8. Glass Clamp - 32 mm 9. Glass Clamp - 40 mm
+10. Glass Clamp - 50 mm 11. Glass Clamp - 1 inch 12. Glass Clamp - 1.5 inch
+13. Glass Clamp - 2 inch 14. Glass Clamp - 3 inch 15. Glass Clamp - 4 inch
+16. Glass Clamp - 6 inch 17. Glass Clamp - 1 m 18. Glass Clamp - 2 m
+19. Glass Clamp - 5 m 20. Glass Clamp - 10 m 21. Glass Clamp - 20 m
+22. Glass Clamp - 50 m 23. Glass Clamp - 100 m 24. Glass Clamp - 1 Pc
+25. Glass Clamp - 2 Pcs 26. Glass Clamp - 5 Pcs 27. Glass Clamp - 10 Pcs
+28. Glass Clamp - 20 Pcs 29. Glass Clamp - 50 Pcs 30. Glass Clamp - 100 Pcs
+31. Glass Clamp - 1 Kg 32. Glass Clamp - 5 Kg 33. Glass Clamp - 10 Kg
+34. Glass Patch Fitting - 6 mm 35. Glass Patch Fitting - 8 mm 36. Glass Patch Fitting - 10 mm
+37. Glass Patch Fitting - 12 mm 38. Glass Patch Fitting - 16 mm 39. Glass Patch Fitting - 20 mm
+40. Glass Patch Fitting - 25 mm 41. Glass Patch Fitting - 32 mm 42. Glass Patch Fitting - 40 mm
+43. Glass Patch Fitting - 50 mm 44. Glass Patch Fitting - 1 inch 45. Glass Patch Fitting - 1.5 inch
+46. Glass Patch Fitting - 2 inch 47. Glass Patch Fitting - 3 inch 48. Glass Patch Fitting - 4 inch
+49. Glass Patch Fitting - 6 inch 50. Glass Patch Fitting - 1 m 51. Glass Patch Fitting - 2 m
+52. Glass Patch Fitting - 5 m 53. Glass Patch Fitting - 10 m 54. Glass Patch Fitting - 20 m
+55. Glass Patch Fitting - 50 m 56. Glass Patch Fitting - 100 m 57. Glass Patch Fitting - 1 Pc
+58. Glass Patch Fitting - 2 Pcs 59. Glass Patch Fitting - 5 Pcs 60. Glass Patch Fitting - 10 Pcs
+61. Glass Patch Fitting - 20 Pcs 62. Glass Patch Fitting - 50 Pcs 63. Glass Patch Fitting - 100 Pcs
+64. Glass Patch Fitting - 1 Kg 65. Glass Patch Fitting - 5 Kg 66. Glass Patch Fitting - 10 Kg
+67. Glass Door Hinge - 6 mm 68. Glass Door Hinge - 8 mm 69. Glass Door Hinge - 10 mm
+70. Glass Door Hinge - 12 mm 71. Glass Door Hinge - 16 mm 72. Glass Door Hinge - 20 mm
+73. Glass Door Hinge - 25 mm 74. Glass Door Hinge - 32 mm 75. Glass Door Hinge - 40 mm
+76. Glass Door Hinge - 50 mm 77. Glass Door Hinge - 1 inch 78. Glass Door Hinge - 1.5 inch
+79. Glass Door Hinge - 2 inch 80. Glass Door Hinge - 3 inch 81. Glass Clamp - Heavy Duty
+Welding & Metalwork Supplies
+ONE representative category image can be reused for all products in this category initially.
+1. Welding Electrode - 6 mm 2. Welding Electrode - 8 mm 3. Welding Electrode - 10 mm
+4. Welding Electrode - 12 mm 5. Welding Electrode - 16 mm 6. Welding Electrode - 20 mm
+7. Welding Electrode - 25 mm 8. Welding Electrode - 32 mm 9. Welding Electrode - 40 mm
+10. Welding Electrode - 50 mm 11. Welding Electrode - 1 inch 12. Welding Electrode - 1.5 inch
+13. Welding Electrode - 2 inch 14. Welding Electrode - 3 inch 15. Welding Electrode - 4 inch
+16. Welding Electrode - 6 inch 17. Welding Electrode - 1 m 18. Welding Electrode - 2 m
+19. Welding Electrode - 5 m 20. Welding Electrode - 10 m 21. Welding Electrode - 20 m
+22. Welding Electrode - 50 m 23. Welding Electrode - 100 m 24. Welding Electrode - 1 Pc
+25. Welding Electrode - 2 Pcs 26. Welding Electrode - 5 Pcs 27. Welding Electrode - 10 Pcs
+28. Welding Electrode - 20 Pcs 29. Welding Electrode - 50 Pcs 30. Welding Electrode - 100 Pcs
+31. Welding Electrode - 1 Kg 32. Welding Electrode - 5 Kg 33. Welding Electrode - 10 Kg
+34. MIG Wire - 6 mm 35. MIG Wire - 8 mm 36. MIG Wire - 10 mm
+37. MIG Wire - 12 mm 38. MIG Wire - 16 mm 39. MIG Wire - 20 mm
+40. MIG Wire - 25 mm 41. MIG Wire - 32 mm 42. MIG Wire - 40 mm
+43. MIG Wire - 50 mm 44. MIG Wire - 1 inch 45. MIG Wire - 1.5 inch
+46. MIG Wire - 2 inch 47. MIG Wire - 3 inch 48. MIG Wire - 4 inch
+49. MIG Wire - 6 inch 50. MIG Wire - 1 m 51. MIG Wire - 2 m
+52. MIG Wire - 5 m 53. MIG Wire - 10 m 54. MIG Wire - 20 m
+55. MIG Wire - 50 m 56. MIG Wire - 100 m 57. MIG Wire - 1 Pc
+58. MIG Wire - 2 Pcs 59. MIG Wire - 5 Pcs 60. MIG Wire - 10 Pcs
+61. MIG Wire - 20 Pcs 62. MIG Wire - 50 Pcs 63. MIG Wire - 100 Pcs
+64. MIG Wire - 1 Kg 65. MIG Wire - 5 Kg 66. MIG Wire - 10 Kg
+67. TIG Rod - 6 mm 68. TIG Rod - 8 mm 69. TIG Rod - 10 mm
+
+=== PAGE 16 ===
+Shree Sawariya • 3,000-product catalogue blueprint Page 16
+70. TIG Rod - 12 mm 71. TIG Rod - 16 mm 72. TIG Rod - 20 mm
+73. TIG Rod - 25 mm 74. TIG Rod - 32 mm 75. TIG Rod - 40 mm
+76. TIG Rod - 50 mm 77. TIG Rod - 1 inch 78. TIG Rod - 1.5 inch
+79. TIG Rod - 2 inch 80. TIG Rod - 3 inch 81. Welding Electrode - Heavy Duty
+Abrasives & Cutting
+ONE representative category image can be reused for all products in this category initially.
+1. Cutting Disc - 6 mm 2. Cutting Disc - 8 mm 3. Cutting Disc - 10 mm
+4. Cutting Disc - 12 mm 5. Cutting Disc - 16 mm 6. Cutting Disc - 20 mm
+7. Cutting Disc - 25 mm 8. Cutting Disc - 32 mm 9. Cutting Disc - 40 mm
+10. Cutting Disc - 50 mm 11. Cutting Disc - 1 inch 12. Cutting Disc - 1.5 inch
+13. Cutting Disc - 2 inch 14. Cutting Disc - 3 inch 15. Cutting Disc - 4 inch
+16. Cutting Disc - 6 inch 17. Cutting Disc - 1 m 18. Cutting Disc - 2 m
+19. Cutting Disc - 5 m 20. Cutting Disc - 10 m 21. Cutting Disc - 20 m
+22. Cutting Disc - 50 m 23. Cutting Disc - 100 m 24. Cutting Disc - 1 Pc
+25. Cutting Disc - 2 Pcs 26. Cutting Disc - 5 Pcs 27. Cutting Disc - 10 Pcs
+28. Cutting Disc - 20 Pcs 29. Cutting Disc - 50 Pcs 30. Cutting Disc - 100 Pcs
+31. Cutting Disc - 1 Kg 32. Cutting Disc - 5 Kg 33. Cutting Disc - 10 Kg
+34. Grinding Disc - 6 mm 35. Grinding Disc - 8 mm 36. Grinding Disc - 10 mm
+37. Grinding Disc - 12 mm 38. Grinding Disc - 16 mm 39. Grinding Disc - 20 mm
+40. Grinding Disc - 25 mm 41. Grinding Disc - 32 mm 42. Grinding Disc - 40 mm
+43. Grinding Disc - 50 mm 44. Grinding Disc - 1 inch 45. Grinding Disc - 1.5 inch
+46. Grinding Disc - 2 inch 47. Grinding Disc - 3 inch 48. Grinding Disc - 4 inch
+49. Grinding Disc - 6 inch 50. Grinding Disc - 1 m 51. Grinding Disc - 2 m
+52. Grinding Disc - 5 m 53. Grinding Disc - 10 m 54. Grinding Disc - 20 m
+55. Grinding Disc - 50 m 56. Grinding Disc - 100 m 57. Grinding Disc - 1 Pc
+58. Grinding Disc - 2 Pcs 59. Grinding Disc - 5 Pcs 60. Grinding Disc - 10 Pcs
+61. Grinding Disc - 20 Pcs 62. Grinding Disc - 50 Pcs 63. Grinding Disc - 100 Pcs
+64. Grinding Disc - 1 Kg 65. Grinding Disc - 5 Kg 66. Grinding Disc - 10 Kg
+67. Flap Disc - 6 mm 68. Flap Disc - 8 mm 69. Flap Disc - 10 mm
+70. Flap Disc - 12 mm 71. Flap Disc - 16 mm 72. Flap Disc - 20 mm
+73. Flap Disc - 25 mm 74. Flap Disc - 32 mm 75. Flap Disc - 40 mm
+76. Flap Disc - 50 mm 77. Flap Disc - 1 inch 78. Flap Disc - 1.5 inch
+79. Flap Disc - 2 inch 80. Flap Disc - 3 inch 81. Cutting Disc - Heavy Duty
+Safety PPE
+ONE representative category image can be reused for all products in this category initially.
+1. Safety Helmet - 6 mm 2. Safety Helmet - 8 mm 3. Safety Helmet - 10 mm
+4. Safety Helmet - 12 mm 5. Safety Helmet - 16 mm 6. Safety Helmet - 20 mm
+7. Safety Helmet - 25 mm 8. Safety Helmet - 32 mm 9. Safety Helmet - 40 mm
+10. Safety Helmet - 50 mm 11. Safety Helmet - 1 inch 12. Safety Helmet - 1.5 inch
+13. Safety Helmet - 2 inch 14. Safety Helmet - 3 inch 15. Safety Helmet - 4 inch
+16. Safety Helmet - 6 inch 17. Safety Helmet - 1 m 18. Safety Helmet - 2 m
+19. Safety Helmet - 5 m 20. Safety Helmet - 10 m 21. Safety Helmet - 20 m
+22. Safety Helmet - 50 m 23. Safety Helmet - 100 m 24. Safety Helmet - 1 Pc
+25. Safety Helmet - 2 Pcs 26. Safety Helmet - 5 Pcs 27. Safety Helmet - 10 Pcs
+28. Safety Helmet - 20 Pcs 29. Safety Helmet - 50 Pcs 30. Safety Helmet - 100 Pcs
+31. Safety Helmet - 1 Kg 32. Safety Helmet - 5 Kg 33. Safety Helmet - 10 Kg
+34. Safety Goggles - 6 mm 35. Safety Goggles - 8 mm 36. Safety Goggles - 10 mm
+37. Safety Goggles - 12 mm 38. Safety Goggles - 16 mm 39. Safety Goggles - 20 mm
+40. Safety Goggles - 25 mm 41. Safety Goggles - 32 mm 42. Safety Goggles - 40 mm
+43. Safety Goggles - 50 mm 44. Safety Goggles - 1 inch 45. Safety Goggles - 1.5 inch
+46. Safety Goggles - 2 inch 47. Safety Goggles - 3 inch 48. Safety Goggles - 4 inch
+49. Safety Goggles - 6 inch 50. Safety Goggles - 1 m 51. Safety Goggles - 2 m
+52. Safety Goggles - 5 m 53. Safety Goggles - 10 m 54. Safety Goggles - 20 m
+55. Safety Goggles - 50 m 56. Safety Goggles - 100 m 57. Safety Goggles - 1 Pc
+58. Safety Goggles - 2 Pcs 59. Safety Goggles - 5 Pcs 60. Safety Goggles - 10 Pcs
+61. Safety Goggles - 20 Pcs 62. Safety Goggles - 50 Pcs 63. Safety Goggles - 100 Pcs
+64. Safety Goggles - 1 Kg 65. Safety Goggles - 5 Kg 66. Safety Goggles - 10 Kg
+67. Face Shield - 6 mm 68. Face Shield - 8 mm 69. Face Shield - 10 mm
+70. Face Shield - 12 mm 71. Face Shield - 16 mm 72. Face Shield - 20 mm
+73. Face Shield - 25 mm 74. Face Shield - 32 mm 75. Face Shield - 40 mm
+
+=== PAGE 17 ===
+Shree Sawariya • 3,000-product catalogue blueprint Page 17
+76. Face Shield - 50 mm 77. Face Shield - 1 inch 78. Face Shield - 1.5 inch
+79. Face Shield - 2 inch 80. Face Shield - 3 inch 81. Safety Helmet - Heavy Duty
+Ladders & Access Equipment
+ONE representative category image can be reused for all products in this category initially.
+1. Step Ladder - 6 mm 2. Step Ladder - 8 mm 3. Step Ladder - 10 mm
+4. Step Ladder - 12 mm 5. Step Ladder - 16 mm 6. Step Ladder - 20 mm
+7. Step Ladder - 25 mm 8. Step Ladder - 32 mm 9. Step Ladder - 40 mm
+10. Step Ladder - 50 mm 11. Step Ladder - 1 inch 12. Step Ladder - 1.5 inch
+13. Step Ladder - 2 inch 14. Step Ladder - 3 inch 15. Step Ladder - 4 inch
+16. Step Ladder - 6 inch 17. Step Ladder - 1 m 18. Step Ladder - 2 m
+19. Step Ladder - 5 m 20. Step Ladder - 10 m 21. Step Ladder - 20 m
+22. Step Ladder - 50 m 23. Step Ladder - 100 m 24. Step Ladder - 1 Pc
+25. Step Ladder - 2 Pcs 26. Step Ladder - 5 Pcs 27. Step Ladder - 10 Pcs
+28. Step Ladder - 20 Pcs 29. Step Ladder - 50 Pcs 30. Step Ladder - 100 Pcs
+31. Step Ladder - 1 Kg 32. Step Ladder - 5 Kg 33. Step Ladder - 10 Kg
+34. Aluminium Ladder - 6 mm 35. Aluminium Ladder - 8 mm 36. Aluminium Ladder - 10 mm
+37. Aluminium Ladder - 12 mm 38. Aluminium Ladder - 16 mm 39. Aluminium Ladder - 20 mm
+40. Aluminium Ladder - 25 mm 41. Aluminium Ladder - 32 mm 42. Aluminium Ladder - 40 mm
+43. Aluminium Ladder - 50 mm 44. Aluminium Ladder - 1 inch 45. Aluminium Ladder - 1.5 inch
+46. Aluminium Ladder - 2 inch 47. Aluminium Ladder - 3 inch 48. Aluminium Ladder - 4 inch
+49. Aluminium Ladder - 6 inch 50. Aluminium Ladder - 1 m 51. Aluminium Ladder - 2 m
+52. Aluminium Ladder - 5 m 53. Aluminium Ladder - 10 m 54. Aluminium Ladder - 20 m
+55. Aluminium Ladder - 50 m 56. Aluminium Ladder - 100 m 57. Aluminium Ladder - 1 Pc
+58. Aluminium Ladder - 2 Pcs 59. Aluminium Ladder - 5 Pcs 60. Aluminium Ladder - 10 Pcs
+61. Aluminium Ladder - 20 Pcs 62. Aluminium Ladder - 50 Pcs 63. Aluminium Ladder - 100 Pcs
+64. Aluminium Ladder - 1 Kg 65. Aluminium Ladder - 5 Kg 66. Aluminium Ladder - 10 Kg
+67. Fiberglass Ladder - 6 mm 68. Fiberglass Ladder - 8 mm 69. Fiberglass Ladder - 10 mm
+70. Fiberglass Ladder - 12 mm 71. Fiberglass Ladder - 16 mm 72. Fiberglass Ladder - 20 mm
+73. Fiberglass Ladder - 25 mm 74. Fiberglass Ladder - 32 mm 75. Fiberglass Ladder - 40 mm
+76. Fiberglass Ladder - 50 mm 77. Fiberglass Ladder - 1 inch 78. Fiberglass Ladder - 1.5 inch
+79. Fiberglass Ladder - 2 inch 80. Fiberglass Ladder - 3 inch 81. Step Ladder - Heavy Duty
+Measuring & Marking Tools
+ONE representative category image can be reused for all products in this category initially.
+1. Steel Tape - 6 mm 2. Steel Tape - 8 mm 3. Steel Tape - 10 mm
+4. Steel Tape - 12 mm 5. Steel Tape - 16 mm 6. Steel Tape - 20 mm
+7. Steel Tape - 25 mm 8. Steel Tape - 32 mm 9. Steel Tape - 40 mm
+10. Steel Tape - 50 mm 11. Steel Tape - 1 inch 12. Steel Tape - 1.5 inch
+13. Steel Tape - 2 inch 14. Steel Tape - 3 inch 15. Steel Tape - 4 inch
+16. Steel Tape - 6 inch 17. Steel Tape - 1 m 18. Steel Tape - 2 m
+19. Steel Tape - 5 m 20. Steel Tape - 10 m 21. Steel Tape - 20 m
+22. Steel Tape - 50 m 23. Steel Tape - 100 m 24. Steel Tape - 1 Pc
+25. Steel Tape - 2 Pcs 26. Steel Tape - 5 Pcs 27. Steel Tape - 10 Pcs
+28. Steel Tape - 20 Pcs 29. Steel Tape - 50 Pcs 30. Steel Tape - 100 Pcs
+31. Steel Tape - 1 Kg 32. Steel Tape - 5 Kg 33. Steel Tape - 10 Kg
+34. Measuring Tape - 6 mm 35. Measuring Tape - 8 mm 36. Measuring Tape - 10 mm
+37. Measuring Tape - 12 mm 38. Measuring Tape - 16 mm 39. Measuring Tape - 20 mm
+40. Measuring Tape - 25 mm 41. Measuring Tape - 32 mm 42. Measuring Tape - 40 mm
+43. Measuring Tape - 50 mm 44. Measuring Tape - 1 inch 45. Measuring Tape - 1.5 inch
+46. Measuring Tape - 2 inch 47. Measuring Tape - 3 inch 48. Measuring Tape - 4 inch
+49. Measuring Tape - 6 inch 50. Measuring Tape - 1 m 51. Measuring Tape - 2 m
+52. Measuring Tape - 5 m 53. Measuring Tape - 10 m 54. Measuring Tape - 20 m
+55. Measuring Tape - 50 m 56. Measuring Tape - 100 m 57. Measuring Tape - 1 Pc
+58. Measuring Tape - 2 Pcs 59. Measuring Tape - 5 Pcs 60. Measuring Tape - 10 Pcs
+61. Measuring Tape - 20 Pcs 62. Measuring Tape - 50 Pcs 63. Measuring Tape - 100 Pcs
+64. Measuring Tape - 1 Kg 65. Measuring Tape - 5 Kg 66. Measuring Tape - 10 Kg
+67. Long Tape - 6 mm 68. Long Tape - 8 mm 69. Long Tape - 10 mm
+70. Long Tape - 12 mm 71. Long Tape - 16 mm 72. Long Tape - 20 mm
+73. Long Tape - 25 mm 74. Long Tape - 32 mm 75. Long Tape - 40 mm
+76. Long Tape - 50 mm 77. Long Tape - 1 inch 78. Long Tape - 1.5 inch
+79. Long Tape - 2 inch 80. Long Tape - 3 inch 81. Steel Tape - Heavy Duty
+
+=== PAGE 18 ===
+Shree Sawariya • 3,000-product catalogue blueprint Page 18
+Garden & Outdoor Tools
+ONE representative category image can be reused for all products in this category initially.
+1. Garden Spade - 6 mm 2. Garden Spade - 8 mm 3. Garden Spade - 10 mm
+4. Garden Spade - 12 mm 5. Garden Spade - 16 mm 6. Garden Spade - 20 mm
+7. Garden Spade - 25 mm 8. Garden Spade - 32 mm 9. Garden Spade - 40 mm
+10. Garden Spade - 50 mm 11. Garden Spade - 1 inch 12. Garden Spade - 1.5 inch
+13. Garden Spade - 2 inch 14. Garden Spade - 3 inch 15. Garden Spade - 4 inch
+16. Garden Spade - 6 inch 17. Garden Spade - 1 m 18. Garden Spade - 2 m
+19. Garden Spade - 5 m 20. Garden Spade - 10 m 21. Garden Spade - 20 m
+22. Garden Spade - 50 m 23. Garden Spade - 100 m 24. Garden Spade - 1 Pc
+25. Garden Spade - 2 Pcs 26. Garden Spade - 5 Pcs 27. Garden Spade - 10 Pcs
+28. Garden Spade - 20 Pcs 29. Garden Spade - 50 Pcs 30. Garden Spade - 100 Pcs
+31. Garden Spade - 1 Kg 32. Garden Spade - 5 Kg 33. Garden Spade - 10 Kg
+34. Shovel - 6 mm 35. Shovel - 8 mm 36. Shovel - 10 mm
+37. Shovel - 12 mm 38. Shovel - 16 mm 39. Shovel - 20 mm
+40. Shovel - 25 mm 41. Shovel - 32 mm 42. Shovel - 40 mm
+43. Shovel - 50 mm 44. Shovel - 1 inch 45. Shovel - 1.5 inch
+46. Shovel - 2 inch 47. Shovel - 3 inch 48. Shovel - 4 inch
+49. Shovel - 6 inch 50. Shovel - 1 m 51. Shovel - 2 m
+52. Shovel - 5 m 53. Shovel - 10 m 54. Shovel - 20 m
+55. Shovel - 50 m 56. Shovel - 100 m 57. Shovel - 1 Pc
+58. Shovel - 2 Pcs 59. Shovel - 5 Pcs 60. Shovel - 10 Pcs
+61. Shovel - 20 Pcs 62. Shovel - 50 Pcs 63. Shovel - 100 Pcs
+64. Shovel - 1 Kg 65. Shovel - 5 Kg 66. Shovel - 10 Kg
+67. Hoe - 6 mm 68. Hoe - 8 mm 69. Hoe - 10 mm
+70. Hoe - 12 mm 71. Hoe - 16 mm 72. Hoe - 20 mm
+73. Hoe - 25 mm 74. Hoe - 32 mm 75. Hoe - 40 mm
+76. Hoe - 50 mm 77. Hoe - 1 inch 78. Hoe - 1.5 inch
+79. Hoe - 2 inch 80. Hoe - 3 inch 81. Garden Spade - Heavy Duty
+Cleaning & Maintenance Supplies
+ONE representative category image can be reused for all products in this category initially.
+1. Floor Brush - 6 mm 2. Floor Brush - 8 mm 3. Floor Brush - 10 mm
+4. Floor Brush - 12 mm 5. Floor Brush - 16 mm 6. Floor Brush - 20 mm
+7. Floor Brush - 25 mm 8. Floor Brush - 32 mm 9. Floor Brush - 40 mm
+10. Floor Brush - 50 mm 11. Floor Brush - 1 inch 12. Floor Brush - 1.5 inch
+13. Floor Brush - 2 inch 14. Floor Brush - 3 inch 15. Floor Brush - 4 inch
+16. Floor Brush - 6 inch 17. Floor Brush - 1 m 18. Floor Brush - 2 m
+19. Floor Brush - 5 m 20. Floor Brush - 10 m 21. Floor Brush - 20 m
+22. Floor Brush - 50 m 23. Floor Brush - 100 m 24. Floor Brush - 1 Pc
+25. Floor Brush - 2 Pcs 26. Floor Brush - 5 Pcs 27. Floor Brush - 10 Pcs
+28. Floor Brush - 20 Pcs 29. Floor Brush - 50 Pcs 30. Floor Brush - 100 Pcs
+31. Floor Brush - 1 Kg 32. Floor Brush - 5 Kg 33. Floor Brush - 10 Kg
+34. Wire Brush - 6 mm 35. Wire Brush - 8 mm 36. Wire Brush - 10 mm
+37. Wire Brush - 12 mm 38. Wire Brush - 16 mm 39. Wire Brush - 20 mm
+40. Wire Brush - 25 mm 41. Wire Brush - 32 mm 42. Wire Brush - 40 mm
+43. Wire Brush - 50 mm 44. Wire Brush - 1 inch 45. Wire Brush - 1.5 inch
+46. Wire Brush - 2 inch 47. Wire Brush - 3 inch 48. Wire Brush - 4 inch
+49. Wire Brush - 6 inch 50. Wire Brush - 1 m 51. Wire Brush - 2 m
+52. Wire Brush - 5 m 53. Wire Brush - 10 m 54. Wire Brush - 20 m
+55. Wire Brush - 50 m 56. Wire Brush - 100 m 57. Wire Brush - 1 Pc
+58. Wire Brush - 2 Pcs 59. Wire Brush - 5 Pcs 60. Wire Brush - 10 Pcs
+61. Wire Brush - 20 Pcs 62. Wire Brush - 50 Pcs 63. Wire Brush - 100 Pcs
+64. Wire Brush - 1 Kg 65. Wire Brush - 5 Kg 66. Wire Brush - 10 Kg
+67. Hand Brush - 6 mm 68. Hand Brush - 8 mm 69. Hand Brush - 10 mm
+70. Hand Brush - 12 mm 71. Hand Brush - 16 mm 72. Hand Brush - 20 mm
+73. Hand Brush - 25 mm 74. Hand Brush - 32 mm 75. Hand Brush - 40 mm
+76. Hand Brush - 50 mm 77. Hand Brush - 1 inch 78. Hand Brush - 1.5 inch
+79. Hand Brush - 2 inch 80. Hand Brush - 3 inch 81. Floor Brush - Heavy Duty
+
+=== PAGE 19 ===
+Shree Sawariya • 3,000-product catalogue blueprint Page 19
+Chains Ropes & General Utility
+ONE representative category image can be reused for all products in this category initially.
+1. Mild Steel Chain - 6 mm 2. Mild Steel Chain - 8 mm 3. Mild Steel Chain - 10 mm
+4. Mild Steel Chain - 12 mm 5. Mild Steel Chain - 16 mm 6. Mild Steel Chain - 20 mm
+7. Mild Steel Chain - 25 mm 8. Mild Steel Chain - 32 mm 9. Mild Steel Chain - 40 mm
+10. Mild Steel Chain - 50 mm 11. Mild Steel Chain - 1 inch 12. Mild Steel Chain - 1.5 inch
+13. Mild Steel Chain - 2 inch 14. Mild Steel Chain - 3 inch 15. Mild Steel Chain - 4 inch
+16. Mild Steel Chain - 6 inch 17. Mild Steel Chain - 1 m 18. Mild Steel Chain - 2 m
+19. Mild Steel Chain - 5 m 20. Mild Steel Chain - 10 m 21. Mild Steel Chain - 20 m
+22. Mild Steel Chain - 50 m 23. Mild Steel Chain - 100 m 24. Mild Steel Chain - 1 Pc
+25. Mild Steel Chain - 2 Pcs 26. Mild Steel Chain - 5 Pcs 27. Mild Steel Chain - 10 Pcs
+28. Mild Steel Chain - 20 Pcs 29. Mild Steel Chain - 50 Pcs 30. Mild Steel Chain - 100 Pcs
+31. Mild Steel Chain - 1 Kg 32. Mild Steel Chain - 5 Kg 33. Mild Steel Chain - 10 Kg
+34. Stainless Steel Chain - 6 mm 35. Stainless Steel Chain - 8 mm 36. Stainless Steel Chain - 10 mm
+37. Stainless Steel Chain - 12 mm 38. Stainless Steel Chain - 16 mm 39. Stainless Steel Chain - 20 mm
+40. Stainless Steel Chain - 25 mm 41. Stainless Steel Chain - 32 mm 42. Stainless Steel Chain - 40 mm
+43. Stainless Steel Chain - 50 mm 44. Stainless Steel Chain - 1 inch 45. Stainless Steel Chain - 1.5 inch
+46. Stainless Steel Chain - 2 inch 47. Stainless Steel Chain - 3 inch 48. Stainless Steel Chain - 4 inch
+49. Stainless Steel Chain - 6 inch 50. Stainless Steel Chain - 1 m 51. Stainless Steel Chain - 2 m
+52. Stainless Steel Chain - 5 m 53. Stainless Steel Chain - 10 m 54. Stainless Steel Chain - 20 m
+55. Stainless Steel Chain - 50 m 56. Stainless Steel Chain - 100 m 57. Stainless Steel Chain - 1 Pc
+58. Stainless Steel Chain - 2 Pcs 59. Stainless Steel Chain - 5 Pcs 60. Stainless Steel Chain - 10 Pcs
+61. Stainless Steel Chain - 20 Pcs 62. Stainless Steel Chain - 50 Pcs 63. Stainless Steel Chain - 100 Pcs
+64. Stainless Steel Chain - 1 Kg 65. Stainless Steel Chain - 5 Kg 66. Stainless Steel Chain - 10 Kg
+67. Plastic Chain - 6 mm 68. Plastic Chain - 8 mm 69. Plastic Chain - 10 mm
+70. Plastic Chain - 12 mm 71. Plastic Chain - 16 mm 72. Plastic Chain - 20 mm
+73. Plastic Chain - 25 mm 74. Plastic Chain - 32 mm 75. Plastic Chain - 40 mm
+76. Plastic Chain - 50 mm 77. Plastic Chain - 1 inch 78. Plastic Chain - 1.5 inch
+79. Plastic Chain - 2 inch 80. Plastic Chain - 3 inch 81. Mild Steel Chain - Heavy Duty
+Kitchen Hardware & Fittings
+ONE representative category image can be reused for all products in this category initially.
+1. Sink Faucet - 6 mm 2. Sink Faucet - 8 mm 3. Sink Faucet - 10 mm
+4. Sink Faucet - 12 mm 5. Sink Faucet - 16 mm 6. Sink Faucet - 20 mm
+7. Sink Faucet - 25 mm 8. Sink Faucet - 32 mm 9. Sink Faucet - 40 mm
+10. Sink Faucet - 50 mm 11. Sink Faucet - 1 inch 12. Sink Faucet - 1.5 inch
+13. Sink Faucet - 2 inch 14. Sink Faucet - 3 inch 15. Sink Faucet - 4 inch
+16. Sink Faucet - 6 inch 17. Sink Faucet - 1 m 18. Sink Faucet - 2 m
+19. Sink Faucet - 5 m 20. Sink Faucet - 10 m 21. Sink Faucet - 20 m
+22. Sink Faucet - 50 m 23. Sink Faucet - 100 m 24. Sink Faucet - 1 Pc
+25. Sink Faucet - 2 Pcs 26. Sink Faucet - 5 Pcs 27. Sink Faucet - 10 Pcs
+28. Sink Faucet - 20 Pcs 29. Sink Faucet - 50 Pcs 30. Sink Faucet - 100 Pcs
+31. Sink Faucet - 1 Kg 32. Sink Faucet - 5 Kg 33. Sink Faucet - 10 Kg
+34. Kitchen Mixer - 6 mm 35. Kitchen Mixer - 8 mm 36. Kitchen Mixer - 10 mm
+37. Kitchen Mixer - 12 mm 38. Kitchen Mixer - 16 mm 39. Kitchen Mixer - 20 mm
+40. Kitchen Mixer - 25 mm 41. Kitchen Mixer - 32 mm 42. Kitchen Mixer - 40 mm
+43. Kitchen Mixer - 50 mm 44. Kitchen Mixer - 1 inch 45. Kitchen Mixer - 1.5 inch
+46. Kitchen Mixer - 2 inch 47. Kitchen Mixer - 3 inch 48. Kitchen Mixer - 4 inch
+49. Kitchen Mixer - 6 inch 50. Kitchen Mixer - 1 m 51. Kitchen Mixer - 2 m
+52. Kitchen Mixer - 5 m 53. Kitchen Mixer - 10 m 54. Kitchen Mixer - 20 m
+55. Kitchen Mixer - 50 m 56. Kitchen Mixer - 100 m 57. Kitchen Mixer - 1 Pc
+58. Kitchen Mixer - 2 Pcs 59. Kitchen Mixer - 5 Pcs 60. Kitchen Mixer - 10 Pcs
+61. Kitchen Mixer - 20 Pcs 62. Kitchen Mixer - 50 Pcs 63. Kitchen Mixer - 100 Pcs
+64. Kitchen Mixer - 1 Kg 65. Kitchen Mixer - 5 Kg 66. Kitchen Mixer - 10 Kg
+67. Sink Waste - 6 mm 68. Sink Waste - 8 mm 69. Sink Waste - 10 mm
+70. Sink Waste - 12 mm 71. Sink Waste - 16 mm 72. Sink Waste - 20 mm
+73. Sink Waste - 25 mm 74. Sink Waste - 32 mm 75. Sink Waste - 40 mm
+76. Sink Waste - 50 mm 77. Sink Waste - 1 inch 78. Sink Waste - 1.5 inch
+79. Sink Waste - 2 inch 80. Sink Waste - 3 inch 81. Sink Faucet - Heavy Duty
+Electrical Accessories
+
+=== PAGE 20 ===
+Shree Sawariya • 3,000-product catalogue blueprint Page 20
+ONE representative category image can be reused for all products in this category initially.
+1. Plug Top - 6 mm 2. Plug Top - 8 mm 3. Plug Top - 10 mm
+4. Plug Top - 12 mm 5. Plug Top - 16 mm 6. Plug Top - 20 mm
+7. Plug Top - 25 mm 8. Plug Top - 32 mm 9. Plug Top - 40 mm
+10. Plug Top - 50 mm 11. Plug Top - 1 inch 12. Plug Top - 1.5 inch
+13. Plug Top - 2 inch 14. Plug Top - 3 inch 15. Plug Top - 4 inch
+16. Plug Top - 6 inch 17. Plug Top - 1 m 18. Plug Top - 2 m
+19. Plug Top - 5 m 20. Plug Top - 10 m 21. Plug Top - 20 m
+22. Plug Top - 50 m 23. Plug Top - 100 m 24. Plug Top - 1 Pc
+25. Plug Top - 2 Pcs 26. Plug Top - 5 Pcs 27. Plug Top - 10 Pcs
+28. Plug Top - 20 Pcs 29. Plug Top - 50 Pcs 30. Plug Top - 100 Pcs
+31. Plug Top - 1 Kg 32. Plug Top - 5 Kg 33. Plug Top - 10 Kg
+34. Extension Cord - 6 mm 35. Extension Cord - 8 mm 36. Extension Cord - 10 mm
+37. Extension Cord - 12 mm 38. Extension Cord - 16 mm 39. Extension Cord - 20 mm
+40. Extension Cord - 25 mm 41. Extension Cord - 32 mm 42. Extension Cord - 40 mm
+43. Extension Cord - 50 mm 44. Extension Cord - 1 inch 45. Extension Cord - 1.5 inch
+46. Extension Cord - 2 inch 47. Extension Cord - 3 inch 48. Extension Cord - 4 inch
+49. Extension Cord - 6 inch 50. Extension Cord - 1 m 51. Extension Cord - 2 m
+52. Extension Cord - 5 m 53. Extension Cord - 10 m 54. Extension Cord - 20 m
+55. Extension Cord - 50 m 56. Extension Cord - 100 m 57. Extension Cord - 1 Pc
+58. Extension Cord - 2 Pcs 59. Extension Cord - 5 Pcs 60. Extension Cord - 10 Pcs
+61. Extension Cord - 20 Pcs 62. Extension Cord - 50 Pcs 63. Extension Cord - 100 Pcs
+64. Extension Cord - 1 Kg 65. Extension Cord - 5 Kg 66. Extension Cord - 10 Kg
+67. Extension Board - 6 mm 68. Extension Board - 8 mm 69. Extension Board - 10 mm
+70. Extension Board - 12 mm 71. Extension Board - 16 mm 72. Extension Board - 20 mm
+73. Extension Board - 25 mm 74. Extension Board - 32 mm 75. Extension Board - 40 mm
+76. Extension Board - 50 mm 77. Extension Board - 1 inch 78. Extension Board - 1.5 inch
+79. Extension Board - 2 inch 80. Extension Board - 3 inch 81. Plug Top - Heavy Duty
+Home Repair & DIY
+ONE representative category image can be reused for all products in this category initially.
+1. Utility Knife - 6 mm 2. Utility Knife - 8 mm 3. Utility Knife - 10 mm
+4. Utility Knife - 12 mm 5. Utility Knife - 16 mm 6. Utility Knife - 20 mm
+7. Utility Knife - 25 mm 8. Utility Knife - 32 mm 9. Utility Knife - 40 mm
+10. Utility Knife - 50 mm 11. Utility Knife - 1 inch 12. Utility Knife - 1.5 inch
+13. Utility Knife - 2 inch 14. Utility Knife - 3 inch 15. Utility Knife - 4 inch
+16. Utility Knife - 6 inch 17. Utility Knife - 1 m 18. Utility Knife - 2 m
+19. Utility Knife - 5 m 20. Utility Knife - 10 m 21. Utility Knife - 20 m
+22. Utility Knife - 50 m 23. Utility Knife - 100 m 24. Utility Knife - 1 Pc
+25. Utility Knife - 2 Pcs 26. Utility Knife - 5 Pcs 27. Utility Knife - 10 Pcs
+28. Utility Knife - 20 Pcs 29. Utility Knife - 50 Pcs 30. Utility Knife - 100 Pcs
+31. Utility Knife - 1 Kg 32. Utility Knife - 5 Kg 33. Utility Knife - 10 Kg
+34. Replacement Blades - 6 mm 35. Replacement Blades - 8 mm 36. Replacement Blades - 10 mm
+37. Replacement Blades - 12 mm 38. Replacement Blades - 16 mm 39. Replacement Blades - 20 mm
+40. Replacement Blades - 25 mm 41. Replacement Blades - 32 mm 42. Replacement Blades - 40 mm
+43. Replacement Blades - 50 mm 44. Replacement Blades - 1 inch 45. Replacement Blades - 1.5 inch
+46. Replacement Blades - 2 inch 47. Replacement Blades - 3 inch 48. Replacement Blades - 4 inch
+49. Replacement Blades - 6 inch 50. Replacement Blades - 1 m 51. Replacement Blades - 2 m
+52. Replacement Blades - 5 m 53. Replacement Blades - 10 m 54. Replacement Blades - 20 m
+55. Replacement Blades - 50 m 56. Replacement Blades - 100 m 57. Replacement Blades - 1 Pc
+58. Replacement Blades - 2 Pcs 59. Replacement Blades - 5 Pcs 60. Replacement Blades - 10 Pcs
+61. Replacement Blades - 20 Pcs 62. Replacement Blades - 50 Pcs 63. Replacement Blades - 100 Pcs
+64. Replacement Blades - 1 Kg 65. Replacement Blades - 5 Kg 66. Replacement Blades - 10 Kg
+67. Glue Gun - 6 mm 68. Glue Gun - 8 mm 69. Glue Gun - 10 mm
+70. Glue Gun - 12 mm 71. Glue Gun - 16 mm 72. Glue Gun - 20 mm
+73. Glue Gun - 25 mm 74. Glue Gun - 32 mm 75. Glue Gun - 40 mm
+76. Glue Gun - 50 mm 77. Glue Gun - 1 inch 78. Glue Gun - 1.5 inch
+79. Glue Gun - 2 inch 80. Glue Gun - 3 inch 81. Utility Knife - Heavy Duty
+
+=== PAGE 21 ===
+Shree Sawariya • 3,000-product catalogue blueprint Page 21
+Research basis
+The taxonomy was cross-checked against current online Indian/Mumbai sources covering electrical supplies, plumbing pipes and fittings, hand and power tools, fasteners, paints, safety, bathroom products, building materials, furniture hardware and related home-improvement ranges. The goal is a broad local-store catalogue, not a verified live-inventory feed. Replit implementation rule
+Create Category records with id, name, representativeImage and description. Create Product records with id, categoryId, name, specification, price, stock, brand (optional) and image. Initially assign the same representativeImage to every product in its category. This gives the site thousands of product names without requiring thousands of separate photos.

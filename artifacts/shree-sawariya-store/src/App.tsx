@@ -1,4 +1,4 @@
-import { useMemo, useState, type FormEvent } from "react";
+import { useEffect, useMemo, useState, type FormEvent } from "react";
 import { Link, Route, Switch, useLocation, useParams } from "wouter";
 import {
   ArrowRight,
@@ -31,7 +31,12 @@ import {
   Wrench,
   X,
 } from "lucide-react";
-import { categories, products, type Product } from "@/data/products";
+import {
+  categories,
+  featuredProducts,
+  products,
+  type Product,
+} from "@/data/products";
 import heroToolsImage from "../attached_assets/generated_images/shree-sawariya-hero-tools.png";
 
 const money = (value: number) => `₹${value.toLocaleString("en-IN")}`;
@@ -70,6 +75,8 @@ function ProductArt({
         <img
           src={image}
           alt=""
+          loading="lazy"
+          decoding="async"
           className={`relative z-10 h-full w-full object-contain ${small ? "p-1" : "p-3"}`}
         />
       ) : (
@@ -280,10 +287,11 @@ function MobileMenu({ close }: { close: () => void }) {
               href={`/products?category=${encodeURIComponent(category.label)}`}
               onClick={close}
               data-testid={`mobile-link-${category.label.toLowerCase().replaceAll(" ", "-")}`}
-              className="flex items-center justify-between rounded-lg p-3 text-sm text-slate-700 hover:bg-slate-50"
+              className="flex items-center gap-3 rounded-lg p-2 text-sm text-slate-700 hover:bg-slate-50"
             >
-              {category.label}
-              <ChevronRight size={16} />
+              <ProductArt kind={category.art} image={category.image} small />
+              <span className="min-w-0 flex-1">{category.label}</span>
+              <ChevronRight size={16} className="shrink-0" />
             </Link>
           ))}
           <Link
@@ -368,14 +376,14 @@ function CategoryStrip({ select }: { select?: (category: string) => void }) {
   return (
     <section className="bg-[#f0f6fa] py-5">
       <div className="br-container grid grid-cols-3 gap-2 sm:grid-cols-5 md:grid-cols-9">
-        {categories.map((category) => (
+        {categories.slice(0, 9).map((category) => (
           <button
             key={category.label}
             onClick={() => select?.(category.label)}
             data-testid={`category-tile-${category.label.toLowerCase().replaceAll(" ", "-")}`}
             className="group flex min-h-[94px] flex-col items-center justify-center gap-2 rounded-xl border border-white bg-white/80 p-2 text-center transition hover:-translate-y-0.5 hover:border-[#a9d7eb] hover:bg-white"
           >
-            <ProductArt kind={category.art} small />
+            <ProductArt kind={category.art} image={category.image} small />
             <span className="text-[11px] font-bold leading-tight text-[#14283a]">
               {category.label}
             </span>
@@ -429,14 +437,23 @@ function ProductCard({
           {product.name}
         </div>
       </button>
-      <div className="mt-1 flex items-center gap-1 text-[11px] text-slate-500">
-        <Star size={13} fill="#f7b928" strokeWidth={0} />
-        <b className="text-slate-700">{product.rating}</b> ({product.reviews})
-      </div>
+      {product.reviews > 0 ? (
+        <div className="mt-1 flex items-center gap-1 text-[11px] text-slate-500">
+          <Star size={13} fill="#f7b928" strokeWidth={0} />
+          <b className="text-slate-700">{product.rating}</b> ({product.reviews})
+        </div>
+      ) : (
+        <div className="mt-1 text-[11px] text-slate-500">
+          New catalogue item
+        </div>
+      )}
       <div className="mt-2 flex items-end gap-2">
         <span className="text-base font-bold text-[#14283a]">
           {money(product.price)}
         </span>
+        {product.priceIsEstimate && (
+          <span className="text-[10px] text-slate-400">estimate</span>
+        )}
         {product.originalPrice && (
           <del className="text-xs text-slate-400">
             {money(product.originalPrice)}
@@ -459,7 +476,7 @@ function ProductSection({
   toggleWish,
   addToCart,
   openProduct,
-  productsToShow = products.slice(0, 6),
+  productsToShow = featuredProducts,
   title = "Featured Products",
   subtitle,
 }: {
@@ -526,7 +543,7 @@ function PromotionalBands() {
             Premium building materials for every project
           </p>
           <Link
-            href="/products?category=Building%20Materials"
+            href="/products?category=Cement%20Mortar%20%26%20Civil%20Materials"
             data-testid="link-shop-building"
             className="mt-3 inline-flex items-center gap-2 rounded bg-[#07518b] px-3 py-2 text-[10px] font-bold text-white"
           >
@@ -550,7 +567,7 @@ function PromotionalBands() {
             Wide range of paints & finishes
           </p>
           <Link
-            href="/products?category=Paint%20%26%20Finishes"
+            href="/products?category=Paints%20%26%20Primers"
             data-testid="link-explore-paints"
             className="mt-3 inline-flex items-center gap-2 rounded bg-[#f23868] px-3 py-2 text-[10px] font-bold text-white"
           >
@@ -824,6 +841,181 @@ function ProductModal({
   );
 }
 
+function ProductDetailPage({
+  addToCart,
+  toggleWish,
+  wished,
+}: Pick<StoreState, "addToCart" | "toggleWish" | "wished">) {
+  const { id } = useParams<{ id: string }>();
+  const [, navigate] = useLocation();
+  const product = products.find((item) => item.id === id);
+  const [quantity, setQuantity] = useState(1);
+
+  if (!product) {
+    return (
+      <main className="br-container py-16 text-center">
+        <h1 className="font-display text-3xl font-bold text-[#14283a]">
+          Product not found
+        </h1>
+        <p className="mt-2 text-sm text-slate-500">
+          This catalogue item may have moved or is no longer available.
+        </p>
+        <Link
+          href="/products"
+          className="mt-6 inline-flex rounded bg-[#07518b] px-5 py-3 text-sm font-bold text-white"
+        >
+          Browse the catalogue
+        </Link>
+      </main>
+    );
+  }
+
+  const related = products
+    .filter(
+      (item) => item.categoryId === product.categoryId && item.id !== product.id,
+    )
+    .slice(0, 4);
+  const isWished = wished.has(product.id);
+
+  return (
+    <main className="br-container py-7 sm:py-10">
+      <div className="mb-6 flex items-center gap-2 text-xs font-semibold text-[#07518b]">
+        <Link href="/" data-testid="product-breadcrumb-home">
+          Home
+        </Link>
+        <ChevronRight size={13} />
+        <Link
+          href={`/products?category=${encodeURIComponent(product.category)}`}
+          data-testid="product-breadcrumb-category"
+        >
+          {product.category}
+        </Link>
+        <ChevronRight size={13} />
+        <span className="truncate text-slate-500">{product.name}</span>
+      </div>
+
+      <section className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_minmax(0,1fr)]">
+        <div className="rounded-xl border border-slate-200 bg-white p-4 sm:p-8">
+          <ProductArt kind={product.art} image={product.image} />
+        </div>
+        <div>
+          <p className="text-xs font-bold uppercase tracking-[.18em] text-[#f23868]">
+            {product.category}
+          </p>
+          <h1
+            data-testid={`text-product-detail-${product.id}`}
+            className="mt-2 font-display text-3xl font-bold leading-tight tracking-[-.04em] text-[#14283a] sm:text-4xl"
+          >
+            {product.name}
+          </h1>
+          <p className="mt-3 text-sm text-slate-500">
+            Specification: <b className="text-slate-700">{product.specification}</b>
+          </p>
+          <p className="mt-5 text-sm leading-7 text-slate-600">
+            {product.description}
+          </p>
+          <div className="mt-6 flex items-baseline gap-3">
+            <span className="text-3xl font-bold text-[#14283a]">
+              {money(product.price)}
+            </span>
+            {product.originalPrice && (
+              <del className="text-sm text-slate-400">
+                {money(product.originalPrice)}
+              </del>
+            )}
+            {product.priceIsEstimate && (
+              <span className="text-xs text-slate-400">
+                catalogue estimate
+              </span>
+            )}
+          </div>
+          <div className="mt-5 rounded-lg bg-[#f0f6fa] p-4 text-sm">
+            <div className="flex items-center justify-between gap-4">
+              <span className="font-semibold text-[#07518b]">Stock status</span>
+              <span className="font-bold text-slate-700">
+                {product.stockStatus}
+              </span>
+            </div>
+            <p className="mt-2 text-xs leading-5 text-slate-500">
+              Catalogue prices and availability can change. Confirm the latest
+              store price before ordering.
+            </p>
+          </div>
+          <div className="mt-6 flex flex-wrap items-center gap-3">
+            <div className="flex items-center rounded border border-slate-300">
+              <button
+                aria-label="Decrease quantity"
+                onClick={() => setQuantity((value) => Math.max(1, value - 1))}
+                className="p-3 text-slate-600"
+              >
+                <Minus size={16} />
+              </button>
+              <span className="w-10 text-center text-sm font-bold">{quantity}</span>
+              <button
+                aria-label="Increase quantity"
+                onClick={() => setQuantity((value) => value + 1)}
+                className="p-3 text-slate-600"
+              >
+                <Plus size={16} />
+              </button>
+            </div>
+            <button
+              data-testid={`button-detail-add-${product.id}`}
+              onClick={() => {
+                for (let index = 0; index < quantity; index += 1) {
+                  addToCart(product);
+                }
+              }}
+              className="flex flex-1 items-center justify-center gap-2 rounded bg-[#07518b] px-5 py-3 text-sm font-bold text-white transition hover:bg-[#053b67]"
+            >
+              <ShoppingCart size={17} /> Add to Cart
+            </button>
+            <button
+              data-testid={`button-detail-wishlist-${product.id}`}
+              onClick={() => toggleWish(product.id)}
+              className={`rounded border p-3 ${isWished ? "border-[#f23868] text-[#f23868]" : "border-slate-300 text-slate-600"}`}
+              aria-label={isWished ? "Remove from wishlist" : "Add to wishlist"}
+            >
+              <Heart size={19} fill={isWished ? "currentColor" : "none"} />
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <section className="mt-12 border-t border-slate-200 pt-8">
+        <div className="flex items-end justify-between gap-4">
+          <div>
+            <h2 className="font-display text-2xl font-bold text-[#14283a]">
+              Related products
+            </h2>
+            <p className="mt-1 text-sm text-slate-500">
+              More catalogue items from {product.category}.
+            </p>
+          </div>
+          <Link
+            href={`/products?category=${encodeURIComponent(product.category)}`}
+            className="text-xs font-bold text-[#07518b]"
+          >
+            View category
+          </Link>
+        </div>
+        <div className="mt-5 grid grid-cols-2 gap-3 md:grid-cols-4">
+          {related.map((item) => (
+            <ProductCard
+              key={item.id}
+              product={item}
+              wished={wished.has(item.id)}
+              onWish={() => toggleWish(item.id)}
+              onAdd={() => addToCart(item)}
+              onOpen={() => navigate(`/product/${item.id}`)}
+            />
+          ))}
+        </div>
+      </section>
+    </main>
+  );
+}
+
 function CartDrawer({
   cart,
   close,
@@ -988,15 +1180,75 @@ type StoreState = {
 };
 
 function ProductsPage(props: StoreState) {
-  const params = new URLSearchParams(window.location.search);
+  const [location] = useLocation();
+  const params = useMemo(
+    () => new URLSearchParams(window.location.search),
+    [location],
+  );
   const category = params.get("category");
   const search = params.get("search")?.toLowerCase() ?? "";
-  const filtered = products.filter(
-    (product) =>
-      (!category || product.category === category) &&
-      (!search ||
-        `${product.name} ${product.category}`.toLowerCase().includes(search)),
+  const [sort, setSort] = useState("featured");
+  const [availableOnly, setAvailableOnly] = useState(false);
+  const [filtersOpen, setFiltersOpen] = useState(false);
+  const [page, setPage] = useState(1);
+  const pageSize = 24;
+  const categoryInfo = categories.find((item) => item.label === category);
+
+  useEffect(() => {
+    setPage(1);
+  }, [category, search, sort, availableOnly]);
+
+  const filtered = useMemo(
+    () =>
+      products
+        .filter(
+          (product) =>
+            (!category || product.category === category) &&
+            (!search || product.searchText.includes(search)) &&
+            (!availableOnly || product.stockStatus === "Available to order"),
+        )
+        .sort((first, second) => {
+          if (sort === "price-low") return first.price - second.price;
+          if (sort === "price-high") return second.price - first.price;
+          if (sort === "name") return first.name.localeCompare(second.name);
+          return Number(Boolean(second.originalPrice)) - Number(Boolean(first.originalPrice));
+        }),
+    [availableOnly, category, search, sort],
   );
+  const totalPages = Math.max(1, Math.ceil(filtered.length / pageSize));
+  const currentPage = Math.min(page, totalPages);
+  const visibleProducts = filtered.slice(
+    (currentPage - 1) * pageSize,
+    currentPage * pageSize,
+  );
+
+  const filterControls = (
+    <div className="space-y-4">
+      <label className="block text-sm font-semibold text-[#14283a]">
+        Sort products
+        <select
+          value={sort}
+          onChange={(event) => setSort(event.target.value)}
+          className="mt-2 w-full rounded border border-slate-300 bg-white px-3 py-2 text-sm font-normal outline-none focus:border-[#07518b]"
+        >
+          <option value="featured">Featured first</option>
+          <option value="price-low">Price: low to high</option>
+          <option value="price-high">Price: high to low</option>
+          <option value="name">Name: A to Z</option>
+        </select>
+      </label>
+      <label className="flex items-center gap-2 text-sm text-slate-600">
+        <input
+          type="checkbox"
+          checked={availableOnly}
+          onChange={(event) => setAvailableOnly(event.target.checked)}
+          className="accent-[#07518b]"
+        />
+        Show items marked available to order
+      </label>
+    </div>
+  );
+
   return (
     <main className="br-container py-7 sm:py-10">
       <div className="flex flex-wrap items-end justify-between gap-4">
@@ -1013,17 +1265,38 @@ function ProductsPage(props: StoreState) {
               (search ? `Search results for "${search}"` : "All Products")}
           </h1>
           <p className="mt-1 text-sm text-slate-500">
-            {filtered.length} dependable products for your next job
+            {filtered.length.toLocaleString("en-IN")} catalogue items for your
+            next job
           </p>
         </div>
         <button
           data-testid="button-filter-products"
+          onClick={() => setFiltersOpen(true)}
           className="flex items-center gap-2 rounded border border-slate-300 bg-white px-4 py-2 text-sm font-semibold text-[#07518b]"
         >
           <SlidersHorizontal size={16} /> Filter & Sort{" "}
           <ChevronDown size={15} />
         </button>
       </div>
+      {categoryInfo && (
+        <section className="mt-6 grid items-center gap-5 rounded-xl border border-[#c9e1eb] bg-[#f0f6fa] p-4 sm:grid-cols-[150px_1fr] sm:p-5">
+          <img
+            src={categoryInfo.image}
+            alt=""
+            loading="lazy"
+            className="h-28 w-full rounded-lg object-cover sm:h-24"
+          />
+          <div>
+            <p className="text-sm leading-6 text-slate-600">
+              {categoryInfo.description}
+            </p>
+            <p className="mt-2 text-xs font-bold text-[#07518b]">
+              {categoryInfo.count} catalogue entries · one representative image
+              reused across this category
+            </p>
+          </div>
+        </section>
+      )}
       <div className="mt-7 grid gap-5 lg:grid-cols-[220px_1fr]">
         <aside className="br-desktop h-fit rounded-lg border border-slate-200 bg-white p-4">
           <h3 className="font-bold text-[#14283a]">Shop by category</h3>
@@ -1035,24 +1308,115 @@ function ProductsPage(props: StoreState) {
                 data-testid={`sidebar-category-${item.label.toLowerCase().replaceAll(" ", "-")}`}
                 className={`block rounded px-2 py-2 text-sm ${category === item.label ? "bg-[#e3f2f8] font-bold text-[#07518b]" : "text-slate-600 hover:bg-slate-50"}`}
               >
-                {item.label}
+                <span className="flex items-center justify-between gap-2">
+                  {item.label}
+                  <small className="text-[10px] text-slate-400">
+                    {item.count}
+                  </small>
+                </span>
               </Link>
             ))}
+            <div className="mt-5 border-t border-slate-100 pt-4">
+              {filterControls}
+            </div>
           </div>
         </aside>
-        <div className="grid grid-cols-2 gap-3 sm:grid-cols-3">
-          {filtered.map((product) => (
-            <ProductCard
-              key={product.id}
-              product={product}
-              wished={props.wished.has(product.id)}
-              onWish={() => props.toggleWish(product.id)}
-              onAdd={() => props.addToCart(product)}
-              onOpen={() => props.openProduct(product)}
-            />
-          ))}
+        <div>
+          {visibleProducts.length ? (
+            <div className="grid grid-cols-2 gap-3 sm:grid-cols-3">
+              {visibleProducts.map((product) => (
+                <ProductCard
+                  key={product.id}
+                  product={product}
+                  wished={props.wished.has(product.id)}
+                  onWish={() => props.toggleWish(product.id)}
+                  onAdd={() => props.addToCart(product)}
+                  onOpen={() => props.openProduct(product)}
+                />
+              ))}
+            </div>
+          ) : (
+            <div className="rounded-xl border border-dashed border-slate-300 py-20 text-center">
+              <p className="font-bold text-[#14283a]">No catalogue items found</p>
+              <p className="mt-1 text-sm text-slate-500">
+                Try a broader search or clear the availability filter.
+              </p>
+            </div>
+          )}
+          {filtered.length > pageSize && (
+            <div className="mt-7 flex flex-wrap items-center justify-between gap-3">
+              <p className="text-xs text-slate-500">
+                Showing {(currentPage - 1) * pageSize + 1}–
+                {Math.min(currentPage * pageSize, filtered.length)} of{" "}
+                {filtered.length.toLocaleString("en-IN")}
+              </p>
+              <div className="flex items-center gap-1">
+                <button
+                  disabled={currentPage === 1}
+                  onClick={() => setPage((value) => Math.max(1, value - 1))}
+                  className="rounded border border-slate-300 px-3 py-2 text-xs font-bold text-[#07518b] disabled:cursor-not-allowed disabled:opacity-40"
+                >
+                  Previous
+                </button>
+                {Array.from(
+                  { length: Math.min(5, totalPages) },
+                  (_, index) => {
+                    const pageNumber = Math.min(
+                      Math.max(1, currentPage - 2) + index,
+                      totalPages,
+                    );
+                    return (
+                      <button
+                        key={pageNumber}
+                        onClick={() => setPage(pageNumber)}
+                        className={`h-8 min-w-8 rounded border px-2 text-xs font-bold ${pageNumber === currentPage ? "border-[#07518b] bg-[#07518b] text-white" : "border-slate-300 text-[#07518b]"}`}
+                      >
+                        {pageNumber}
+                      </button>
+                    );
+                  },
+                )}
+                <button
+                  disabled={currentPage === totalPages}
+                  onClick={() =>
+                    setPage((value) => Math.min(totalPages, value + 1))
+                  }
+                  className="rounded border border-slate-300 px-3 py-2 text-xs font-bold text-[#07518b] disabled:cursor-not-allowed disabled:opacity-40"
+                >
+                  Next
+                </button>
+              </div>
+            </div>
+          )}
         </div>
       </div>
+      {filtersOpen && (
+        <div
+          className="fixed inset-0 z-50 bg-[#051d31]/40 p-4 lg:hidden"
+          onClick={() => setFiltersOpen(false)}
+        >
+          <div
+            onClick={(event) => event.stopPropagation()}
+            className="mx-auto mt-16 max-w-md rounded-xl bg-white p-5 shadow-2xl"
+          >
+            <div className="mb-5 flex items-center justify-between">
+              <h2 className="font-display text-xl font-bold text-[#14283a]">
+                Filter & Sort
+              </h2>
+              <button onClick={() => setFiltersOpen(false)}>
+                <X size={20} />
+              </button>
+            </div>
+            {filterControls}
+            <button
+              onClick={() => setFiltersOpen(false)}
+              className="mt-6 w-full rounded bg-[#07518b] py-3 text-sm font-bold text-white"
+            >
+              Show {filtered.length.toLocaleString("en-IN")} items
+            </button>
+          </div>
+        </div>
+      )}
     </main>
   );
 }
@@ -1335,7 +1699,6 @@ function App() {
   const [wished, setWished] = useState<Set<string>>(new Set());
   const [cartOpen, setCartOpen] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
-  const [selectedProduct, setSelectedProduct] = useState<Product | null>(null);
   const [, navigate] = useLocation();
   const cartCount = Object.values(cart).reduce((sum, value) => sum + value, 0);
   const wishlistCount = wished.size;
@@ -1374,10 +1737,10 @@ function App() {
       wished,
       toggleWish,
       addToCart,
-      openProduct: setSelectedProduct,
+      openProduct: (product: Product) => navigate(`/product/${product.id}`),
       setCategory,
     }),
-    [wished],
+    [navigate, wished],
   );
   return (
     <div className="br-shell br-noise">
@@ -1392,6 +1755,10 @@ function App() {
         <Route
           path="/products"
           component={() => <ProductsPage {...shared} />}
+        />
+        <Route
+          path="/product/:id"
+          component={() => <ProductDetailPage {...shared} />}
         />
         <Route path="/deals" component={() => <DealsPage {...shared} />} />
         <Route
@@ -1421,16 +1788,6 @@ function App() {
           checkout={() => {
             setCartOpen(false);
             navigate("/checkout");
-          }}
-        />
-      )}
-      {selectedProduct && (
-        <ProductModal
-          product={selectedProduct}
-          close={() => setSelectedProduct(null)}
-          add={() => {
-            addToCart(selectedProduct);
-            setSelectedProduct(null);
           }}
         />
       )}
