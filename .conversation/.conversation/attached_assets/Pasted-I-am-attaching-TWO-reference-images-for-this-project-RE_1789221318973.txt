@@ -1,0 +1,680 @@
+I am attaching TWO reference images for this project.
+
+REFERENCE IMAGE 1:
+This is the website design concept that was created for me earlier. I am attaching it as the PRIMARY UI/UX and visual design reference.
+
+REFERENCE IMAGE 2:
+This is a real photograph of the actual hardware/electrical store. Use this image as the PRIMARY reference for the REAL BUSINESS IDENTITY, STORE NAME, REAL-WORLD APPEARANCE, BUSINESS CONTEXT, AND AUTHENTICITY.
+
+I want you to build a complete professional website for THIS ACTUAL HARDWARE STORE.
+
+IMPORTANT:
+Do NOT simply copy the fictional "BuildRight" branding from Reference Image 1.
+
+Reference Image 1 is mainly for:
+- Layout
+- UI/UX
+- Website structure
+- Visual hierarchy
+- Section arrangement
+- Color direction
+- Ecommerce design
+- Typography hierarchy
+- Card design
+- Header design
+- Hero design
+- Navigation
+- Product presentation
+- Promotional sections
+
+Reference Image 2 is for:
+- The actual store's identity
+- The exact store name shown in the photograph
+- The actual nature of the business
+- Electrical and hardware products
+- Real store context
+- Authentic Indian local-business feel
+
+The final website should feel like a modern digital version of the REAL store shown in Reference Image 2, while using the professional ecommerce design language of Reference Image 1.
+
+==================================================
+1. FIRST: IDENTIFY THE REAL STORE NAME
+==================================================
+
+Carefully inspect Reference Image 2.
+
+Use the EXACT store name visible on the real shop sign.
+
+Do NOT use "BuildRight Hardware Store" as the final business name.
+
+Do NOT invent a new store name.
+
+Do NOT replace the actual store name with a generic brand.
+
+If the store name is written in Marathi/Hindi or another Indian script, preserve the correct wording and, where useful, provide a clean English transliteration alongside it.
+
+The real store identity from Reference Image 2 must take priority over the placeholder branding in Reference Image 1.
+
+==================================================
+2. WEBSITE PURPOSE
+==================================================
+
+Build a professional ecommerce/catalog website for the real hardware and electrical store.
+
+The website should allow customers to:
+
+- Browse hardware products
+- Browse electrical products
+- Browse tools
+- Browse plumbing products
+- Browse building materials
+- Browse paint and finishing products
+- Browse safety products
+- Search products
+- View product details
+- Add products to cart
+- Manage cart quantities
+- Save products to wishlist
+- Contact the store
+- Find the physical store
+- Request/ask about products
+- Explore offers
+
+The website should feel like a real business website that could eventually be connected to a backend.
+
+==================================================
+3. DESIGN DIRECTION
+==================================================
+
+Use Reference Image 1 as the primary visual inspiration.
+
+The design should be:
+
+- Modern
+- Premium
+- Professional
+- Clean
+- Trustworthy
+- Indian ecommerce friendly
+- Hardware/electrical focused
+- Easy to navigate
+- Visually strong
+- Fast and practical
+
+Maintain the overall visual language of Reference Image 1:
+
+- Deep navy blue
+- Bright blue
+- White
+- Light gray/light blue backgrounds
+- Pink/coral accent color for important CTAs
+- Rounded cards
+- Clean borders
+- Subtle shadows
+- Strong typography
+- Large professional hero section
+- Product cards
+- Category cards
+- Promotional banners
+
+However, adapt the branding and content to the REAL STORE shown in Reference Image 2.
+
+==================================================
+4. HEADER
+==================================================
+
+Create a professional ecommerce header inspired by Reference Image 1.
+
+TOP UTILITY BAR:
+
+Include items such as:
+
+- Store Locator
+- Track Order
+- Contact Us
+- Login / Sign Up
+
+MAIN HEADER:
+
+Left:
+- Hamburger/menu icon on mobile
+- Actual store logo/name
+- Store subtitle such as Electrical & Hardware Store if appropriate
+
+Center:
+Large search bar:
+
+"Search for tools, materials, electrical products and more..."
+
+Right:
+- Wishlist
+- Cart
+- Cart quantity badge
+
+Make the header clean and compact.
+
+Do not create unnecessary empty space.
+
+==================================================
+5. NAVIGATION
+==================================================
+
+Create a clean category navigation inspired by Reference Image 1.
+
+Possible categories:
+
+- All Categories
+- Electrical
+- Hardware
+- Tools
+- Plumbing
+- Building Materials
+- Paint & Finishes
+- Safety Gear
+- Home Improvement
+- Outdoor & Garden
+
+Use categories that genuinely make sense for the actual store.
+
+Include a prominent:
+
+"Deals & Offers"
+
+button.
+
+Desktop navigation should be horizontal.
+
+Mobile navigation should become a proper hamburger menu/drawer.
+
+DO NOT squeeze the desktop navigation into a mobile screen.
+
+==================================================
+6. HERO SECTION
+==================================================
+
+Create a large hero section inspired by Reference Image 1.
+
+Do NOT blindly reuse the "Everything You Need To Build Better" wording if it doesn't suit the real business.
+
+Instead, create professional copy based on the actual store.
+
+For example, use messaging around:
+
+- Electrical & Hardware Solutions
+- Quality Products for Every Project
+- Trusted Local Hardware & Electrical Store
+- Everything You Need for Your Home, Shop & Project
+
+Use the real store's identity and location context.
+
+The hero should contain:
+
+- Strong headline
+- Short supporting description
+- Primary CTA
+- Secondary CTA if appropriate
+- Hardware/electrical imagery
+- Professional background treatment
+- Trust indicators
+
+Example CTAs:
+
+"Shop Now"
+
+"Explore Products"
+
+"Contact Store"
+
+==================================================
+7. REAL STORE AUTHENTICITY
+==================================================
+
+Reference Image 2 shows the actual physical store.
+
+Use this to make the website feel authentic.
+
+Where appropriate, include:
+
+- Real store name
+- Physical store location
+- Store/contact information visible in the reference
+- Electrical and hardware specialization
+- Store photograph as an "Our Store" or "Visit Us" section
+
+Do NOT expose any personal phone number from the photograph unless it is clearly intended to be the public business contact number and is appropriate for the website.
+
+If information is unclear in the photograph, do not invent it.
+
+==================================================
+8. CATEGORY SECTION
+==================================================
+
+Create a category section inspired by Reference Image 1.
+
+Use attractive category cards for:
+
+Electrical
+Hardware
+Tools
+Plumbing
+Building Materials
+Paint & Finishes
+Safety Gear
+Home Improvement
+Outdoor & Garden
+
+Each category card should have:
+
+- Appropriate icon/image
+- Category name
+- Hover effect
+- Clickable navigation
+
+Use consistent card sizing.
+
+==================================================
+9. FEATURED PRODUCTS
+==================================================
+
+Create a professional Featured Products section.
+
+Each product card should contain:
+
+- Product image
+- Product name
+- Short description if appropriate
+- Price
+- Availability/status
+- Add to Cart
+- Wishlist icon
+
+Use realistic hardware/electrical products.
+
+Examples:
+
+- Electrical wire
+- Switches
+- Sockets
+- LED bulbs
+- MCBs
+- Electrical accessories
+- Drills
+- Screwdriver sets
+- Pliers
+- Hammers
+- Measuring tools
+- Fasteners
+- Plumbing fittings
+- Paint supplies
+- Safety equipment
+
+Do NOT make up unrealistic products.
+
+Keep product data in a clean reusable data structure so real products can be added later.
+
+==================================================
+10. PRODUCT INTERACTIONS
+==================================================
+
+Make the ecommerce UI functional.
+
+Implement:
+
+- Search
+- Product filtering
+- Category filtering
+- Product detail view
+- Add to Cart
+- Remove from Cart
+- Increase/decrease quantity
+- Cart total
+- Wishlist
+- Product sorting
+- Product availability indicators
+- Deals/offers
+
+Buttons must actually work.
+
+Do not create fake buttons that do nothing.
+
+==================================================
+11. STORE LOCATION
+==================================================
+
+Create a dedicated "Visit Our Store" section.
+
+Use the actual location information visible in Reference Image 2 where it is clearly readable.
+
+The photograph indicates the store is around:
+
+Halav/Halav Pool Road,
+Kurla West,
+Mumbai.
+
+Verify the exact wording/location before displaying it prominently.
+
+Include:
+
+- Address
+- Map section
+- Store directions button
+- Contact option
+- Store image
+
+Make this section visually consistent with the rest of the website.
+
+==================================================
+12. PROMOTIONAL SECTION
+==================================================
+
+Create promotional banners inspired by Reference Image 1.
+
+Examples:
+
+"Quality Electrical Products"
+
+"Trusted Hardware for Every Project"
+
+"Tools You Can Rely On"
+
+"Special Offers"
+
+"Building Materials for Every Project"
+
+Use the blue/pink/white visual language from the reference design.
+
+==================================================
+13. TRUST SECTION
+==================================================
+
+Create a small trust/benefits section.
+
+Possible benefits:
+
+- Genuine Products
+- Quality Brands
+- Local Store Support
+- Expert Assistance
+- Convenient Shopping
+- Fast Availability
+
+Only claim things that make sense for the real store.
+
+Do not invent certifications or guarantees.
+
+==================================================
+14. MOBILE RESPONSIVENESS
+==================================================
+
+THIS IS VERY IMPORTANT.
+
+The website MUST be fully responsive.
+
+Do NOT treat mobile as an afterthought.
+
+Design specifically for:
+
+- 320px
+- 360px
+- 375px
+- 390px
+- 412px
+- 430px
+- 768px
+- Tablet
+- Laptop
+- Desktop
+- Large desktop
+
+There must be ZERO unwanted horizontal page overflow.
+
+On mobile:
+
+HEADER:
+- Compact
+- Hamburger on left
+- Store logo/name properly positioned
+- Wishlist/cart on right
+- No giant empty gaps
+
+SEARCH:
+- Full usable width
+- Proper margins
+- Search button stays inside the search component
+- Placeholder text does not overflow
+- No elements appear beside or behind it
+
+NAVIGATION:
+- Hide desktop navigation
+- Use hamburger menu/drawer
+- Menu should be touch-friendly
+
+HERO:
+- Proper mobile typography
+- Heading must fit inside viewport
+- Image must not cover text
+- CTA must remain visible
+- Service/trust indicators must not overlap
+
+CATEGORIES:
+- Use a proper horizontal touch-scroll carousel OR responsive grid
+- Only the category area may scroll horizontally
+- The entire page must NOT horizontally scroll
+
+PRODUCTS:
+- Use a responsive 2-column grid on suitable mobile widths
+- Cards must not become tiny
+- Images must remain contained
+- Buttons must remain usable
+
+PROMOTIONAL BANNERS:
+- Stack vertically on mobile
+- Maintain readable text
+- Maintain proper image placement
+
+==================================================
+15. MOBILE OVERFLOW RULE
+==================================================
+
+Do NOT solve responsive problems simply by adding:
+
+overflow-x: hidden;
+
+That is NOT an acceptable primary solution.
+
+Find the actual element causing the overflow and fix:
+
+- Width
+- Max-width
+- Padding
+- Margin
+- Positioning
+- Flex behavior
+- Grid behavior
+- Image sizing
+- Text wrapping
+- Absolute positioning
+
+You may use overflow protection as a final safety measure, but first fix the underlying layout.
+
+==================================================
+16. VISUAL QUALITY
+==================================================
+
+The final result should NOT look like a generic AI-generated template.
+
+It should look like a real professional ecommerce website designed specifically for this hardware/electrical business.
+
+Pay close attention to:
+
+- Alignment
+- Spacing
+- Typography
+- Card proportions
+- Image quality
+- Button sizes
+- Color balance
+- Section hierarchy
+- Header proportions
+- Hero proportions
+- Mobile layout
+- Desktop layout
+
+Reference Image 1 should remain the visual benchmark for quality.
+
+Reference Image 2 should remain the business identity benchmark.
+
+==================================================
+17. IMAGE USAGE
+==================================================
+
+Use the attached real store photograph where appropriate.
+
+Do not distort it.
+
+Possible uses:
+
+- Our Store section
+- Store profile section
+- About section
+- Visit Us section
+- Trust/authenticity section
+
+For product imagery, use appropriate high-quality hardware/electrical product images.
+
+Do not use broken image links.
+
+Do not use random unrelated stock photos.
+
+==================================================
+18. FOOTER
+==================================================
+
+Create a professional footer containing:
+
+- Actual store name
+- Product categories
+- Quick links
+- Contact information where verified
+- Store address
+- Store locator
+- About
+- Terms
+- Privacy
+- Social links if available
+- Copyright
+
+Keep the footer consistent with the blue/pink visual identity.
+
+==================================================
+19. TECHNICAL IMPLEMENTATION
+==================================================
+
+Build this as a proper production-quality website.
+
+Use:
+
+- Reusable components
+- Clean component structure
+- Responsive CSS
+- Reusable product cards
+- Reusable category cards
+- Centralized product/category data
+- Proper state management for cart/wishlist
+- Clean routing/navigation
+- Accessible buttons and controls
+- Semantic HTML
+- Proper image handling
+- Good loading performance
+
+Do not put the entire website into one giant component.
+
+Do not create unnecessary complexity.
+
+==================================================
+20. SEO + ACCESSIBILITY
+==================================================
+
+Implement basic production-ready SEO:
+
+- Proper page title
+- Meta description
+- Semantic headings
+- Descriptive image alt text
+- Proper button labels
+- Accessible navigation
+- Keyboard-friendly controls
+
+==================================================
+21. FINAL VISUAL QA
+==================================================
+
+Before declaring the work complete, inspect the rendered website yourself.
+
+Compare it against BOTH attached references.
+
+Reference Image 1:
+Check visual design, layout, spacing, ecommerce structure, colors and overall polish.
+
+Reference Image 2:
+Check whether the final website correctly represents the real store and its identity.
+
+Then test:
+
+320px
+360px
+375px
+390px
+412px
+430px
+768px
+1024px
+1280px
+1440px+
+
+Check the entire page from top to bottom.
+
+Specifically look for:
+
+- Horizontal overflow
+- Cut-off text
+- Overlapping elements
+- Broken images
+- Buttons outside viewport
+- Cards extending outside viewport
+- Excessive empty space
+- Header alignment issues
+- Hero image overlap
+- Mobile navigation problems
+- Product card problems
+- Footer overflow
+
+Fix every issue you find.
+
+==================================================
+22. VERY IMPORTANT FINAL INSTRUCTION
+==================================================
+
+DO NOT redesign this project into something completely different.
+
+I am giving you Reference Image 1 because I specifically want that design language and layout.
+
+I am giving you Reference Image 2 because I specifically want the website to represent the REAL hardware/electrical store shown in that photograph.
+
+Therefore:
+
+REFERENCE IMAGE 1 = DESIGN / UI / UX REFERENCE
+
+REFERENCE IMAGE 2 = REAL STORE / BRAND / BUSINESS REFERENCE
+
+Combine both intelligently.
+
+The final result should look like:
+
+"A premium modern ecommerce website for the real local hardware and electrical store shown in the photograph."
+
+It should NOT look like:
+
+"A generic BuildRight demo website."
+
+Make it fully responsive, functional, polished, and production-ready.

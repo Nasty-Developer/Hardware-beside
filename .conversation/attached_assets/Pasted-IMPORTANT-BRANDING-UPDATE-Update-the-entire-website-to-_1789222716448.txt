@@ -1,0 +1,240 @@
+IMPORTANT BRANDING UPDATE:
+
+Update the entire website to use the REAL store branding below.
+
+STORE NAME:
+Shree Sawariya
+
+Do NOT use:
+- BuildRight
+- BuildRight Hardware Store
+- Any other invented business name
+
+Replace the previous BuildRight branding everywhere with:
+
+SHREE SAWARIYA
+
+Use the name consistently in:
+
+- Logo
+- Header
+- Browser/page title
+- Hero section
+- About section
+- Store section
+- Footer
+- Contact section
+- Mobile navigation
+- Any metadata
+- Any placeholder branding
+- Any visible text throughout the website
+
+==================================================
+REAL STORE ADDRESS
+==================================================
+
+Use the following address for the store:
+
+Shree Sawariya
+Halav Pool Road
+Opp. Rolex Hotel
+Kurla (West)
+Mumbai - 400070
+Maharashtra, India
+
+Keep the address formatting clean and professional.
+
+==================================================
+STORE PHONE NUMBER
+==================================================
+
+Use the business phone number shown on the provided store photograph:
+
+9136211245
+
+Display it where appropriate:
+
+- Contact section
+- Store information
+- Footer
+- Mobile contact area
+
+Make the phone number clickable on mobile using a tel: link.
+
+Do NOT invent any additional phone numbers.
+
+==================================================
+STORE IDENTITY
+==================================================
+
+The attached real-store photograph is the source of truth for the physical business.
+
+The website should now represent:
+
+SHREE SAWARIYA
+
+as a real Indian electrical and hardware store located at:
+
+Halav Pool Road, Opp. Rolex Hotel, Kurla (West), Mumbai - 400070.
+
+The previous "BuildRight" name was only part of the design reference and MUST NOT remain as the business identity.
+
+==================================================
+DESIGN
+==================================================
+
+Keep the previously created website design and visual structure.
+
+Do NOT throw away the existing design.
+
+Keep:
+
+- Deep blue
+- Bright blue
+- White
+- Pink/coral accents
+- Modern ecommerce layout
+- Hero section
+- Category cards
+- Featured products
+- Promotional banners
+- Store section
+- Footer
+- Responsive layout
+- Cart
+- Wishlist
+- Search
+- Product browsing
+
+Only change the branding/content so the website is specifically for SHREE SAWARIYA.
+
+==================================================
+LOGO
+==================================================
+
+Create a professional logo treatment for:
+
+SHREE SAWARIYA
+
+The logo should fit the existing blue/white visual style.
+
+Do not keep the BuildRight house logo or BuildRight text.
+
+The brand should look like a genuine hardware/electrical business rather than a generic template.
+
+==================================================
+HERO
+==================================================
+
+Update the hero section to represent Shree Sawariya.
+
+Use messaging such as:
+
+"Everything You Need for Every Project"
+
+and supporting text focused on:
+
+Electrical products, hardware, tools and everyday project essentials.
+
+Use:
+
+"Shop Now"
+
+as the main CTA.
+
+Do not mention BuildRight anywhere.
+
+==================================================
+STORE INFORMATION
+==================================================
+
+Create a dedicated section:
+
+"Visit Shree Sawariya"
+
+Show:
+
+Shree Sawariya
+
+Halav Pool Road,
+Opp. Rolex Hotel,
+Kurla (West),
+Mumbai - 400070,
+Maharashtra, India
+
+Phone:
+9136211245
+
+Add buttons:
+
+"Get Directions"
+
+"Call Store"
+
+The Get Directions button should open Google Maps/search for the store address.
+
+The Call Store button should use the phone number.
+
+==================================================
+FOOTER
+==================================================
+
+Footer should display:
+
+SHREE SAWARIYA
+
+Electrical & Hardware Store
+
+Halav Pool Road,
+Opp. Rolex Hotel,
+Kurla (West),
+Mumbai - 400070,
+Maharashtra, India
+
+Phone: 9136211245
+
+Also include:
+
+- Products
+- Categories
+- About Us
+- Contact
+- Store Location
+- Privacy Policy
+- Terms
+
+==================================================
+FINAL CHECK
+==================================================
+
+Search the entire project for:
+
+"BuildRight"
+
+and remove/replace every instance that refers to the business branding.
+
+The final website must consistently say:
+
+SHREE SAWARIYA
+
+The real business address must consistently be:
+
+Halav Pool Road, Opp. Rolex Hotel, Kurla (West), Mumbai - 400070, Maharashtra, India
+
+The business phone must consistently be:
+
+9136211245
+
+Do not accidentally leave BuildRight in:
+- Header
+- Logo
+- Footer
+- Page title
+- Meta tags
+- Mobile menu
+- Components
+- JSON/product data
+- Placeholder content
+- Browser title
+
+After making these changes, test the entire website on desktop and mobile and make sure the new name and contact information are displayed correctly everywhere.

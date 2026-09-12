@@ -1,0 +1,385 @@
+I am attaching a reference image of the exact website design I want you to build.
+
+IMPORTANT: Treat the attached image as the PRIMARY visual reference. Build the website to look as close to this image as technically possible. Do NOT create your own different design or reinterpret the layout.
+
+I want a complete, polished, responsive **Hardware Store ecommerce website** based directly on the attached design.
+
+### 1. Overall Design
+
+Match the reference image's:
+
+* Overall layout
+* Spacing
+* Typography hierarchy
+* Card sizes
+* Navigation structure
+* Colors
+* Borders
+* Shadows
+* Button styling
+* Rounded corners
+* Product presentation
+* Hero section
+* Category section
+* Featured products section
+* Promotional banners
+* Header structure
+
+The visual style should be modern, professional, clean, premium, and suitable for a real hardware/building-materials ecommerce business.
+
+### 2. Color Palette
+
+Use the same visual color direction as the reference:
+
+* Deep/dark navy blue for major backgrounds
+* Bright blue for primary buttons and interactive elements
+* White backgrounds
+* Light blue/gray section backgrounds
+* Bright pink/coral accents for promotions and important CTAs
+* Dark navy text
+* White text on dark sections
+
+The blue + pink combination should be one of the defining characteristics of the website.
+
+### 3. Top Utility Bar
+
+Create a thin dark-blue bar at the very top.
+
+Left side:
+**Trusted Tools. Stronger Tomorrows.**
+
+Right side:
+
+* Store Locator
+* Track Order
+* Login / Sign Up
+
+Use small clean icons beside each item.
+
+### 4. Main Header
+
+Create a large white header underneath.
+
+Left:
+
+* Hardware store logo
+* Store name: **BuildRight**
+* Subtitle: **HARDWARE STORE**
+
+Center:
+A large search bar with placeholder:
+
+**Search for tools, materials, and more...**
+
+Include a blue search button on the right side of the search field.
+
+Right:
+
+* Wishlist icon + Wishlist
+* Shopping cart icon + Cart
+* Small cart quantity badge
+
+Keep the exact general proportions and alignment from the reference image.
+
+### 5. Navigation Bar
+
+Create a horizontal navigation menu underneath the main header.
+
+Include:
+
+* All Categories
+* Tools
+* Building Materials
+* Electrical
+* Plumbing
+* Hardware
+* Paint & Finishes
+* Safety Gear
+* Home Improvement
+* Outdoor & Garden
+
+On the far right, create a prominent pink button:
+
+**Deals & Offers**
+
+Use icons where appropriate.
+
+The navigation must be responsive. On mobile, convert it into a clean mobile navigation/menu while preserving the same visual style.
+
+### 6. Hero Section
+
+The hero section is extremely important.
+
+Recreate the reference image's large dark-blue hero banner.
+
+Left side should contain:
+
+Large heading:
+
+**Everything You Need
+To Build Better**
+
+The second line should have a brighter/light-blue emphasis similar to the reference.
+
+Below it:
+
+**Quality tools, trusted brands, and expert advice for every project — big or small.**
+
+Add a prominent pink button:
+
+**Shop Now →**
+
+Right side:
+Display a realistic hardware/tool workshop composition similar to the reference image.
+
+Include products such as:
+
+* Cordless drill
+* Screwdrivers
+* Pliers
+* Hammer
+* Tape measure
+* Level
+* Screws
+* Wooden boards
+* Other common hardware tools
+
+The hero should feel like a professional hardware store rather than a generic ecommerce template.
+
+Add the three service highlights along the bottom of the hero:
+
+**Fast Delivery**
+Across India
+
+**Genuine Products**
+100% Authentic
+
+**Expert Support**
+Always Here to Help
+
+Use simple white line icons.
+
+### 7. Category Section
+
+Immediately below the hero, create a horizontal category-card section.
+
+Each category should be represented by a white rounded card with a product/category image or icon.
+
+Categories:
+
+1. Tools
+2. Building Materials
+3. Electrical
+4. Plumbing
+5. Hardware
+6. Paint & Finishes
+7. Safety Gear
+8. Home Improvement
+9. Outdoor & Garden
+
+Keep the cards visually similar to the reference image.
+
+On desktop they should appear in one horizontal row.
+
+On smaller screens make them horizontally scrollable or use a responsive grid.
+
+### 8. Featured Products
+
+Create a section titled:
+
+**Featured Products**
+
+Put:
+
+**View All →**
+
+on the right side of the section heading.
+
+Create product cards matching the reference.
+
+Each card should contain:
+
+* Product image
+* Product name
+* Price in ₹
+* Blue "Add to Cart" button
+* Clean white card
+* Subtle border
+* Rounded corners
+* Consistent spacing
+
+Use realistic hardware products such as:
+
+* DeWalt Cordless Drill — ₹6,499
+* Stanley Tool Box — ₹1,299
+* Asian Paints Wall Paint — ₹2,899
+* Aluminium Ladder — ₹3,499
+* Socket Wrench Set — ₹2,499
+* Safety Helmet — ₹499
+
+The exact product names/prices can be changed later, but the visual layout should closely follow the reference.
+
+### 9. Promotional Banners
+
+Under the product cards, create two large promotional banners side-by-side on desktop.
+
+LEFT BANNER:
+
+Heading:
+
+**Strong Foundations
+Brighter Futures**
+
+Description:
+
+**Premium Building Materials
+for Every Project**
+
+Button:
+
+**Shop Building Materials →**
+
+Use imagery of:
+
+* Bricks
+* Cement
+* Construction materials
+* Steel/rebar
+* Building supplies
+
+RIGHT BANNER:
+
+Use a pink/light-pink background.
+
+Heading:
+
+**Add Color
+To Your Ideas**
+
+Description:
+
+**Wide Range of Paints & Finishes**
+
+Button:
+
+**Explore Paints →**
+
+Include realistic paint cans, paint rollers, brushes, and color swatches.
+
+On mobile, stack the banners vertically.
+
+### 10. Ecommerce Functionality
+
+This must NOT be just a static screenshot-style page.
+
+Build actual working frontend interactions.
+
+Implement:
+
+* Search functionality
+* Category filtering
+* Product cards
+* Add to Cart
+* Cart quantity updates
+* Cart drawer/page
+* Wishlist interaction
+* Product detail pages or modal
+* Navigation links
+* Deals section
+* Responsive mobile navigation
+* Buttons that actually work
+* Product filtering
+* Basic checkout flow UI
+
+Use realistic sample product data and organize it cleanly so it can easily be replaced with a real backend later.
+
+### 11. Product Images
+
+Use high-quality realistic hardware/product imagery.
+
+Do not use obviously broken images, random unrelated images, or low-quality placeholders.
+
+If external image URLs are used, make sure they work reliably.
+
+If necessary, use suitable placeholder/product imagery that visually matches the reference.
+
+### 12. Responsive Design
+
+The website must work beautifully on:
+
+* Desktop
+* Laptop
+* Tablet
+* Mobile
+
+Do not simply shrink the desktop version.
+
+On mobile:
+
+* Header should become compact
+* Search should remain usable
+* Navigation should become a menu
+* Product cards should adapt to screen width
+* Category cards should remain easy to browse
+* Promotional banners should stack
+* Hero content should remain readable
+* Buttons should be touch-friendly
+
+### 13. Code Quality
+
+Build this as a real production-quality frontend.
+
+Keep:
+
+* Components organized
+* Product data separated from UI
+* Reusable product-card components
+* Reusable buttons
+* Reusable category cards
+* Clean CSS
+* Responsive breakpoints
+* No unnecessary duplicated code
+
+Do not hardcode the entire page as one giant component.
+
+### 14. MOST IMPORTANT VISUAL REQUIREMENT
+
+The attached image is the design reference.
+
+Before considering the work complete, compare the implementation visually against the attached image.
+
+Pay particular attention to:
+
+* Header height
+* Navigation spacing
+* Hero proportions
+* Typography scale
+* Product-card dimensions
+* Category-card layout
+* Blue/pink color balance
+* Button sizes
+* Section spacing
+* Promotional banner proportions
+* Overall visual density
+
+I want the final website to feel like the **same website shown in the reference image**, not merely a website that happens to be about hardware.
+
+Do not add unrelated sections or radically different design elements unless they are necessary for functionality.
+
+### 15. Final Result
+
+The final result should look like a professional Indian hardware/building-materials ecommerce store.
+
+Brand:
+
+**BuildRight Hardware Store**
+
+Visual identity:
+
+**Deep Blue + Bright Blue + Pink + White**
+
+Style:
+
+**Modern + Premium + Clean + Professional + Ecommerce**
+
+Use the attached image continuously as the visual source of truth while implementing the website.

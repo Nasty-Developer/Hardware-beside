@@ -1,6 +1,6 @@
-# [Project name]
+# Shree Sawariya Store
 
-_Replace the heading above with the project's name, and this line with one sentence describing what this app does for users._
+Responsive ecommerce storefront for Shree Sawariya, an electrical and hardware store in Kurla West, Mumbai.
 
 ## Run & Operate
 
@@ -22,23 +22,28 @@ _Replace the heading above with the project's name, and this line with one sente
 
 ## Where things live
 
-_Populate as you build — short repo map plus pointers to the source-of-truth file for DB schema, API contracts, theme files, etc._
+- `artifacts/shree-sawariya-store/src/App.tsx` — storefront routes, cart, wishlist, checkout, store information, and shared layout
+- `artifacts/shree-sawariya-store/src/data/products.ts` — local product catalog and category data
+- `artifacts/shree-sawariya-store/src/index.css` — storefront theme and responsive layout utilities
+- `artifacts/shree-sawariya-store/index.html` — page title, SEO description, and social metadata
 
 ## Architecture decisions
 
-_Populate as you build — non-obvious choices a reader couldn't infer from the code (3-5 bullets)._
+- Product browsing, cart, wishlist, and checkout are intentionally client-side for this storefront prototype.
+- Store contact details are centralized in `App.tsx` so the address and phone stay consistent across the store section, footer, maps link, and click-to-call actions.
+- The imported visual system is preserved: deep blue, bright blue, white, and coral accents with responsive desktop/mobile layouts.
 
 ## Product
 
-_Describe the high-level user-facing capabilities of this app once they exist._
+Customers can browse categories and products, search the catalog, save wishlist items, add products to a cart, complete a demo checkout flow, and find or call the physical Shree Sawariya store.
 
 ## User preferences
 
-_Populate as you build — explicit user instructions worth remembering across sessions._
+- Use the real business identity “Shree Sawariya” everywhere; do not restore the imported template name.
 
 ## Gotchas
 
-_Populate as you build — sharp edges, "always run X before Y" rules._
+- The storefront workflow supplies `PORT` and `BASE_PATH`; use the managed workflow for the live preview.
 
 ## Pointers
 
