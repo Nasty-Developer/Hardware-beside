@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Shree Sawariya Store"
+description = "A responsive ecommerce storefront for Shree Sawariya, an electrical and hardware store serving customers in Kurla West, Mumbai with project essentials, tools, and everyday supplies."
+version = "1.0.0"
+id = "artifacts/shree-sawariya-store"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 21755
+
+[services.development]
+run = "pnpm --filter @workspace/shree-sawariya-store run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/shree-sawariya-store", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/shree-sawariya-store/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "21755"
+BASE_PATH = "/"
