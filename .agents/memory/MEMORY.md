@@ -1,1 +1,2 @@
 - [Project import handoff](project-import-handoff.md) — verify imported files are materialized in the active root after a conversation-to-project move.
+- [Uploaded reference crops](uploaded-reference-crops.md) — crop against intrinsic source pixels and verify rendered assets to remove scaled-preview UI remnants.

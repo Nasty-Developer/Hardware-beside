@@ -15,10 +15,12 @@ import {
   Heart,
   LampCeiling,
   Menu,
+  MessageCircle,
   Minus,
   PackageCheck,
   Paintbrush,
   Plus,
+  PhoneCall,
   Search,
   ShieldCheck,
   ShoppingCart,
@@ -33,6 +35,7 @@ import {
 } from "lucide-react";
 import {
   categories,
+  categoryReferenceImages,
   featuredProducts,
   products,
   type Product,
@@ -394,6 +397,116 @@ function CategoryStrip({ select }: { select?: (category: string) => void }) {
   );
 }
 
+function ReferenceCategoryHighlights() {
+  const highlightIds = [
+    "cat-power-tools",
+    "cat-door-hardware",
+    "cat-abrasives-cutting",
+    "cat-pipe-fittings",
+  ];
+
+  return (
+    <section className="bg-white py-8 sm:py-10">
+      <div className="br-container">
+        <div className="mb-5 flex items-end justify-between gap-4">
+          <div>
+            <p className="text-xs font-bold uppercase tracking-[.2em] text-[#f23868]">
+              Reference picks
+            </p>
+            <h2 className="mt-1 font-display text-2xl font-bold tracking-[-.03em] text-[#14283a]">
+              Shop by specialty
+            </h2>
+          </div>
+          <Link
+            href="/products"
+            className="flex items-center gap-1 text-xs font-bold text-[#07518b] hover:text-[#f23868]"
+          >
+            All Categories <ArrowRight size={15} />
+          </Link>
+        </div>
+        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+          {highlightIds.map((categoryId) => {
+            const category = categories.find((item) => item.id === categoryId);
+            const references = categoryReferenceImages[categoryId] ?? [];
+            if (!category || references.length === 0) return null;
+            return (
+              <Link
+                key={category.id}
+                href={`/products?category=${encodeURIComponent(category.label)}`}
+                className="group overflow-hidden rounded-xl border border-slate-200 bg-[#f7fbfd] transition hover:-translate-y-0.5 hover:border-[#9bcde3] hover:shadow-[0_10px_28px_rgba(7,81,139,.1)]"
+              >
+                <div className="grid h-40 gap-1 bg-white p-2 [grid-template-columns:repeat(2,minmax(0,1fr))]">
+                  {references.map((reference, index) => (
+                    <div
+                      key={reference.label}
+                      className={`${references.length === 1 || index === 0 ? "row-span-2" : ""} overflow-hidden rounded-lg bg-white`}
+                    >
+                      <img
+                        src={reference.image}
+                        alt={reference.label}
+                        loading="lazy"
+                        decoding="async"
+                        className="h-full w-full object-contain transition duration-300 group-hover:scale-[1.03]"
+                      />
+                    </div>
+                  ))}
+                </div>
+                <div className="flex items-center justify-between gap-2 px-4 py-3">
+                  <div>
+                    <p className="text-sm font-bold text-[#14283a]">{category.label}</p>
+                    <p className="mt-0.5 text-[11px] text-slate-500">
+                      {references.map((reference) => reference.label).join(" · ")}
+                    </p>
+                  </div>
+                  <ChevronRight size={16} className="shrink-0 text-[#07518b]" />
+                </div>
+              </Link>
+            );
+          })}
+        </div>
+      </div>
+    </section>
+  );
+}
+
+function CategoryDirectory() {
+  return (
+    <section className="mt-7 rounded-xl border border-[#c9e1eb] bg-[#f0f6fa] p-4 sm:p-5">
+      <div className="mb-4">
+        <p className="text-xs font-bold uppercase tracking-[.18em] text-[#f23868]">
+          Browse the full range
+        </p>
+        <h2 className="mt-1 font-display text-2xl font-bold tracking-[-.03em] text-[#14283a]">
+          All Categories
+        </h2>
+        <p className="mt-1 text-sm text-slate-500">
+          Explore electrical, hardware, plumbing, tools, and project supplies.
+        </p>
+      </div>
+      <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">
+        {categories.map((category) => (
+          <Link
+            key={category.id}
+            href={`/products?category=${encodeURIComponent(category.label)}`}
+            className="group rounded-lg border border-white bg-white p-3 transition hover:-translate-y-0.5 hover:border-[#9bcde3] hover:shadow-[0_8px_20px_rgba(7,81,139,.08)]"
+          >
+            <ProductArt kind={category.art} image={category.image} />
+            <div className="mt-2 flex items-start justify-between gap-2">
+              <span className="text-xs font-bold leading-4 text-[#14283a]">
+                {category.label}
+              </span>
+              <ChevronRight size={14} className="mt-0.5 shrink-0 text-[#07518b]" />
+            </div>
+            <span className="mt-1 block text-[10px] text-slate-400">
+              {category.count} items
+            </span>
+          </Link>
+        ))}
+      </div>
+    </section>
+  );
+}
+
 function ProductCard({
   product,
   wished,
@@ -687,6 +800,61 @@ function StoreInfo() {
                 className="mt-3 inline-flex items-center gap-2 font-bold text-[#07518b] hover:text-[#f23868]"
               >
                 <PhoneIcon /> {STORE_PHONE}
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+}
+
+function NeedProductSection() {
+  const whatsappUrl = `https://wa.me/${STORE_PHONE}?text=${encodeURIComponent(
+    "Hi Shree Sawariya, I need help finding a product.",
+  )}`;
+
+  return (
+    <section id="need-product" className="bg-[#e7f4fa] py-9 sm:py-12">
+      <div className="br-container">
+        <div className="relative overflow-hidden rounded-2xl bg-[#07518b] px-5 py-8 text-white shadow-[0_14px_34px_rgba(7,81,139,.18)] sm:px-10 sm:py-9">
+          <div className="absolute -right-20 -top-24 h-64 w-64 rounded-full border-[28px] border-white/10" />
+          <div className="absolute -bottom-32 right-28 h-64 w-64 rounded-full border-[20px] border-[#6dd6ff]/10" />
+          <div className="relative z-10 flex flex-col justify-between gap-6 md:flex-row md:items-center">
+            <div>
+              <p className="text-xs font-bold uppercase tracking-[.2em] text-[#a8e6ff]">
+                Personal product support
+              </p>
+              <h2 className="mt-2 font-display text-3xl font-bold tracking-[-.04em] sm:text-4xl">
+                Need Any Other Product?
+              </h2>
+              <p className="mt-2 text-sm text-blue-100 sm:text-base">
+                Can't find what you're looking for?
+                <br className="sm:hidden" /> Call us and we'll help you find it.
+              </p>
+              <a
+                href={`tel:${STORE_PHONE}`}
+                className="mt-4 inline-flex items-center gap-2 text-lg font-bold text-white hover:text-[#ffb2c4]"
+              >
+                <PhoneCall size={19} /> {STORE_PHONE}
+              </a>
+            </div>
+            <div className="flex flex-col gap-3 sm:flex-row">
+              <a
+                href={`tel:${STORE_PHONE}`}
+                data-testid="link-need-product-call"
+                className="inline-flex items-center justify-center gap-2 rounded-lg bg-[#f23868] px-5 py-3 text-sm font-bold text-white transition hover:bg-[#ff557e]"
+              >
+                <PhoneCall size={17} /> Call Us
+              </a>
+              <a
+                href={whatsappUrl}
+                target="_blank"
+                rel="noreferrer"
+                data-testid="link-need-product-whatsapp"
+                className="inline-flex items-center justify-center gap-2 rounded-lg bg-white px-5 py-3 text-sm font-bold text-[#07518b] transition hover:bg-[#e7f7ff]"
+              >
+                <MessageCircle size={17} /> WhatsApp Us
               </a>
             </div>
           </div>
@@ -1147,24 +1315,12 @@ function HomePage(props: StoreState) {
     <>
       <Hero />
       <CategoryStrip select={props.setCategory} />
+      <ReferenceCategoryHighlights />
       <ProductSection {...props} />
       <PromotionalBands />
       <TrustStrip />
       <StoreInfo />
-      <section className="bg-[#f0f6fa] py-8 text-center">
-        <h2 className="font-display text-2xl font-bold text-[#14283a]">
-          Need help choosing the right product?
-        </h2>
-        <p className="mt-2 text-sm text-slate-600">
-          Talk to a {STORE_NAME} expert before you buy.
-        </p>
-        <button
-          data-testid="button-talk-expert"
-          className="mt-4 rounded bg-[#07518b] px-5 py-2.5 text-sm font-bold text-white"
-        >
-          Talk to an Expert
-        </button>
-      </section>
+      <NeedProductSection />
       <Footer />
     </>
   );
@@ -1284,7 +1440,7 @@ function ProductsPage(props: StoreState) {
             src={categoryInfo.image}
             alt=""
             loading="lazy"
-            className="h-28 w-full rounded-lg object-cover sm:h-24"
+            className="h-28 w-full rounded-lg bg-white object-contain p-2 sm:h-24"
           />
           <div>
             <p className="text-sm leading-6 text-slate-600">
@@ -1294,6 +1450,42 @@ function ProductsPage(props: StoreState) {
               {categoryInfo.count} catalogue entries · one representative image
               reused across this category
             </p>
+          </div>
+        </section>
+      )}
+      {!category && !search && <CategoryDirectory />}
+      {category && categoryReferenceImages[categoryInfo?.id ?? ""] && (
+        <section className="mt-6 rounded-xl border border-slate-200 bg-white p-4 sm:p-5">
+          <div className="mb-4">
+            <p className="text-xs font-bold uppercase tracking-[.18em] text-[#f23868]">
+              Category references
+            </p>
+            <h2 className="mt-1 font-display text-xl font-bold text-[#14283a]">
+              {category} examples
+            </h2>
+          </div>
+          <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+            {(categoryReferenceImages[categoryInfo?.id ?? ""] ?? []).map(
+              (reference) => (
+                <div
+                  key={reference.label}
+                  className="overflow-hidden rounded-lg border border-slate-200 bg-[#f7fbfd]"
+                >
+                  <div className="h-40 bg-white p-2 sm:h-48">
+                    <img
+                      src={reference.image}
+                      alt={reference.label}
+                      loading="lazy"
+                      decoding="async"
+                      className="h-full w-full object-contain"
+                    />
+                  </div>
+                  <p className="px-3 py-2 text-xs font-bold text-[#14283a]">
+                    {reference.label}
+                  </p>
+                </div>
+              ),
+            )}
           </div>
         </section>
       )}

@@ -37,6 +37,12 @@ import categoryImage34 from "../assets/catalog/34-chains-ropes-general-utility.p
 import categoryImage35 from "../assets/catalog/35-kitchen-hardware-fittings.png";
 import categoryImage36 from "../assets/catalog/36-electrical-accessories.png";
 import categoryImage37 from "../assets/catalog/37-home-repair-diy.png";
+import angleGrinderReferenceImage from "../assets/reference/angle-grinder.jpg";
+import gateFittingReferenceImage from "../assets/reference/gate-fitting.jpg";
+import dewaltCuttingMachineReferenceImage from "../assets/reference/dewalt-cutting-machine.jpg";
+import boschMetalCuttingMachineReferenceImage from "../assets/reference/bosch-metal-cutting-machine.jpg";
+import yuriCuttingWheelReferenceImage from "../assets/reference/yuri-cutting-wheel.jpg";
+import pvcCpvcFittingsReferenceImage from "../assets/reference/pvc-cpvc-plumbing-fittings.jpg";
 
 export type Product = {
   id: string;
@@ -59,6 +65,11 @@ export type Product = {
   searchText: string;
 };
 
+export type CategoryReference = {
+  label: string;
+  image: string;
+};
+
 export const categories = [
   { id: "cat-electrical-wires-cables", label: "Electrical Wires & Cables", art: "bulb", image: categoryImage1, description: "Browse electrical wires & cables for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
   { id: "cat-switches-sockets", label: "Switches & Sockets", art: "bulb", image: categoryImage2, description: "Browse switches & sockets for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
@@ -67,16 +78,16 @@ export const categories = [
   { id: "cat-led-lighting", label: "LED Lighting", art: "bulb", image: categoryImage5, description: "Browse led lighting for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
   { id: "cat-fans-geysers-electrical-appliances", label: "Fans Geysers & Electrical Appliances", art: "bulb", image: categoryImage6, description: "Browse fans geysers & electrical appliances for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
   { id: "cat-plumbing-pipes", label: "Plumbing Pipes", art: "tap", image: categoryImage7, description: "Browse plumbing pipes for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
-  { id: "cat-pipe-fittings", label: "Pipe Fittings", art: "tap", image: categoryImage8, description: "Browse pipe fittings for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
+  { id: "cat-pipe-fittings", label: "Pipe Fittings", art: "tap", image: pvcCpvcFittingsReferenceImage, description: "Browse pipe fittings for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
   { id: "cat-valves-taps-plumbing-controls", label: "Valves Taps & Plumbing Controls", art: "tap", image: categoryImage9, description: "Browse valves taps & plumbing controls for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
   { id: "cat-sanitary-bathroom-fittings", label: "Sanitary & Bathroom Fittings", art: "tap", image: categoryImage10, description: "Browse sanitary & bathroom fittings for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
   { id: "cat-hand-tools", label: "Hand Tools", art: "drill", image: categoryImage11, description: "Browse hand tools for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
-  { id: "cat-power-tools", label: "Power Tools", art: "drill", image: categoryImage12, description: "Browse power tools for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
+  { id: "cat-power-tools", label: "Power Tools", art: "drill", image: angleGrinderReferenceImage, description: "Browse power tools for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
   { id: "cat-tool-accessories-blades", label: "Tool Accessories & Blades", art: "drill", image: categoryImage13, description: "Browse tool accessories & blades for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
   { id: "cat-fasteners-screws", label: "Fasteners Screws", art: "socket", image: categoryImage14, description: "Browse fasteners screws for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
   { id: "cat-fasteners-nuts-bolts-washers", label: "Fasteners Nuts Bolts Washers", art: "socket", image: categoryImage15, description: "Browse fasteners nuts bolts washers for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
   { id: "cat-anchors-rivets-nails", label: "Anchors Rivets & Nails", art: "socket", image: categoryImage16, description: "Browse anchors rivets & nails for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
-  { id: "cat-door-hardware", label: "Door Hardware", art: "socket", image: categoryImage17, description: "Browse door hardware for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
+  { id: "cat-door-hardware", label: "Door Hardware", art: "socket", image: gateFittingReferenceImage, description: "Browse door hardware for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
   { id: "cat-locks-security-hardware", label: "Locks & Security Hardware", art: "socket", image: categoryImage18, description: "Browse locks & security hardware for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
   { id: "cat-furniture-cabinet-hardware", label: "Furniture & Cabinet Hardware", art: "socket", image: categoryImage19, description: "Browse furniture & cabinet hardware for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
   { id: "cat-adhesives-sealants-tapes", label: "Adhesives Sealants & Tapes", art: "paint", image: categoryImage20, description: "Browse adhesives sealants & tapes for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
@@ -87,7 +98,7 @@ export const categories = [
   { id: "cat-plywood-boards-laminates", label: "Plywood Boards & Laminates", art: "brick", image: categoryImage25, description: "Browse plywood boards & laminates for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
   { id: "cat-glass-aluminium-glazing-hardware", label: "Glass Aluminium & Glazing Hardware", art: "box", image: categoryImage26, description: "Browse glass aluminium & glazing hardware for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
   { id: "cat-welding-metalwork-supplies", label: "Welding & Metalwork Supplies", art: "socket", image: categoryImage27, description: "Browse welding & metalwork supplies for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
-  { id: "cat-abrasives-cutting", label: "Abrasives & Cutting", art: "socket", image: categoryImage28, description: "Browse abrasives & cutting for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
+  { id: "cat-abrasives-cutting", label: "Abrasives & Cutting", art: "socket", image: yuriCuttingWheelReferenceImage, description: "Browse abrasives & cutting for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
   { id: "cat-safety-ppe", label: "Safety PPE", art: "helmet", image: categoryImage29, description: "Browse safety ppe for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
   { id: "cat-ladders-access-equipment", label: "Ladders & Access Equipment", art: "ladder", image: categoryImage30, description: "Browse ladders & access equipment for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
   { id: "cat-measuring-marking-tools", label: "Measuring & Marking Tools", art: "drill", image: categoryImage31, description: "Browse measuring & marking tools for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
@@ -98,6 +109,23 @@ export const categories = [
   { id: "cat-electrical-accessories", label: "Electrical Accessories", art: "bulb", image: categoryImage36, description: "Browse electrical accessories for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
   { id: "cat-home-repair-diy", label: "Home Repair & DIY", art: "box", image: categoryImage37, description: "Browse home repair & diy for home repairs, trade work, and building projects. Catalogue pricing is an estimate and availability should be confirmed with the store.", count: 81 },
 ] as const;
+
+export const categoryReferenceImages: Record<string, CategoryReference[]> = {
+  "cat-power-tools": [
+    { label: "Angle Grinders", image: angleGrinderReferenceImage },
+    { label: "Cut-Off Machines", image: dewaltCuttingMachineReferenceImage },
+    { label: "Metal Cutting Machines", image: boschMetalCuttingMachineReferenceImage },
+  ],
+  "cat-door-hardware": [
+    { label: "Gate Fittings", image: gateFittingReferenceImage },
+  ],
+  "cat-abrasives-cutting": [
+    { label: "Cutting Discs", image: yuriCuttingWheelReferenceImage },
+  ],
+  "cat-pipe-fittings": [
+    { label: "PVC / CPVC Plumbing Fittings", image: pvcCpvcFittingsReferenceImage },
+  ],
+};
 
 export const products: Product[] = [
   { id: "electrical-wires-cables-001", categoryId: "cat-electrical-wires-cables", name: "FR House Wire - 6 mm", category: "Electrical Wires & Cables", specification: "6 mm", price: 300, rating: 0, reviews: 0, art: "bulb" as Product['art'], image: categoryImage1, description: "FR House Wire for practical electrical wires & cables work. This catalogue listing uses the 6 mm specification.", pack: "6 mm", stockStatus: "Available to order", priceIsEstimate: true, keywords: "6, cables, electrical, fr, house, mm, wire, wires", searchText: "fr house wire - 6 mm electrical wires & cables 6 mm 6 cables electrical fr house mm wire wires" },
