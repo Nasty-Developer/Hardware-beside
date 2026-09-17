@@ -44,7 +44,9 @@ import heroToolsImage from "../attached_assets/generated_images/shree-sawariya-h
 
 const money = (value: number) => `₹${value.toLocaleString("en-IN")}`;
 const STORE_NAME = "Shree Sawariya";
-const STORE_PHONE = "9136211245";
+const STORE_PHONE = "+91 91362 11245";
+const STORE_PHONE_LINK = "919136211245";
+const WHATSAPP_NUMBER = "919136211245";
 const STORE_ADDRESS =
   "Halav Pool Road, Opp. Rolex Hotel, Kurla (West), Mumbai - 400070, Maharashtra, India";
 
@@ -512,12 +514,14 @@ function ProductCard({
   wished,
   onWish,
   onAdd,
+  onOrder,
   onOpen,
 }: {
   product: Product;
   wished: boolean;
   onWish: () => void;
   onAdd: () => void;
+  onOrder: () => void;
   onOpen: () => void;
 }) {
   return (
@@ -573,13 +577,22 @@ function ProductCard({
           </del>
         )}
       </div>
-      <button
-        onClick={onAdd}
-        data-testid={`button-add-cart-${product.id}`}
-        className="mt-3 flex h-9 items-center justify-center rounded bg-[#07518b] text-xs font-bold text-white transition hover:bg-[#053b67]"
-      >
-        Add to Cart
-      </button>
+      <div className="mt-3 grid grid-cols-2 gap-2">
+        <button
+          onClick={onOrder}
+          data-testid={`button-order-now-${product.id}`}
+          className="flex h-9 items-center justify-center gap-1 rounded border border-[#07518b] px-2 text-[11px] font-bold text-[#07518b] transition hover:bg-[#e7f4fa]"
+        >
+          <MessageCircle size={14} /> Order Now
+        </button>
+        <button
+          onClick={onAdd}
+          data-testid={`button-add-cart-${product.id}`}
+          className="flex h-9 items-center justify-center rounded bg-[#07518b] px-2 text-[11px] font-bold text-white transition hover:bg-[#053b67]"
+        >
+          Add to Cart
+        </button>
+      </div>
     </article>
   );
 }
@@ -588,6 +601,7 @@ function ProductSection({
   wished,
   toggleWish,
   addToCart,
+  orderProduct,
   openProduct,
   productsToShow = featuredProducts,
   title = "Featured Products",
@@ -596,6 +610,7 @@ function ProductSection({
   wished: Set<string>;
   toggleWish: (id: string) => void;
   addToCart: (product: Product) => void;
+  orderProduct: (product: Product) => void;
   openProduct: (product: Product) => void;
   productsToShow?: Product[];
   title?: string;
@@ -629,6 +644,7 @@ function ProductSection({
               wished={wished.has(product.id)}
               onWish={() => toggleWish(product.id)}
               onAdd={() => addToCart(product)}
+              onOrder={() => orderProduct(product)}
               onOpen={() => openProduct(product)}
             />
           ))}
@@ -722,9 +738,9 @@ function TrustStrip() {
         <div className="flex items-center gap-3">
           <ShieldCheck className="text-[#07518b]" />
           <span>
-            <b className="block text-sm">Secure Payments</b>
+            <b className="block text-sm">Simple Ordering</b>
             <small className="text-xs text-slate-500">
-              Safe & encrypted checkout
+              Request sent on WhatsApp
             </small>
           </span>
         </div>
@@ -769,7 +785,7 @@ function StoreInfo() {
               <Building2 size={17} /> Get Directions
             </a>
             <a
-              href={`tel:${STORE_PHONE}`}
+              href={`tel:${STORE_PHONE_LINK}`}
               data-testid="link-call-store"
               className="inline-flex items-center gap-2 rounded border border-[#07518b] bg-white px-5 py-3 text-sm font-bold text-[#07518b] transition hover:bg-[#e3f2f8]"
             >
@@ -796,7 +812,7 @@ function StoreInfo() {
                 Maharashtra, India
               </p>
               <a
-                href={`tel:${STORE_PHONE}`}
+                href={`tel:${STORE_PHONE_LINK}`}
                 className="mt-3 inline-flex items-center gap-2 font-bold text-[#07518b] hover:text-[#f23868]"
               >
                 <PhoneIcon /> {STORE_PHONE}
@@ -810,10 +826,6 @@ function StoreInfo() {
 }
 
 function NeedProductSection() {
-  const whatsappUrl = `https://wa.me/${STORE_PHONE}?text=${encodeURIComponent(
-    "Hi Shree Sawariya, I need help finding a product.",
-  )}`;
-
   return (
     <section id="need-product" className="bg-[#e7f4fa] py-9 sm:py-12">
       <div className="br-container">
@@ -833,7 +845,7 @@ function NeedProductSection() {
                 <br className="sm:hidden" /> Call us and we'll help you find it.
               </p>
               <a
-                href={`tel:${STORE_PHONE}`}
+                href={`tel:${STORE_PHONE_LINK}`}
                 className="mt-4 inline-flex items-center gap-2 text-lg font-bold text-white hover:text-[#ffb2c4]"
               >
                 <PhoneCall size={19} /> {STORE_PHONE}
@@ -841,21 +853,19 @@ function NeedProductSection() {
             </div>
             <div className="flex flex-col gap-3 sm:flex-row">
               <a
-                href={`tel:${STORE_PHONE}`}
+                href={`tel:${STORE_PHONE_LINK}`}
                 data-testid="link-need-product-call"
                 className="inline-flex items-center justify-center gap-2 rounded-lg bg-[#f23868] px-5 py-3 text-sm font-bold text-white transition hover:bg-[#ff557e]"
               >
                 <PhoneCall size={17} /> Call Us
               </a>
-              <a
-                href={whatsappUrl}
-                target="_blank"
-                rel="noreferrer"
+              <Link
+                href="/order"
                 data-testid="link-need-product-whatsapp"
                 className="inline-flex items-center justify-center gap-2 rounded-lg bg-white px-5 py-3 text-sm font-bold text-[#07518b] transition hover:bg-[#e7f7ff]"
               >
-                <MessageCircle size={17} /> WhatsApp Us
-              </a>
+                <MessageCircle size={17} /> Order via WhatsApp
+              </Link>
             </div>
           </div>
         </div>
@@ -882,7 +892,7 @@ function Footer() {
              Maharashtra, India
            </p>
            <a
-             href={`tel:${STORE_PHONE}`}
+                href={`tel:${STORE_PHONE_LINK}`}
              className="mt-3 inline-flex items-center gap-2 text-xs font-semibold text-white hover:text-[#ff9ab3]"
            >
              <PhoneIcon /> {STORE_PHONE}
@@ -905,7 +915,7 @@ function Footer() {
         <div>
           <h4 className="mb-3 font-bold text-white">Help & Support</h4>
           <div className="space-y-2 text-xs">
-             <a href={`tel:${STORE_PHONE}`} className="block hover:text-white">Contact</a>
+              <a href={`tel:${STORE_PHONE_LINK}`} className="block hover:text-white">Contact</a>
              <a href="#store" className="block hover:text-white">Store Location</a>
              <span className="block">Privacy Policy</span>
              <span className="block">Terms</span>
@@ -1011,9 +1021,10 @@ function ProductModal({
 
 function ProductDetailPage({
   addToCart,
+  orderProduct,
   toggleWish,
   wished,
-}: Pick<StoreState, "addToCart" | "toggleWish" | "wished">) {
+}: Pick<StoreState, "addToCart" | "orderProduct" | "toggleWish" | "wished">) {
   const { id } = useParams<{ id: string }>();
   const [, navigate] = useLocation();
   const product = products.find((item) => item.id === id);
@@ -1139,6 +1150,17 @@ function ProductDetailPage({
               <ShoppingCart size={17} /> Add to Cart
             </button>
             <button
+              data-testid={`button-detail-order-${product.id}`}
+              onClick={() =>
+                navigate(
+                  `/order?product=${encodeURIComponent(product.id)}&quantity=${quantity}`,
+                )
+              }
+              className="flex flex-1 items-center justify-center gap-2 rounded border border-[#07518b] px-5 py-3 text-sm font-bold text-[#07518b] transition hover:bg-[#e7f4fa]"
+            >
+              <MessageCircle size={17} /> Order Now
+            </button>
+            <button
               data-testid={`button-detail-wishlist-${product.id}`}
               onClick={() => toggleWish(product.id)}
               className={`rounded border p-3 ${isWished ? "border-[#f23868] text-[#f23868]" : "border-slate-300 text-slate-600"}`}
@@ -1175,6 +1197,7 @@ function ProductDetailPage({
               wished={wished.has(item.id)}
               onWish={() => toggleWish(item.id)}
               onAdd={() => addToCart(item)}
+              onOrder={() => orderProduct(item)}
               onOpen={() => navigate(`/product/${item.id}`)}
             />
           ))}
@@ -1301,7 +1324,7 @@ function CartDrawer({
               onClick={checkout}
               className="mt-4 flex w-full items-center justify-center gap-2 rounded bg-[#f23868] py-3 text-sm font-bold text-white hover:bg-[#d92856]"
             >
-              Proceed to Checkout <ArrowRight size={17} />
+              <MessageCircle size={17} /> Order via WhatsApp
             </button>
           </div>
         )}
@@ -1330,6 +1353,7 @@ type StoreState = {
   wished: Set<string>;
   toggleWish: (id: string) => void;
   addToCart: (product: Product) => void;
+  orderProduct: (product: Product) => void;
   openProduct: (product: Product) => void;
   productsToShow?: Product[];
   setCategory: (category: string) => void;
@@ -1523,6 +1547,7 @@ function ProductsPage(props: StoreState) {
                   wished={props.wished.has(product.id)}
                   onWish={() => props.toggleWish(product.id)}
                   onAdd={() => props.addToCart(product)}
+                  onOrder={() => props.orderProduct(product)}
                   onOpen={() => props.openProduct(product)}
                 />
               ))}
@@ -1609,6 +1634,283 @@ function ProductsPage(props: StoreState) {
           </div>
         </div>
       )}
+    </main>
+  );
+}
+
+type OrderRequestValues = {
+  name: string;
+  mobile: string;
+  productName: string;
+  quantity: string;
+  address: string;
+  landmark: string;
+  deliveryNotes: string;
+};
+
+function OrderRequestPage({ cart }: { cart: Record<string, number> }) {
+  const [location] = useLocation();
+  const params = useMemo(
+    () => new URLSearchParams(window.location.search),
+    [location],
+  );
+  const product = products.find((item) => item.id === params.get("product"));
+  const cartItems = useMemo(
+    () =>
+      Object.entries(cart)
+        .map(([id, quantity]) => ({
+          product: products.find((item) => item.id === id),
+          quantity,
+        }))
+        .filter(
+          (item): item is { product: Product; quantity: number } =>
+            Boolean(item.product),
+        ),
+    [cart],
+  );
+  const requestedQuantity = Math.max(
+    1,
+    Number.parseInt(params.get("quantity") ?? "1", 10) || 1,
+  );
+  const defaults = useMemo<OrderRequestValues>(
+    () => ({
+      name: "",
+      mobile: "",
+      productName:
+        product?.name ??
+        cartItems
+          .map((item) => `${item.product.name} (Qty: ${item.quantity})`)
+          .join(", "),
+      quantity: product
+        ? String(requestedQuantity)
+        : String(
+            cartItems.reduce((total, item) => total + item.quantity, 0) || 1,
+          ),
+      address: "",
+      landmark: "",
+      deliveryNotes: "",
+    }),
+    [cartItems, product, requestedQuantity],
+  );
+  const [form, setForm] = useState<OrderRequestValues>(defaults);
+
+  useEffect(() => {
+    setForm(defaults);
+  }, [defaults]);
+
+  const summaryItems = product
+    ? [{ product, quantity: requestedQuantity }]
+    : cartItems;
+
+  const handleSubmit = (event: FormEvent) => {
+    event.preventDefault();
+    const message = [
+      "ORDER REQUEST - Shree Sawariya",
+      "",
+      `Name: ${form.name}`,
+      `Mobile Number: ${form.mobile}`,
+      `Product Name: ${form.productName}`,
+      `Quantity: ${form.quantity}`,
+      `Address: ${form.address}`,
+      `Landmark: ${form.landmark || "Not provided"}`,
+      `Delivery Notes: ${form.deliveryNotes || "Not provided"}`,
+      "",
+      "This is an order request. Please confirm availability, final price, and delivery details on WhatsApp.",
+    ].join("\n");
+    const whatsappUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(
+      message,
+    )}`;
+    const popup = window.open(whatsappUrl, "_blank", "noopener,noreferrer");
+    if (!popup) window.location.assign(whatsappUrl);
+  };
+
+  return (
+    <main className="br-container py-7 sm:py-10">
+      <div className="mb-7 flex items-center gap-2 text-xs font-semibold text-[#07518b]">
+        <Link href="/" data-testid="order-breadcrumb-home">
+          Home
+        </Link>
+        <ChevronRight size={13} />
+        <span>WhatsApp Order Request</span>
+      </div>
+      <div className="grid gap-7 lg:grid-cols-[minmax(0,1fr)_350px]">
+        <section>
+          <p className="text-xs font-bold uppercase tracking-[.2em] text-[#f23868]">
+            No online payment
+          </p>
+          <h1 className="mt-2 font-display text-3xl font-bold tracking-[-.04em] text-[#14283a] sm:text-4xl">
+            Send an Order Request
+          </h1>
+          <p className="mt-3 max-w-2xl text-sm leading-6 text-slate-600">
+            Share your details and we’ll open WhatsApp with a pre-filled
+            request for {STORE_NAME}. Your order is not confirmed until our
+            team replies.
+          </p>
+          <form
+            onSubmit={handleSubmit}
+            className="mt-7 rounded-xl border border-slate-200 bg-white p-5 shadow-[0_10px_30px_rgba(7,81,139,.06)] sm:p-7"
+          >
+            <div className="grid gap-4 sm:grid-cols-2">
+              <label className="text-sm font-semibold text-[#14283a]">
+                Name
+                <input
+                  required
+                  autoComplete="name"
+                  data-testid="input-order-name"
+                  value={form.name}
+                  onChange={(event) =>
+                    setForm((current) => ({ ...current, name: event.target.value }))
+                  }
+                  placeholder="Your full name"
+                  className="mt-2 w-full rounded-lg border border-slate-300 px-3 py-3 text-sm font-normal outline-none transition focus:border-[#07518b] focus:ring-2 focus:ring-[#07518b]/10"
+                />
+              </label>
+              <label className="text-sm font-semibold text-[#14283a]">
+                Mobile Number
+                <input
+                  required
+                  type="tel"
+                  inputMode="tel"
+                  autoComplete="tel"
+                  data-testid="input-order-mobile"
+                  value={form.mobile}
+                  onChange={(event) =>
+                    setForm((current) => ({ ...current, mobile: event.target.value }))
+                  }
+                  placeholder="+91 98765 43210"
+                  className="mt-2 w-full rounded-lg border border-slate-300 px-3 py-3 text-sm font-normal outline-none transition focus:border-[#07518b] focus:ring-2 focus:ring-[#07518b]/10"
+                />
+              </label>
+              <label className="text-sm font-semibold text-[#14283a] sm:col-span-2">
+                Product Name
+                <input
+                  required
+                  data-testid="input-order-product"
+                  value={form.productName}
+                  onChange={(event) =>
+                    setForm((current) => ({
+                      ...current,
+                      productName: event.target.value,
+                    }))
+                  }
+                  placeholder="What would you like to order?"
+                  className="mt-2 w-full rounded-lg border border-slate-300 px-3 py-3 text-sm font-normal outline-none transition focus:border-[#07518b] focus:ring-2 focus:ring-[#07518b]/10"
+                />
+              </label>
+              <label className="text-sm font-semibold text-[#14283a]">
+                Quantity
+                <input
+                  required
+                  min="1"
+                  type="number"
+                  inputMode="numeric"
+                  data-testid="input-order-quantity"
+                  value={form.quantity}
+                  onChange={(event) =>
+                    setForm((current) => ({ ...current, quantity: event.target.value }))
+                  }
+                  className="mt-2 w-full rounded-lg border border-slate-300 px-3 py-3 text-sm font-normal outline-none transition focus:border-[#07518b] focus:ring-2 focus:ring-[#07518b]/10"
+                />
+              </label>
+              <label className="text-sm font-semibold text-[#14283a] sm:col-span-2">
+                Address
+                <textarea
+                  required
+                  rows={3}
+                  autoComplete="street-address"
+                  data-testid="input-order-address"
+                  value={form.address}
+                  onChange={(event) =>
+                    setForm((current) => ({ ...current, address: event.target.value }))
+                  }
+                  placeholder="Full delivery address"
+                  className="mt-2 w-full resize-y rounded-lg border border-slate-300 px-3 py-3 text-sm font-normal outline-none transition focus:border-[#07518b] focus:ring-2 focus:ring-[#07518b]/10"
+                />
+              </label>
+              <label className="text-sm font-semibold text-[#14283a]">
+                Landmark <span className="font-normal text-slate-400">(optional)</span>
+                <input
+                  data-testid="input-order-landmark"
+                  value={form.landmark}
+                  onChange={(event) =>
+                    setForm((current) => ({ ...current, landmark: event.target.value }))
+                  }
+                  placeholder="Nearby landmark"
+                  className="mt-2 w-full rounded-lg border border-slate-300 px-3 py-3 text-sm font-normal outline-none transition focus:border-[#07518b] focus:ring-2 focus:ring-[#07518b]/10"
+                />
+              </label>
+              <label className="text-sm font-semibold text-[#14283a]">
+                Delivery Notes <span className="font-normal text-slate-400">(optional)</span>
+                <input
+                  data-testid="input-order-notes"
+                  value={form.deliveryNotes}
+                  onChange={(event) =>
+                    setForm((current) => ({
+                      ...current,
+                      deliveryNotes: event.target.value,
+                    }))
+                  }
+                  placeholder="Timing or delivery instructions"
+                  className="mt-2 w-full rounded-lg border border-slate-300 px-3 py-3 text-sm font-normal outline-none transition focus:border-[#07518b] focus:ring-2 focus:ring-[#07518b]/10"
+                />
+              </label>
+            </div>
+            <div className="mt-6 grid gap-3 sm:grid-cols-2">
+              <button
+                type="submit"
+                data-testid="button-order-via-whatsapp"
+                className="inline-flex min-h-12 items-center justify-center gap-2 rounded-lg bg-[#07518b] px-5 py-3 text-sm font-bold text-white transition hover:bg-[#053b67]"
+              >
+                <MessageCircle size={18} /> Order via WhatsApp
+              </button>
+              <a
+                href={`tel:${STORE_PHONE_LINK}`}
+                data-testid="link-order-call-us"
+                className="inline-flex min-h-12 items-center justify-center gap-2 rounded-lg border border-[#07518b] px-5 py-3 text-sm font-bold text-[#07518b] transition hover:bg-[#e7f4fa]"
+              >
+                <PhoneCall size={18} /> Call Us
+              </a>
+            </div>
+            <p className="mt-4 text-center text-xs leading-5 text-slate-500">
+              This sends an ORDER REQUEST to {STORE_NAME} via WhatsApp. No
+              online payment is processed and no order is marked confirmed.
+            </p>
+          </form>
+        </section>
+        <aside className="h-fit rounded-xl border border-[#c9e1eb] bg-[#f0f6fa] p-5 sm:p-6">
+          <p className="text-xs font-bold uppercase tracking-[.18em] text-[#f23868]">
+            Request summary
+          </p>
+          <h2 className="mt-2 font-display text-xl font-bold text-[#14283a]">
+            What you’re requesting
+          </h2>
+          {summaryItems.length ? (
+            <div className="mt-5 space-y-3">
+              {summaryItems.map((item) => (
+                <div key={item.product.id} className="flex items-center gap-3 rounded-lg bg-white p-3">
+                  <ProductArt kind={item.product.art} image={item.product.image} small />
+                  <div className="min-w-0">
+                    <p className="text-sm font-bold text-[#14283a]">{item.product.name}</p>
+                    <p className="mt-1 text-xs text-slate-500">Quantity: {item.quantity}</p>
+                  </div>
+                </div>
+              ))}
+            </div>
+          ) : (
+            <p className="mt-5 rounded-lg bg-white p-4 text-sm leading-6 text-slate-600">
+              Add a product name in the form and we’ll send it to the store team.
+            </p>
+          )}
+          <div className="mt-5 border-t border-[#c9e1eb] pt-4 text-sm leading-6 text-slate-600">
+            <p className="font-bold text-[#14283a]">WhatsApp order desk</p>
+            <p>{STORE_PHONE}</p>
+            <p className="mt-2 text-xs">
+              The store will confirm availability, final pricing, and delivery
+              details directly with you.
+            </p>
+          </div>
+        </aside>
+      </div>
     </main>
   );
 }
@@ -1859,6 +2161,7 @@ function WishlistPage(props: StoreState) {
                 wished
                 onWish={() => props.toggleWish(product.id)}
                 onAdd={() => props.addToCart(product)}
+                onOrder={() => props.orderProduct(product)}
                 onOpen={() => props.openProduct(product)}
               />
             ))}
@@ -1929,6 +2232,8 @@ function App() {
       wished,
       toggleWish,
       addToCart,
+      orderProduct: (product: Product) =>
+        navigate(`/order?product=${encodeURIComponent(product.id)}&quantity=1`),
       openProduct: (product: Product) => navigate(`/product/${product.id}`),
       setCategory,
     }),
@@ -1958,15 +2263,12 @@ function App() {
           component={() => <WishlistPage {...shared} />}
         />
         <Route
+          path="/order"
+          component={() => <OrderRequestPage cart={cart} />}
+        />
+        <Route
           path="/checkout"
-          component={() => (
-            <CheckoutPage
-              cart={cart}
-              change={changeCart}
-              remove={removeFromCart}
-              placeOrder={() => setCart({})}
-            />
-          )}
+          component={() => <OrderRequestPage cart={cart} />}
         />
         <Route path="/" component={() => <HomePage {...shared} />} />
         <Route component={() => <ProductsPage {...shared} />} />
@@ -1979,7 +2281,7 @@ function App() {
           remove={removeFromCart}
           checkout={() => {
             setCartOpen(false);
-            navigate("/checkout");
+            navigate("/order");
           }}
         />
       )}
